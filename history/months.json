@@ -1,0 +1,26 @@
+[
+  {
+    "month": "2026-10",
+    "label": "October 2026",
+    "file": "history/listings_2026-10.csv",
+    "listings": 8498,
+    "parks": 801,
+    "sites": 45,
+    "median_price": 46995,
+    "average_age": 5.5,
+    "with_postcode": 95.4,
+    "file_kb": 1449
+  },
+  {
+    "month": "2026-09",
+    "label": "September 2026",
+    "file": "history/listings_2026-09.csv",
+    "listings": 8675,
+    "parks": 744,
+    "sites": 44,
+    "median_price": 47500,
+    "average_age": 5.5,
+    "with_postcode": 96.3,
+    "file_kb": 1585
+  }
+]

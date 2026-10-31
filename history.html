@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Park information &middot; Static Caravan Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #16283A;
+    --navy: #122536;
+    --navy-deep: #0C1B29;
+    --cream: #F6F0E4;
+    --card: #FFFDF8;
+    --mustard: #E8A93D;
+    --mustard-dark: #8A5F1E;
+    --teal: #1F6F6E;
+    --coral: #C6503F;
+    --line: #DFD5C1;
+    --muted: #6B6558;
+    --font-display: 'Bebas Neue', sans-serif;
+    --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    background: var(--cream);
+    color: var(--ink);
+    line-height: 1.5;
+  }
+
+  a { color: var(--teal); }
+
+  /* ---------- Header (shared across the site) ---------- */
+  header.hero {
+    position: relative;
+    overflow: hidden;
+    background: var(--navy-deep);
+    color: var(--cream);
+    padding: 0 0 28px;
+  }
+
+  /* soft colour wash + fine texture, all in CSS so nothing extra to load */
+  header.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(90ch 50ch at 88% -10%, rgba(232, 169, 61, 0.22), transparent 62%),
+      radial-gradient(80ch 46ch at 4% 106%, rgba(31, 111, 110, 0.42), transparent 64%),
+      linear-gradient(160deg, #16304A 0%, var(--navy) 46%, var(--navy-deep) 100%);
+  }
+
+  header.hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    opacity: 0.05;
+    background-image:
+      repeating-linear-gradient(135deg, rgba(246, 240, 228, 0.9) 0 1px, transparent 1px 9px);
+  }
+
+  /* ---------- Top bar ---------- */
+  .topbar-wrap {
+    position: relative;
+    z-index: 3;
+    border-bottom: 1px solid rgba(246, 240, 228, 0.14);
+  }
+
+  .topbar {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 15px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px 22px;
+  }
+
+  .topbar-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    text-decoration: none;
+    color: var(--cream);
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 21px;
+    letter-spacing: 0.03em;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  .topbar-brand .mark {
+    width: 9px;
+    height: 9px;
+    border-radius: 2px;
+    background: var(--mustard);
+    transform: rotate(45deg);
+    flex-shrink: 0;
+  }
+
+  nav.topbar-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+  }
+
+  nav.topbar-nav a {
+    color: #C3D0DA;
+    text-decoration: none;
+    font-size: 12.5px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 3px;
+    transition: color 0.16s ease, border-color 0.16s ease;
+  }
+
+  nav.topbar-nav a:hover { color: var(--mustard); }
+  nav.topbar-nav a.active { color: var(--mustard); border-bottom-color: var(--mustard); }
+  nav.topbar-nav a:focus-visible { outline: 2px solid var(--mustard); outline-offset: 3px; border-radius: 2px; }
+
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 24px 0;
+  }
+
+  .hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 11.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--mustard);
+    font-weight: 600;
+    background: rgba(232, 169, 61, 0.12);
+    border: 1px solid rgba(232, 169, 61, 0.34);
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin: 0 0 16px;
+  }
+  .hero-eyebrow .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--mustard);
+  }
+
+  h1.hero-title {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: clamp(44px, 8vw, 76px);
+    letter-spacing: 0.005em;
+    margin: 0 0 12px;
+    line-height: 0.9;
+  }
+  h1.hero-title .accent { color: var(--mustard); }
+
+  .hero-sub {
+    font-size: 16.5px;
+    color: #CFDAE2;
+    max-width: 52ch;
+    margin: 0;
+  }
+
+  @media (max-width: 640px) {
+    header.hero { padding: 0 0 24px; }
+    .hero-inner { padding-top: 32px; }
+    .topbar { gap: 10px 16px; }
+    nav.topbar-nav { gap: 14px; }
+    nav.topbar-nav a { font-size: 11.5px; }
+  }
+
+
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 24px 60px;
+  }
+
+  .page-eyebrow {
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--teal);
+    font-weight: 600;
+    margin: 0 0 4px;
+  }
+
+  h2.page-title {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: clamp(32px, 6vw, 48px);
+    letter-spacing: 0.01em;
+    margin: 0 0 6px;
+    line-height: 0.95;
+  }
+
+  .page-intro {
+    color: var(--muted);
+    font-size: 14.5px;
+    max-width: 62ch;
+    margin: 0 0 26px;
+  }
+
+  .page-intro strong { color: var(--ink); }
+  .park-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 0;
+    padding: 0;
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--teal);
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 18px;
+  }
+  .park-back:hover { text-decoration: underline; }
+
+  .park-sections {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+    align-items: start;
+    margin-top: 28px;
+  }
+
+  .park-panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 22px 24px 24px;
+  }
+
+  .park-panel h3 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 28px;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    margin: 0 0 4px;
+  }
+
+  .park-panel .panel-sub {
+    font-size: 12.5px;
+    color: var(--muted);
+    margin: 0 0 18px;
+  }
+
+  .park-row {
+    display: flex;
+    gap: 14px;
+    align-items: baseline;
+    padding: 9px 0;
+    border-top: 1px solid var(--line);
+    font-size: 14.5px;
+  }
+  .park-row:first-of-type { border-top: 0; }
+  .park-row .k {
+    flex: 0 0 110px;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .park-row .v { flex: 1 1 auto; word-break: break-word; }
+  .park-row .v a { font-weight: 600; }
+  .park-row .v .none { color: var(--muted); }
+
+  .fee-figure {
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 1.1;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+  .fee-note {
+    font-size: 12.5px;
+    color: var(--mustard-dark);
+    background: rgba(232, 169, 61, 0.14);
+    border-left: 3px solid var(--mustard);
+    padding: 9px 12px;
+    border-radius: 0 6px 6px 0;
+    margin: 18px 0 0;
+  }
+
+  .park-actions {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 26px;
+  }
+  .park-btn {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: var(--cream);
+    background: var(--ink);
+    text-decoration: none;
+    padding: 11px 18px;
+    border-radius: 7px;
+    line-height: 1;
+    border: 1px solid var(--ink);
+  }
+  .park-btn:hover { background: #234e78; color: var(--cream); }
+  .park-btn.ghost { color: var(--ink); background: transparent; }
+  .park-btn.ghost:hover { color: var(--cream); background: var(--ink); }
+
+  .park-error {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 26px;
+    color: var(--muted);
+    font-size: 14.5px;
+  }
+
+  /* ---------- Caravan listings (embedded from caravans.html) ---------- */
+  .listings-section { margin-top: 40px; }
+
+  .listings-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 14px 20px;
+    margin-bottom: 18px;
+  }
+
+  .listings-head h3 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    margin: 0 0 4px;
+  }
+
+  .listings-head .panel-sub { font-size: 12.5px; color: var(--muted); margin: 0; }
+
+  .field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .field label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .field select {
+    font-family: var(--font-body);
+    font-size: 14px;
+    padding: 9px 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--card);
+    color: var(--ink);
+    min-width: 190px;
+  }
+  .field select:focus { outline: 2px solid var(--teal); outline-offset: 1px; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 18px;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .card-name { font-size: 16px; font-weight: 700; margin: 0 0 2px; }
+  .card-name-link { color: inherit; text-decoration: none; }
+  .card-name-link:hover, .card-name-link:focus-visible { color: var(--teal); text-decoration: underline; }
+  .card-make { font-size: 13px; color: var(--muted); margin: 0; }
+
+  .price-tag {
+    flex-shrink: 0;
+    background: var(--mustard);
+    color: var(--mustard-dark);
+    font-weight: 700;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+    padding: 6px 10px 6px 12px;
+    border-radius: 4px;
+    border-left: 2px dashed rgba(138, 95, 30, 0.5);
+    transform: rotate(-1.5deg);
+    white-space: nowrap;
+  }
+
+  .card-meta {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 13px;
+    color: var(--ink);
+  }
+  .card-meta li { display: flex; align-items: center; gap: 7px; }
+  .card-meta svg { flex-shrink: 0; width: 14px; height: 14px; color: var(--teal); }
+
+  .card-footer {
+    border-top: 1px solid var(--line);
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .card-source { font-size: 11px; color: var(--muted); }
+  .card-link { font-size: 13px; font-weight: 600; text-decoration: none; white-space: nowrap; }
+  .card-link:hover { text-decoration: underline; }
+
+  .listings-count { font-size: 13px; color: var(--muted); margin: 0 0 14px; }
+
+  /* ---------- Pagination ---------- */
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 16px 0 0;
+  }
+  .pagination-info { font-size: 13px; color: var(--muted); }
+  .pagination-controls { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+
+  .page-btn, .page-num-btn {
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 7px 11px;
+    cursor: pointer;
+    line-height: 1;
+  }
+  .page-btn:hover:not(:disabled), .page-num-btn:hover:not(.active) { border-color: var(--teal); color: var(--teal); }
+  .page-btn:disabled { opacity: 0.4; cursor: default; }
+  .page-num-btn { min-width: 34px; text-align: center; }
+  .page-num-btn.active { background: var(--teal); border-color: var(--teal); color: #fff; cursor: default; }
+  .page-numbers { display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
+  .page-ellipsis { padding: 0 4px; color: var(--muted); font-size: 13px; }
+
+  @media (max-width: 640px) {
+    .pagination { flex-direction: column; align-items: stretch; }
+    .pagination-controls { justify-content: center; }
+    .listings-head .field select { min-width: 0; width: 100%; }
+  }
+
+  .listings-empty {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 26px;
+    color: var(--muted);
+    font-size: 14.5px;
+    text-align: center;
+  }
+
+  footer {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+    padding: 24px;
+  }
+
+  /* ---------- Past months ---------- */
+  .history-panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 22px 24px;
+    margin: 0 0 22px;
+  }
+  .history-panel h3 { margin: 0 0 4px; font-size: 17px; }
+  .history-panel .panel-sub { margin: 0 0 16px; font-size: 13px; color: var(--muted); }
+  .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  table.months { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 640px; }
+  table.months th, table.months td { padding: 10px 12px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  table.months th:first-child, table.months td:first-child { text-align: left; }
+  table.months th { font-size: 11.5px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  table.months td.month { font-weight: 700; }
+  table.months tr:last-child td { border-bottom: none; }
+  .change { display: block; font-size: 11.5px; color: var(--muted); font-weight: 400; }
+  .change.up { color: var(--teal); }
+  .change.down { color: var(--coral); }
+  a.download { font-weight: 600; text-decoration: none; }
+  a.download:hover, a.download:focus-visible { text-decoration: underline; }
+  dl.columns { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0; font-size: 13.5px; }
+  dl.columns dt { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12.5px; color: var(--ink); }
+  dl.columns dd { margin: 0; color: var(--muted); }
+  .history-status { color: var(--muted); font-size: 14px; }
+  @media (max-width: 560px) {
+    .history-panel { padding: 18px 16px; }
+    table.months { min-width: 0; }
+    table.months thead { display: none; }
+    table.months, table.months tbody, table.months tr, table.months td { display: block; width: 100%; }
+    table.months tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
+    table.months tr:last-child { border-bottom: none; }
+    table.months td { border: none; padding: 3px 0; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; text-align: right; white-space: normal; }
+    table.months td.month { font-size: 15px; padding-bottom: 6px; }
+    table.months td[data-label]::before { content: attr(data-label); font-size: 12px; color: var(--muted); text-align: left; }
+    .change { display: inline; margin-left: 6px; }
+    dl.columns { grid-template-columns: 1fr; gap: 2px; }
+    dl.columns dd { margin-bottom: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="topbar-wrap">
+    <div class="topbar">
+      <a class="topbar-brand" href="index.html" title="Home" aria-label="Static Caravan Watch — home"><span class="mark"></span>Static Caravan Watch</a>
+      <nav class="topbar-nav">
+        <a href="compare.html">Compare</a>
+        <a href="caravans.html">All listings</a>
+        <a href="map.html">park search</a>
+        <a href="history.html" class="active">Past months</a>
+      </nav>
+    </div>
+  </div>
+  <div class="hero-inner">
+    <p class="hero-eyebrow"><span class="dot"></span>Static caravans &amp; holiday homes</p>
+    <h1 class="hero-title">Past <span class="accent">Months</span></h1>
+    <p class="hero-sub">Every month's listings, kept so prices and stock can be compared over time.</p>
+  </div>
+</header>
+
+<main>
+  <h2 class="page-title">Monthly archive</h2>
+  <p class="page-intro">Each month we collect every static caravan we can find for sale. The listings are kept here month by month, without the links to the original adverts (those stop working once a caravan sells), so you can see how prices and stock change.</p>
+
+  <section class="history-panel">
+    <h3>Months collected</h3>
+    <p class="panel-sub">Change shown against the month before. Downloads are spreadsheet (CSV) files that open in Excel.</p>
+    <div class="table-scroll">
+      <table class="months">
+        <thead>
+          <tr>
+            <th scope="col">Month</th>
+            <th scope="col">Caravans</th>
+            <th scope="col">Parks</th>
+            <th scope="col">Websites</th>
+            <th scope="col">Middle price</th>
+            <th scope="col">Average age</th>
+            <th scope="col">Download</th>
+          </tr>
+        </thead>
+        <tbody id="months-body">
+          <tr><td colspan="7" class="history-status">Loading&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="history-panel">
+    <h3>What's in each file</h3>
+    <p class="panel-sub">One row per caravan for sale that month.</p>
+    <dl class="columns">
+      <dt>make, model</dt><dd>Manufacturer and model, e.g. Willerby Malton</dd>
+      <dt>name</dt><dd>The advert's own title &ndash; only filled in when it says more than the make and model</dd>
+      <dt>dimensions</dt><dd>Length x width in feet</dd>
+      <dt>bedrooms, year</dt><dd>Number of bedrooms and the year the caravan was built</dd>
+      <dt>price</dt><dd>Asking price in pounds</dd>
+      <dt>park</dt><dd>The park as the website named it</dd>
+      <dt>canonical_park</dt><dd>The same park under its standard name, so one park is counted once whichever site listed it</dd>
+      <dt>postcode</dt><dd>The park's postcode</dd>
+      <dt>location</dt><dd>Town or county the website gave &ndash; only filled in when it adds to the park name</dd>
+      <dt>source_site</dt><dd>The website the caravan was listed on</dd>
+      <dt>is_twin</dt><dd>Y for a twin unit (16ft wide or more)</dd>
+      <dt>availability, property_type</dt><dd>As given by the few websites that show them</dd>
+    </dl>
+  </section>
+</main>
+
+<footer>We will aim to collect data monthly from public caravan listings.</footer>
+
+<script>
+(function () {
+  const body = document.getElementById('months-body');
+  const fmtInt = n => (n == null ? '&ndash;' : Number(n).toLocaleString('en-GB'));
+  const fmtPrice = n => (n == null ? '&ndash;' : '&pound;' + Number(n).toLocaleString('en-GB'));
+  const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  function change(now, before, kind) {
+    if (now == null || before == null || before === 0) return '';
+    const diff = now - before;
+    if (Math.abs(diff) < (kind === 'age' ? 0.05 : 0.5)) return '<span class="change">no change</span>';
+    const cls = kind ? '' : (diff > 0 ? 'up' : 'down');  // prices and ages: no good/bad colour
+    const sign = diff > 0 ? '+' : '&minus;';
+    let text;
+    if (kind === 'price') text = sign + '&pound;' + Math.abs(Math.round(diff)).toLocaleString('en-GB');
+    else if (kind === 'age') text = sign + Math.abs(diff).toFixed(1) + ' yrs';
+    else text = sign + Math.abs(Math.round(diff)).toLocaleString('en-GB');
+    return '<span class="change ' + cls + '">' + text + '</span>';
+  }
+
+  fetch('history/months.json')
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(months => {
+      if (!months.length) {
+        body.innerHTML = '<tr><td colspan="7" class="history-status">No months stored yet.</td></tr>';
+        return;
+      }
+      body.innerHTML = months.map((m, i) => {
+        const prev = months[i + 1] || {};
+        return '<tr>' +
+          '<td class="month">' + esc(m.label) + '</td>' +
+          '<td data-label="Caravans"><span>' + fmtInt(m.listings) + change(m.listings, prev.listings) + '</span></td>' +
+          '<td data-label="Parks"><span>' + fmtInt(m.parks) + change(m.parks, prev.parks) + '</span></td>' +
+          '<td data-label="Websites"><span>' + fmtInt(m.sites) + '</span></td>' +
+          '<td data-label="Middle price"><span>' + fmtPrice(m.median_price) + change(m.median_price, prev.median_price, 'price') + '</span></td>' +
+          '<td data-label="Average age"><span>' + (m.average_age == null ? '&ndash;' : m.average_age.toFixed(1) + ' yrs') + change(m.average_age, prev.average_age, 'age') + '</span></td>' +
+          '<td data-label="Download"><a class="download" href="' + esc(m.file) + '" download>CSV' +
+            (m.file_kb ? ' <span class="change">' + (m.file_kb / 1024).toFixed(1) + ' MB</span>' : '') + '</a></td>' +
+          '</tr>';
+      }).join('');
+    })
+    .catch(() => {
+      body.innerHTML = '<tr><td colspan="7" class="history-status">Couldn&rsquo;t load the list of months &ndash; please try again later.</td></tr>';
+    });
+})();
+</script>
+</body>
+</html>
