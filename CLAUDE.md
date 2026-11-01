@@ -43,6 +43,9 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
   Abbeyford Leisure, Lovat Parks via the shared `park_operator_scraper.py`). Total 74 websites.
   Harvey Longsons and Harrison use real Chrome via `nodriver`. Output:
   `combined_all_listings_<Mon>_<Year>.csv`, already cleaned by `post_process()`.
+- `make_model_cleanup.py` (next to the scraper, called first in `post_process()`): makes → manufacturer
+  only, models lose advert wording; applies the owner's `make_model_corrections.csv`
+  (make,model,new_make,new_model) and saves `make_model_review.csv` (uncertain items for the owner).
 - `website_update.py <that csv>` – postcodes → `combined_all_listings_with_postcodes_<Mon>_<Year>.csv`,
   writes `website\data.json`, runs `build_history.py`. Rebuilt Oct 2026 identically to what's live.
 - Failing sites save page copies to a `diagnostics\` folder – ask the owner to zip and send it.
@@ -64,7 +67,10 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
   Morris Leisure) > broker (Harvey Longsons, Private Sale Caravans, Ideal, Lloyds, North Wales Caravans,
   I&S Davies) > listing site (My Holiday Caravan, Parklink, Caravan4you, Parkmove, myholidayparks.com).
   Identical caravans on the **same** site are separate units and are all kept.
-- Lodges, park homes and tourers are removed; homes 16ft+ wide are kept and flagged `is_twin`.
+- **Lodges (from Nov 2026):** lodges by a main manufacturer (`MAIN_LODGE_MAKERS` in the scraper) are kept,
+  `property_type = "Lodge"`; bespoke lodges (no recognised make, or a no-make home 20ft+ wide) are dropped.
+  Never drop a caravan just for "Lodge" in its name. Park homes and tourers are removed; homes 16ft+ wide
+  are flagged `is_twin`. Lodges show mixed in with caravans; owner said hold off on a lodge filter (Nov 2026).
 - Sold / under offer listings are left out.
 - **"New"/"brand new" with no year** → current year, `year_assumed = "Y"` (from Nov 2026); shown on the
   caravan page and explained on Past months.
