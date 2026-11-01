@@ -3839,7 +3839,7 @@
   },
   {
     "park_name": "Hoburne Park",
-    "postcode": "BH25 7RE",
+    "postcode": "BH23 4HU",
     "website": "https://www.hoburne.com/holiday-parks/dorset-hampshire-new-forest/hoburne-park/",
     "staticcaravanparks_url": "https://www.staticcaravanparks.co.uk/parks/dorset/hoburne-park",
     "telephone": "01425 273379",
@@ -3847,14 +3847,14 @@
     "pitch_fees": null,
     "season_pitches_box_found": "False",
     "data_source": "original 643-park reference table",
-    "county": "Hampshire",
-    "town": "New Milton",
-    "region": "South East",
+    "county": "Bournemouth, Christchurch and Poole",
+    "town": "Christchurch",
+    "region": "South West",
     "region_fallback_used": "yes",
     "status": "listings",
     "chain": "Hoburne",
-    "Latitude": 50.740312,
-    "Longitude": -1.68741
+    "Latitude": 50.743048,
+    "Longitude": -1.727897
   },
   {
     "park_name": "Holdens Caravan Park",
@@ -20199,7 +20199,7 @@
   {
     "park_name": "Abbeyford Caravan Park",
     "postcode": "LL22 9HN",
-    "website": "http://www.abbeyford.com/our-parks/abbeyford-holiday-park/",
+    "website": null,
     "staticcaravanparks_url": "https://www.staticcaravanparks.co.uk/parks/wales/abbeyford-caravan-park",
     "telephone": "01745 334 590",
     "no_pitches": null,
@@ -20211,7 +20211,7 @@
     "region": "North Wales",
     "region_fallback_used": "yes",
     "status": "blocked",
-    "chain": "Abbeyford",
+    "chain": null,
     "Latitude": 53.303346,
     "Longitude": -3.540673
   },
@@ -24341,7 +24341,7 @@
   {
     "park_name": "Valley View Holiday Park",
     "postcode": "SY21 9DL",
-    "website": "http://www.brightwaterlakes.co.uk/home.html",
+    "website": "https://www.thornleyleisure.co.uk/parks/valley-view-holiday-park/",
     "staticcaravanparks_url": "https://www.staticcaravanparks.co.uk/parks/wales/valley-view-holiday-park",
     "telephone": "01938 500265",
     "no_pitches": null,
@@ -24352,8 +24352,8 @@
     "town": "Meifod",
     "region": "North Wales",
     "region_fallback_used": "no",
-    "status": "enquire",
-    "chain": null,
+    "status": "listings",
+    "chain": "Thornley Leisure",
     "Latitude": 52.71751,
     "Longitude": -3.200623
   },
@@ -25861,7 +25861,7 @@
   {
     "park_name": "Gallaber Park",
     "postcode": "BD23 4QF",
-    "website": "https://www.gallaberpark.com",
+    "website": "https://www.thornleyleisure.co.uk/parks/gallaber-park/",
     "staticcaravanparks_url": "https://www.staticcaravanparks.co.uk/parks/yorkshire/gallaber-park",
     "telephone": "01729 851397",
     "no_pitches": null,
@@ -25872,8 +25872,8 @@
     "town": "Hellifield",
     "region": "Yorkshire and Humber",
     "region_fallback_used": "no",
-    "status": "blocked",
-    "chain": null,
+    "status": "listings",
+    "chain": "Thornley Leisure",
     "Latitude": 54.007347,
     "Longitude": -2.239364
   },
@@ -29388,7 +29388,7 @@
     "region": "North Wales",
     "region_fallback_used": "no",
     "status": "listings not scraped",
-    "chain": "Abbeyford",
+    "chain": null,
     "Latitude": 53.252387,
     "Longitude": -3.478568
   },
@@ -29982,25 +29982,6 @@
     "Longitude": -5.401685
   },
   {
-    "park_name": "Hoburne Park",
-    "postcode": "BH23 4HU",
-    "website": null,
-    "staticcaravanparks_url": null,
-    "telephone": null,
-    "no_pitches": null,
-    "pitch_fees": null,
-    "season_pitches_box_found": null,
-    "data_source": "reconciled from raw listings - never in reference/classification data",
-    "county": null,
-    "town": null,
-    "region": null,
-    "region_fallback_used": null,
-    "status": "listings",
-    "chain": null,
-    "Latitude": 50.743048,
-    "Longitude": -1.727897
-  },
-  {
     "park_name": "Swanage Bay Resort",
     "postcode": "BH19 2QS",
     "website": "https://www.myholidaycaravan.co.uk",
@@ -30154,7 +30135,7 @@
   },
   {
     "park_name": "Golden Sands Holiday Park Northumberland",
-    "postcode": "EX7 0LZ",
+    "postcode": "NE61 5LF",
     "website": "https://www.parklink.uk",
     "staticcaravanparks_url": null,
     "telephone": null,
@@ -30162,14 +30143,14 @@
     "pitch_fees": null,
     "season_pitches_box_found": null,
     "data_source": "reconciled from raw listings - never in reference/classification data",
-    "county": null,
-    "town": null,
-    "region": null,
+    "county": "Northumberland",
+    "town": "Cresswell",
+    "region": "North East",
     "region_fallback_used": null,
     "status": "listings",
     "chain": null,
-    "Latitude": 50.596217,
-    "Longitude": -3.456371
+    "Latitude": 55.17999,
+    "Longitude": -1.71826
   },
   {
     "park_name": "Clifftop and Stone Close",
@@ -56964,7 +56945,7 @@
   {
     "park_name": "Morfa Lodge Caravan Site",
     "postcode": "LL54 5TP",
-    "website": null,
+    "website": "https://www.thornleyleisure.co.uk/parks/morfa-lodge-holiday-park/",
     "staticcaravanparks_url": null,
     "telephone": null,
     "no_pitches": null,
@@ -56975,8 +56956,8 @@
     "town": "Llandwrog",
     "region": "North Wales",
     "region_fallback_used": "no",
-    "status": "no website found",
-    "chain": null,
+    "status": "listings",
+    "chain": "Thornley Leisure",
     "Latitude": 53.100848,
     "Longitude": -4.336073
   },

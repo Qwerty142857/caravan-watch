@@ -683,8 +683,10 @@ function render(p) {
   c += row('Region', place(p.region) ? escapeHtml(place(p.region)) : none('Not recorded'));
   c += row('County', place(p.county) ? escapeHtml(place(p.county)) : none('Not recorded'));
   c += row('Closest town', place(p.town) ? escapeHtml(place(p.town)) : none('Not recorded'));
-  c += row('Phone', p.phone_number
-    ? '<a href="' + telHref(p.phone_number) + '">' + escapeHtml(p.phone_number) + '</a>'
+  // parks.json calls this field "telephone" (phone_number kept in case it's added later)
+  const phone = String(p.telephone || p.phone_number || '').trim();
+  c += row('Phone', phone
+    ? '<a href="' + telHref(phone) + '">' + escapeHtml(phone) + '</a>'
     : none('No phone number on file'));
   c += row('Website', p.website
     ? '<a href="' + encodeURI(p.website) + '" target="_blank" rel="noopener">' +
