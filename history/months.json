@@ -3,13 +3,13 @@
     "month": "2026-10",
     "label": "October 2026",
     "file": "history/listings_2026-10.csv",
-    "listings": 10071,
-    "parks": 934,
-    "sites": 71,
+    "listings": 10187,
+    "parks": 948,
+    "sites": 74,
     "median_price": 47995,
     "average_age": 5.5,
-    "with_postcode": 94.7,
-    "file_kb": 1666
+    "with_postcode": 94.8,
+    "file_kb": 1691
   },
   {
     "month": "2026-09",
@@ -22,5 +22,18 @@
     "average_age": 5.5,
     "with_postcode": 96.3,
     "file_kb": 1585
+  },
+  {
+    "month": "2026-08",
+    "label": "August 2026",
+    "file": "history/listings_2026-08.csv",
+    "listings": 10095,
+    "parks": 908,
+    "sites": 66,
+    "median_price": 49995,
+    "average_age": 5.4,
+    "with_postcode": 96.5,
+    "file_kb": 1507,
+    "note": "Scraped 31 August. Covered 66 websites, including some not scraped in September; some sites were counted differently, so compare with care."
   }
 ]

@@ -607,7 +607,10 @@
     let s = '';
     s += row('Make', d.make ? escapeHTML(d.make) : none());
     s += row('Model', d.model ? escapeHTML(d.model) : none());
-    s += row('Year', year ? String(Math.round(year)) : none('Not stated'));
+    // year_assumed = 'Y': the advert only said "new", so this year's model was assumed
+    const yearAssumed = String(d.year_assumed || '').toUpperCase() === 'Y';
+    s += row('Year', year ? String(Math.round(year)) +
+      (yearAssumed ? ' <span class="none">(listed as new &ndash; year assumed)</span>' : '') : none('Not stated'));
     s += row('Bedrooms', beds !== null
       ? Math.round(beds) + ' bedroom' + (Math.round(beds) === 1 ? '' : 's')
       : none('Not specified'));
