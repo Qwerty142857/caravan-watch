@@ -170,7 +170,7 @@
   {
     "name": "Homeseeker Custom Lodge with hot tub",
     "make": "Homeseeker",
-    "model": "Custom Lodge",
+    "model": "Custom",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -317,7 +317,7 @@
   {
     "name": "Tingdene Country with Hot Tub",
     "make": "Tingdene",
-    "model": "Country",
+    "model": "Country Lodge",
     "dimensions": "46ft x 20ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -1913,7 +1913,7 @@
   {
     "name": "Swift Moselle Lodge",
     "make": "Swift",
-    "model": "Moselle Lodge",
+    "model": "Moselle",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -3047,7 +3047,7 @@
   {
     "name": "ABI Windermere Lodge 2022",
     "make": "ABI",
-    "model": "Windermere Lodge",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -3068,7 +3068,7 @@
   {
     "name": "ABI Windermere Lodge 40ft x 13ft",
     "make": "ABI",
-    "model": "Windermere Lodge",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -8738,7 +8738,7 @@
   {
     "name": "Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -8948,7 +8948,7 @@
   {
     "name": "Swift Mosselle Lodge",
     "make": "Swift",
-    "model": "Mosselle Lodge",
+    "model": "Moselle",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -9410,7 +9410,7 @@
   {
     "name": "Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2027.0,
@@ -10523,7 +10523,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -10817,7 +10817,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -10964,7 +10964,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -10985,7 +10985,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -11006,7 +11006,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -11111,7 +11111,7 @@
   {
     "name": "Carnaby Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "37ft x 13ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -11321,7 +11321,7 @@
   {
     "name": "Carnaby Stamford",
     "make": "Carnaby",
-    "model": "Stamford",
+    "model": "Stamford Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -11384,7 +11384,7 @@
   {
     "name": "Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "37ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -11447,7 +11447,7 @@
   {
     "name": "Regal Hamilton",
     "make": "Regal",
-    "model": "Hamilton",
+    "model": "Hamilton Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -11531,7 +11531,7 @@
   {
     "name": "Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -11783,7 +11783,7 @@
   {
     "name": "Carnaby Lakehouse Lodge 2025",
     "make": "Carnaby",
-    "model": "Lakehouse Lodge",
+    "model": "Lakehouse",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -12119,7 +12119,7 @@
   {
     "name": "Victory Lakewood 2026",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -12287,7 +12287,7 @@
   {
     "name": "Victory Lakewood 2025",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -12308,7 +12308,7 @@
   {
     "name": "Carnaby Lakehouse Lodge 2026",
     "make": "Carnaby",
-    "model": "Lakehouse Lodge",
+    "model": "Lakehouse",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -12749,7 +12749,7 @@
   {
     "name": "Victory Riverwood 2022",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -13190,7 +13190,7 @@
   {
     "name": "Oakgrove Tallow Lodge 2026",
     "make": "Oakgrove",
-    "model": "Tallow Lodge",
+    "model": "Tallow",
     "dimensions": "45ft x 22ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -13820,7 +13820,7 @@
   {
     "name": "Carnaby Chantry 2026",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -16844,7 +16844,7 @@
   {
     "name": "Swift Vendee Lodge 2026",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -18734,7 +18734,7 @@
   {
     "name": "Carnaby Chantry 2025",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -20246,7 +20246,7 @@
   {
     "name": "Swift Vendee Lodge",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -20687,7 +20687,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -22325,7 +22325,7 @@
   {
     "name": "Willerby Clearwater Lodge 36×20",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "36ft x 20ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -24026,7 +24026,7 @@
   {
     "name": "2025 Swift Morlaix Lodge at Erigmore",
     "make": "Swift",
-    "model": "Morlaix Lodge",
+    "model": "Morlaix",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -24131,7 +24131,7 @@
   {
     "name": "[SOLD] Pre-loved 2022 Victory Faraday Lodge at Erigmore",
     "make": "Victory",
-    "model": "Faraday Lodge",
+    "model": "Faraday",
     "dimensions": "30ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -24173,7 +24173,7 @@
   {
     "name": "Brand New 2027 Swift Morlaix Lodge at Pease Bay",
     "make": "Swift",
-    "model": "Morlaix Lodge",
+    "model": "Morlaix",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2027.0,
@@ -24194,7 +24194,7 @@
   {
     "name": "BRAND NEW ABI BEAUMONT LODGE 2025 MODEL",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -24215,7 +24215,7 @@
   {
     "name": "BRAND NEW ABI BEAUMONT LODGE 2025 MODEL AT COLDINGHAM BAY",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -24236,7 +24236,7 @@
   {
     "name": "Sold - Brand New 2026 Willerby Boston Lodge",
     "make": "Willerby",
-    "model": "Boston Lodge",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -25223,7 +25223,7 @@
   {
     "name": "ABI Westwood-Lodge",
     "make": "ABI",
-    "model": "Westwood Lodge",
+    "model": "Westwood",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -26000,7 +26000,7 @@
   {
     "name": "Willerby Vogue Classique Lodge | 2026",
     "make": "Willerby",
-    "model": "Vogue",
+    "model": "Vogue Classique",
     "dimensions": "43ft x 14.5ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -26840,7 +26840,7 @@
   {
     "name": "2018 Atlas Sherwood Lodge",
     "make": "Atlas",
-    "model": "Sherwood Lodge",
+    "model": "Sherwood",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -27743,7 +27743,7 @@
   {
     "name": "2026 Swift Edmonton",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -28688,7 +28688,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -29003,7 +29003,7 @@
   {
     "name": "Victory Riverwood Holiday Home | 2026",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -29171,7 +29171,7 @@
   {
     "name": "Victory Riverwood Holiday Home | 2022",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -29570,7 +29570,7 @@
   {
     "name": "Atlas Jasmine Holiday Home | 2021",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -29633,7 +29633,7 @@
   {
     "name": "Victory Riverwood Holiday Home | 2023",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -29654,7 +29654,7 @@
   {
     "name": "Victory Lakewood Holiday Home | 2022",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -29759,7 +29759,7 @@
   {
     "name": "2022 Willerby Clearwater Lodge",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "36ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -29864,7 +29864,7 @@
   {
     "name": "2024 Willerby Clearwater Lodge",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -29906,7 +29906,7 @@
   {
     "name": "ABI Kielder Lodge | 2025",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "41ft x 20ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -29927,7 +29927,7 @@
   {
     "name": "ABI Kielder Lodge | 2022",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -29969,7 +29969,7 @@
   {
     "name": "Victory Cezanne Lodge | 2021",
     "make": "Victory",
-    "model": "Cezanne Lodge",
+    "model": "Cezanne",
     "dimensions": "42ft x 20ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -30032,7 +30032,7 @@
   {
     "name": "ABI Kielder Lodge | 2026",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "41ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -30179,7 +30179,7 @@
   {
     "name": "ABI Kielder Lodge | 2026",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "44ft x 20ft",
     "bedrooms": 4.0,
     "year": 2026.0,
@@ -30221,7 +30221,7 @@
   {
     "name": "ABI Kielder Lodge | 2026",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "40ft x 20ft",
     "bedrooms": 4.0,
     "year": 2026.0,
@@ -30284,7 +30284,7 @@
   {
     "name": "ABI Kielder Lodge | 2022",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -30326,7 +30326,7 @@
   {
     "name": "Willerby Clearwater Lodge | 2022",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -31124,7 +31124,7 @@
   {
     "name": "Carnaby Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -48932,7 +48932,7 @@
   {
     "name": "A.B.I Windermere Lodge - 2025",
     "make": "ABI",
-    "model": "Windermere Lodge",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -49163,7 +49163,7 @@
   {
     "name": "A.B.I Windermere Lodge - 2025",
     "make": "ABI",
-    "model": "Windermere Lodge",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -49856,7 +49856,7 @@
   {
     "name": "A.B.I Westwood Lodge - 2026",
     "make": "ABI",
-    "model": "Westwood Lodge",
+    "model": "Westwood",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -49919,7 +49919,7 @@
   {
     "name": "Delta Superior Lodge - 2024",
     "make": "Delta",
-    "model": "Superior Lodge",
+    "model": "Superior",
     "dimensions": "32ft x 20ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -56492,7 +56492,7 @@
   {
     "name": "Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -56513,7 +56513,7 @@
   {
     "name": "Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -59789,7 +59789,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -61910,7 +61910,7 @@
   {
     "name": "Swift, Edmonton",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -61931,7 +61931,7 @@
   {
     "name": "Swift, Toronto",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "43ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -61994,7 +61994,7 @@
   {
     "name": "Swift, Toronto",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "43ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -63296,7 +63296,7 @@
   {
     "name": "Atlas, Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -63317,7 +63317,7 @@
   {
     "name": "Atlas, Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -63863,7 +63863,7 @@
   {
     "name": "Carnaby, Glenmore Lodge",
     "make": "Carnaby",
-    "model": "Glenmore Lodge",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -63884,7 +63884,7 @@
   {
     "name": "Atlas, Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -63947,7 +63947,7 @@
   {
     "name": "Atlas, Sherwood Lodge",
     "make": "Atlas",
-    "model": "Sherwood Lodge",
+    "model": "Sherwood",
     "dimensions": "43ft x 14ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -67139,7 +67139,7 @@
   {
     "name": "ABI, Beaumont Lodge",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -69680,7 +69680,7 @@
   {
     "name": "Atlas, Jasmine Lodge",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -69701,7 +69701,7 @@
   {
     "name": "Swift, Moselle Lodge",
     "make": "Swift",
-    "model": "Moselle Lodge",
+    "model": "Moselle",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -72011,7 +72011,7 @@
   {
     "name": "Atlas, Jasmine Lodge",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -74531,7 +74531,7 @@
   {
     "name": "Willerby, Clearwater Lodge",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -74972,7 +74972,7 @@
   {
     "name": "Swift, Moselle Lodge",
     "make": "Swift",
-    "model": "Moselle Lodge",
+    "model": "Moselle",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -75917,7 +75917,7 @@
   {
     "name": "Willerby, Clearwater Lodge",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -77093,7 +77093,7 @@
   {
     "name": "Regal, Artisan",
     "make": "Regal",
-    "model": "Artisan",
+    "model": "Artisan Lodge",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -77387,7 +77387,7 @@
   {
     "name": "Regal, Artisan",
     "make": "Regal",
-    "model": "Artisan",
+    "model": "Artisan Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -77807,7 +77807,7 @@
   {
     "name": "Swift, Edmonton",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -78311,7 +78311,7 @@
   {
     "name": "Willerby, Clearwater Lodge",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2017.0,
@@ -79109,7 +79109,7 @@
   {
     "name": "Delta, Superior Lodge",
     "make": "Delta",
-    "model": "Superior Lodge",
+    "model": "Superior",
     "dimensions": "30ft x 20ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -80579,7 +80579,7 @@
   {
     "name": "Willerby, Vogue Lodge",
     "make": "Willerby",
-    "model": "Vogue Lodge",
+    "model": "Vogue",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -83372,7 +83372,7 @@
   {
     "name": "Swift, Moselle Lodge",
     "make": "Swift",
-    "model": "Moselle Lodge",
+    "model": "Moselle",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -83729,7 +83729,7 @@
   {
     "name": "Victory, Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -84000,30 +84000,9 @@
     "canonical_park": "Thanet Well Lodge Retreat"
   },
   {
-    "name": "Homeseeker, Custom",
-    "make": "Homeseeker",
-    "model": "Custom",
-    "dimensions": "40ft x 20ft",
-    "bedrooms": 2.0,
-    "year": 2016.0,
-    "year_assumed": null,
-    "location": "Thanet Well Lodge Retreat, Lake District And Cumbria",
-    "park": "Thanet Well Lodge Retreat",
-    "postcode": "CA11 0XX",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£139,995",
-    "price_number": 139995.0,
-    "source_site": "My Holiday Caravan - Thanet Well Lodge Retreat",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/thanet-well-lodge-retreat/AD17153",
-    "is_twin": "True",
-    "canonical_park": "Thanet Well Lodge Retreat"
-  },
-  {
     "name": "Carnaby, Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -84296,7 +84275,7 @@
   {
     "name": "Victory, Faraday Lodge",
     "make": "Victory",
-    "model": "Faraday Lodge",
+    "model": "Faraday",
     "dimensions": "30ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -84758,7 +84737,7 @@
   {
     "name": "Carnaby, Lakehouse Lodge",
     "make": "Carnaby",
-    "model": "Lakehouse Lodge",
+    "model": "Lakehouse",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -88391,7 +88370,7 @@
   {
     "name": "Willerby, Clearwater Lodge",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -88622,7 +88601,7 @@
   {
     "name": "Carnaby, Lakehouse Lodge",
     "make": "Carnaby",
-    "model": "Lakehouse Lodge",
+    "model": "Lakehouse",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -88643,7 +88622,7 @@
   {
     "name": "Carnaby, Grantley Lodge",
     "make": "Carnaby",
-    "model": "Grantley Lodge",
+    "model": "Grantley",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -89861,7 +89840,7 @@
   {
     "name": "Swift, Moselle Lodge",
     "make": "Swift",
-    "model": "Moselle Lodge",
+    "model": "Moselle",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -91373,7 +91352,7 @@
   {
     "name": "Swift, Moselle Lodge",
     "make": "Swift",
-    "model": "Moselle Lodge",
+    "model": "Moselle",
     "dimensions": "42ft x 14ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -93893,7 +93872,7 @@
   {
     "name": "Victory, Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -98135,7 +98114,7 @@
   {
     "name": "Atlas, Sherwood Lodge",
     "make": "Atlas",
-    "model": "Sherwood Lodge",
+    "model": "Sherwood",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -102270,27 +102249,6 @@
     "canonical_park": "Percy Wood Country Park"
   },
   {
-    "name": "Victory, Lakewood",
-    "make": "Victory",
-    "model": "Lakewood",
-    "dimensions": "42ft x 14ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "Percy Wood Holiday Park, Northumberland",
-    "park": "Percy Wood Holiday Park",
-    "postcode": "NE65 9JW",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£99,995",
-    "price_number": 99995.0,
-    "source_site": "My Holiday Caravan - Percy Wood Holiday Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/northumberland/percy-wood-holiday-park/AD17156",
-    "is_twin": "False",
-    "canonical_park": "Percy Wood Country Park"
-  },
-  {
     "name": "Love, Galloway",
     "make": "Love Holiday Homes",
     "model": "Galloway",
@@ -103175,7 +103133,7 @@
   {
     "name": "Victory, Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -106367,7 +106325,7 @@
   {
     "name": "Victory, Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -106724,7 +106682,7 @@
   {
     "name": "Willerby, Boston Lodge",
     "make": "Willerby",
-    "model": "Boston Lodge",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -107018,7 +106976,7 @@
   {
     "name": "Carnaby, Grantley Lodge",
     "make": "Carnaby",
-    "model": "Grantley Lodge",
+    "model": "Grantley",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -107480,7 +107438,7 @@
   {
     "name": "Carnaby, Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -107711,7 +107669,7 @@
   {
     "name": "Swift, Toronto",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "43ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -108530,7 +108488,7 @@
   {
     "name": "Atlas, Jasmine Lodge",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -112688,7 +112646,7 @@
   {
     "name": "Swift, Vendee Lodge",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -113654,7 +113612,7 @@
   {
     "name": "ABI, Kielder Lodge",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -119492,7 +119450,7 @@
   {
     "name": "Swift, Edmonton",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -120689,7 +120647,7 @@
   {
     "name": "Carnaby, Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -120815,7 +120773,7 @@
   {
     "name": "ABI, Beaumont Lodge Resi",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -121298,7 +121256,7 @@
   {
     "name": "Swift, Edmonton",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -122306,7 +122264,7 @@
   {
     "name": "Swift, Vendee Lodge",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -123062,7 +123020,7 @@
   {
     "name": "Victory, Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -126296,7 +126254,7 @@
   {
     "name": "Willerby, Boston Lodge",
     "make": "Willerby",
-    "model": "Boston Lodge",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -129698,7 +129656,7 @@
   {
     "name": "ABI, Beaumont Lodge",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -129803,7 +129761,7 @@
   {
     "name": "ABI, Kielder Lodge",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "41ft x 20ft",
     "bedrooms": 3.0,
     "year": 2027.0,
@@ -129824,7 +129782,7 @@
   {
     "name": "ABI, Kielder Lodge",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -131819,7 +131777,7 @@
   {
     "name": "Atlas, Sherwood Lodge",
     "make": "Atlas",
-    "model": "Sherwood Lodge",
+    "model": "Sherwood",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -134486,7 +134444,7 @@
   {
     "name": "Atlas, Sherwood Lodge",
     "make": "Atlas",
-    "model": "Sherwood Lodge",
+    "model": "Sherwood",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -137384,7 +137342,7 @@
   {
     "name": "Victory Lakewood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -138560,7 +138518,7 @@
   {
     "name": "Victory Riverwood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -138749,7 +138707,7 @@
   {
     "name": "Victory Riverwood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -143915,7 +143873,7 @@
   {
     "name": "Carnaby Helmsley Static Caravan - 2 Bedroom",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2017.0,
@@ -144167,7 +144125,7 @@
   {
     "name": "Swift Toronto Static Caravan - 2 Bedroom",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -144188,7 +144146,7 @@
   {
     "name": "Swift Edmonton Static Caravan - 3 Bedroom",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -144776,7 +144734,7 @@
   {
     "name": "Victory Riverwood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -144902,7 +144860,7 @@
   {
     "name": "Victory Riverwood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -147275,7 +147233,7 @@
   {
     "name": "Carnaby Chantry Static Caravan - 2 Bedroom",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -147527,7 +147485,7 @@
   {
     "name": "Swift Toronto Static Caravan - 2 Bedroom",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -148178,7 +148136,7 @@
   {
     "name": "Victory Riverwood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -150278,7 +150236,7 @@
   {
     "name": "Victory Lakewood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -150572,7 +150530,7 @@
   {
     "name": "WILLERBY SHERATON LODGE Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Sheraton Lodge",
+    "model": "Sheraton",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -152063,7 +152021,7 @@
   {
     "name": "Wessex Classic Lodge 2012",
     "make": "Wessex",
-    "model": "Classic Lodge",
+    "model": "Classic",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2012.0,
@@ -152630,7 +152588,7 @@
   {
     "name": "2015 Victory Monaco Lodge",
     "make": "Victory",
-    "model": "Monaco Lodge",
+    "model": "Monaco",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -153323,7 +153281,7 @@
   {
     "name": "Carnaby Glenmoor 2022",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -154289,7 +154247,7 @@
   {
     "name": "Swift Edmonton 2022",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -154604,7 +154562,7 @@
   {
     "name": "2021 Atlas Lilac",
     "make": "Atlas",
-    "model": "Lilac",
+    "model": "Lilac Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -154709,7 +154667,7 @@
   {
     "name": "2022 Atlas Lilac",
     "make": "Atlas",
-    "model": "Lilac",
+    "model": "Lilac Lodge",
     "dimensions": "20ft x 40ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -154751,7 +154709,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -154772,7 +154730,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -154856,7 +154814,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -155087,7 +155045,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -155108,7 +155066,7 @@
   {
     "name": "2022 Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -155423,7 +155381,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -155465,7 +155423,7 @@
   {
     "name": "2022 Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "13ft x 40ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -155927,7 +155885,7 @@
   {
     "name": "2022 Swift Toronto",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "20ft x 40ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -155990,7 +155948,7 @@
   {
     "name": "2021 Swift Toronto",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "42ft x 20ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -156032,7 +155990,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -156074,7 +156032,7 @@
   {
     "name": "2021 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -156221,7 +156179,7 @@
   {
     "name": "2022 Carnarby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -156263,7 +156221,7 @@
   {
     "name": "2022 Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -156851,7 +156809,7 @@
   {
     "name": "2021 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -157166,7 +157124,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157187,7 +157145,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157208,7 +157166,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157250,7 +157208,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -157607,7 +157565,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157628,7 +157586,7 @@
   {
     "name": "2022 Atlas Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157670,7 +157628,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157691,7 +157649,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "14ft x 42ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157754,7 +157712,7 @@
   {
     "name": "2022 Victory Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157838,7 +157796,7 @@
   {
     "name": "2022 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "13ft x 40ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157922,7 +157880,7 @@
   {
     "name": "2022 Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157943,7 +157901,7 @@
   {
     "name": "2022 Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -157983,30 +157941,9 @@
     "canonical_park": "Hornsea Leisure Park"
   },
   {
-    "name": "2022 Victory Riverwood",
-    "make": "Victory",
-    "model": "Riverwood",
-    "dimensions": "40ft x 13ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Fir Tree Holiday Park",
-    "park": "Fir Tree Holiday Park",
-    "postcode": "YO16 6YG",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£66,995",
-    "price_number": 66995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2517548-2022-victory-riverwood-bridlington-england",
-    "is_twin": "False",
-    "canonical_park": "Fir Tree Holiday Park"
-  },
-  {
     "name": "2022 Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -158027,7 +157964,7 @@
   {
     "name": "2022 Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -158195,7 +158132,7 @@
   {
     "name": "2022 Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -159035,7 +158972,7 @@
   {
     "name": "2021 Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -159119,7 +159056,7 @@
   {
     "name": "2022 Atlas Lilac",
     "make": "Atlas",
-    "model": "Lilac",
+    "model": "Lilac Lodge",
     "dimensions": "20ft x 40ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -159476,7 +159413,7 @@
   {
     "name": "Willerby Sheraton Elite Lodge",
     "make": "Willerby",
-    "model": "Sheraton",
+    "model": "Sheraton Elite",
     "dimensions": "42ft x 14.5ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -161765,7 +161702,7 @@
   {
     "name": "2 Bedroom Carnaby Chantry Lodge",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "43ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -162038,7 +161975,7 @@
   {
     "name": "New 2027 Carnaby Lakehouse Lodge",
     "make": "Carnaby",
-    "model": "Lakehouse Lodge",
+    "model": "Lakehouse",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2027.0,
@@ -163949,7 +163886,7 @@
   {
     "name": "Carnaby Chantry - 2021",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -165461,7 +165398,7 @@
   {
     "name": "Carnaby Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -166028,7 +165965,7 @@
   {
     "name": "A.B.I Windermere Lodge",
     "make": "ABI",
-    "model": "Windermere Lodge",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -166448,7 +166385,7 @@
   {
     "name": "Swift Vendee Lodge",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -167141,7 +167078,7 @@
   {
     "name": "Victory Riverwood Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -168905,7 +168842,7 @@
   {
     "name": "Atlas Jasmine Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -170144,7 +170081,7 @@
   {
     "name": "2022 Atlas Lilac",
     "make": "Atlas",
-    "model": "Lilac",
+    "model": "Lilac Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -170543,7 +170480,7 @@
   {
     "name": "2022 Atlas Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -170606,7 +170543,7 @@
   {
     "name": "2022 Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -170627,7 +170564,7 @@
   {
     "name": "2022 Carnaby Glenmoor",
     "make": "Carnaby",
-    "model": "Glenmoor",
+    "model": "Glenmoor Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -171005,7 +170942,7 @@
   {
     "name": "Victory Riverwood",
     "make": "Victory",
-    "model": "Riverwood",
+    "model": "Riverwood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -171404,7 +171341,7 @@
   {
     "name": "Vendee Lodge by Swift",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2027.0,
@@ -171425,7 +171362,7 @@
   {
     "name": "Vendee Lodge by Swift",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2027.0,
@@ -171530,7 +171467,7 @@
   {
     "name": "Edmonton Double Lodge by Swift",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -171551,7 +171488,7 @@
   {
     "name": "Sheraton Lodge by Willerby",
     "make": "Willerby",
-    "model": "Sheraton Lodge",
+    "model": "Sheraton",
     "dimensions": null,
     "bedrooms": 4.0,
     "year": 2024.0,
@@ -171866,7 +171803,7 @@
   {
     "name": "Toronto by Swift",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -174260,7 +174197,7 @@
   {
     "name": "ABI WESTWOOD LODGE FREE 2027 SITE FESS",
     "make": "ABI",
-    "model": "Westwood Lodge",
+    "model": "Westwood",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -175226,7 +175163,7 @@
   {
     "name": "Atlas Lilac DP",
     "make": "Atlas",
-    "model": "Lilac",
+    "model": "Lilac Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -176444,7 +176381,7 @@
   {
     "name": "The Artisan by Regal",
     "make": "Regal",
-    "model": "Artisan",
+    "model": "Artisan Lodge",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -176843,7 +176780,7 @@
   {
     "name": "The Artisan by Regal",
     "make": "Regal",
-    "model": "Artisan",
+    "model": "Artisan Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -179153,7 +179090,7 @@
   {
     "name": "Swift Vendee Lodge",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 14ft",
     "bedrooms": null,
     "year": 2026.0,
@@ -179678,7 +179615,7 @@
   {
     "name": "ABI Beaumont Lodge",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": null,
     "year": 2024.0,
@@ -179720,7 +179657,7 @@
   {
     "name": "ABI Beaumont Lodge",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": null,
     "year": 2024.0,
@@ -180182,7 +180119,7 @@
   {
     "name": "Carnaby Hemsley Lodge",
     "make": "Carnaby",
-    "model": "Hemsley Lodge",
+    "model": "Helmsley Lodge",
     "dimensions": "37ft x 13ft",
     "bedrooms": null,
     "year": 2017.0,
@@ -181253,7 +181190,7 @@
   {
     "name": "Cosalt Lautrec Lodge at Ord House – Pitch 304",
     "make": "Cosalt",
-    "model": "Lautrec Lodge",
+    "model": "Lautrec",
     "dimensions": "34ft x 20ft",
     "bedrooms": null,
     "year": 2003.0,
@@ -181379,7 +181316,7 @@
   {
     "name": "ABI Beaumont Lodge – New For 2026",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 14ft",
     "bedrooms": null,
     "year": 2026.0,
@@ -182240,7 +182177,7 @@
   {
     "name": "ABI Beaumont Lodge at Hurworth Springs Plot 40",
     "make": "ABI",
-    "model": "Beaumont Lodge",
+    "model": "Beaumont",
     "dimensions": "43ft x 13ft",
     "bedrooms": null,
     "year": 2024.0,
@@ -182618,7 +182555,7 @@
   {
     "name": "Brand new Willerby Vogue Lodge at Thurston Manor",
     "make": "Willerby",
-    "model": "Vogue Lodge",
+    "model": "Vogue",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -183815,7 +183752,7 @@
   {
     "name": "Willerby Boston Lodge",
     "make": "Willerby",
-    "model": "Boston Lodge",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -183857,7 +183794,7 @@
   {
     "name": "Willerby Boston Lodge Three Bed on Woodpecker Meadows",
     "make": "Willerby",
-    "model": "Boston Lodge",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": null,
@@ -184319,7 +184256,7 @@
   {
     "name": "Atlas Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185075,7 +185012,7 @@
   {
     "name": "Swift Edmonton",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185096,7 +185033,7 @@
   {
     "name": "Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "14ft x 42ft",
     "bedrooms": 2.0,
     "year": null,
@@ -186713,7 +186650,7 @@
   {
     "name": "SWIFT VENDEE LODGE",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2027.0,
@@ -188456,7 +188393,7 @@
   {
     "name": "ABI Westwood Lodge",
     "make": "ABI",
-    "model": "Westwood Lodge",
+    "model": "Westwood",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -190409,7 +190346,7 @@
   {
     "name": "Regal Artisan",
     "make": "Regal",
-    "model": "Artisan",
+    "model": "Artisan Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -190451,7 +190388,7 @@
   {
     "name": "Atlas Oakwood",
     "make": "Atlas",
-    "model": "Oakwood",
+    "model": "Oakwood Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -190493,7 +190430,7 @@
   {
     "name": "Carnaby Chantry",
     "make": "Carnaby",
-    "model": "Chantry",
+    "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -191333,7 +191270,7 @@
   {
     "name": "ABI Westwood Lodge 2022 sited at Allhallows, Kent. Great condition and stunning pitch",
     "make": "ABI",
-    "model": "Westwood Lodge",
+    "model": "Westwood",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -192110,7 +192047,7 @@
   {
     "name": "Swift Vendee Lodge",
     "make": "Swift",
-    "model": "Vendee Lodge",
+    "model": "Vendee",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -192887,7 +192824,7 @@
   {
     "name": "Willerby, Boston Lodge",
     "make": "Willerby",
-    "model": "Boston Lodge",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": null,
@@ -193685,7 +193622,7 @@
   {
     "name": "Victory, Lakewood",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -194105,7 +194042,7 @@
   {
     "name": "ABI Kielder Lodge",
     "make": "ABI",
-    "model": "Kielder Lodge",
+    "model": "Kielder",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -194168,7 +194105,7 @@
   {
     "name": "Swift Edmonton Lodge",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": "43ft x 20ft",
     "bedrooms": 4.0,
     "year": null,
@@ -194525,7 +194462,7 @@
   {
     "name": "Victory Lakewood Static Caravan",
     "make": "Victory",
-    "model": "Lakewood",
+    "model": "Lakewood Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": null,
     "year": 2022.0,
@@ -196289,7 +196226,7 @@
   {
     "name": "Swift Toronto Static Caravan - 2 Bedroom",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196751,7 +196688,7 @@
   {
     "name": "Atlas Jasmine",
     "make": "Atlas",
-    "model": "Jasmine",
+    "model": "Jasmine Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -198074,7 +198011,7 @@
   {
     "name": "Carnaby Helmsley 2019",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -198137,7 +198074,7 @@
   {
     "name": "Carnaby Helmsley 2019 (Villa)",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -198242,7 +198179,7 @@
   {
     "name": "Atlas Lilac",
     "make": "Atlas",
-    "model": "Lilac",
+    "model": "Lilac Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": null,
@@ -202526,7 +202463,7 @@
   {
     "name": "2022 Atlas Oakwood",
     "make": "Atlas",
-    "model": "Oakwood",
+    "model": "Oakwood Lodge",
     "dimensions": "20ft x 40ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -202694,7 +202631,7 @@
   {
     "name": "Morlaix Lodge",
     "make": "Swift",
-    "model": "Morlaix Lodge",
+    "model": "Morlaix",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -210149,7 +210086,7 @@
   {
     "name": "2019 Carnaby Helmsley",
     "make": "Carnaby",
-    "model": "Helmsley",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -212732,7 +212669,7 @@
   {
     "name": "Swift Toronto 2026 (Lodge)",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -212774,7 +212711,7 @@
   {
     "name": "Swift Edmonton 2026 (Lodge)",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -212921,7 +212858,7 @@
   {
     "name": "Swift Toronto 2020 (Lodge)",
     "make": "Swift",
-    "model": "Toronto",
+    "model": "Toronto Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -213089,7 +213026,7 @@
   {
     "name": "Willerby Clearwater Lodge 2018 (Lodge)",
     "make": "Willerby",
-    "model": "Clearwater Lodge",
+    "model": "Clearwater",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -213131,7 +213068,7 @@
   {
     "name": "Delta Superior Lodge 2023 (Lodge)",
     "make": "Delta",
-    "model": "Superior Lodge",
+    "model": "Superior",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -213299,7 +213236,7 @@
   {
     "name": "Swift Edmonton 2026 (Lodge)",
     "make": "Swift",
-    "model": "Edmonton",
+    "model": "Edmonton Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2026.0,
