@@ -955,7 +955,6 @@ Willerby,Rio,Willerby Rio 2025 (Static Caravan),,2,2025,,59995,Bowland Fell Holi
 Willerby,Rio Gold,2011 Willerby Rio Gold,35ft x 12ft,2,2011,,24995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,
 Willerby,Salsa,Willerby Salsa 2014 (Static Caravan),,3,2014,,22995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
 Willerby,Skyline,Willerby Skyline 2015 (Static Caravan),39ft x 13ft,2,2015,,49995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
-,,The Weymouth,35ft x 12ft,2,,,61995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 ABI,Ambleside,ABI Ambleside 2 Bed,40ft x 13ft,2,,,129995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 ABI,Ambleside,ABI Ambleside 3 Bed,41ft x 13ft,3,,,129995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 ABI,Danleigh,,35ft x 12ft,2,,,64995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,PERFECT FIRST-TIME BUY,
@@ -963,6 +962,7 @@ ABI,Ingleton,,40ft x 13ft,2,,,122995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waters
 ABI,Keswick,,36ft x 12ft,2,,,74995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 ABI,St David,,38ft x 12ft,2,,,84995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 Carnaby,Silverdale,,40ft x 12ft,3,,,84995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
+Carnaby,Weymouth,,35ft x 12ft,2,,,61995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 Pemberton,Abingdon,,36ft x 12ft,2,,,79995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 Willerby,Buxton,,40ft x 12ft,2,,,104995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,,
 Willerby,Malton,,35ft x 12ft,2,,,68995,Bowleaze Cove,Bowleaze Cove,DT3 6PP,,Waterside Holiday Group,,PRICE REDUCED,
@@ -1610,12 +1610,12 @@ Victory,Vermont,Victory Vermont Vue Static Caravan - 2 Bedroom,36ft x 12ft,2,201
 Willerby,Midhurst,Willerby Midhurst Static Caravan - 2 Bedroom,35ft x 12ft,2,2024,,48995,Chantry,Chantry,DL8 4NA,"Chantry, Leyburn, North Yorkshire",Parklink,,For Sale,
 Willerby,Rio,Willerby Rio 2025,36ft x 12ft,2,2025,,51995,Chantry,Chantry,DL8 4NA,"Chantry, Yorkshire",Park Holidays,,,
 Swift,Morlaix,"Swift, Morlaix",38ft x 12ft,2,2026,,69995,Chantry Country  Leisure Park,Chantry Country  Leisure Park,DL8 4NA,"Chantry Country  Leisure Park, Yorkshire Dales",My Holiday Caravan - Chantry Country  Leisure Park,,,
-,,,35ft x 12ft,2,2026,,44995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Carnaby,Ashdale Outlook,,36ft x 12ft,3,2026,,64995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Carnaby,Melrose,,36ft x 12ft,3,2026,,59995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Delta,Sienna,,36ft x 12ft,3,2022,,42995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Pemberton,Avon,,35ft x 12ft,3,2023,,74995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Victory,Coaster,,35ft x 12ft,2,2017,,43995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
+Victory,Coaster,,35ft x 12ft,2,2017,,44995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Victory,Grovewood,,38ft x 12ft,2,2017,,56995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Victory,Stonewood,,39ft x 12ft,2,2023,,64995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
 Willerby,Rio,,36ft x 12ft,2,2025,,51995,Chantry Country and Leisure Park,Chantry Country and Leisure Park,DL8 4NA,,Harvey Longsons,,,
@@ -1626,7 +1626,6 @@ Omar,Charmouth,,43ft x 13ft,2,2022,,5000,Cheddar Woods Resort & Spa,Cheddar Wood
 Swift,Champagne,"2 bedroom lodge for sale in Cheddar Woods, Somerset",,2,2014,,59995,Cheddar Woods Resort & Spa,Cheddar Woods Resort & Spa,BS27 3DB,"Cheddar Woods Resort & Spa, Somerset",Private Sale Caravans,,,
 Swift,Moselle,Swift Moselle Static Caravan - 2 Bedroom,40ft x 13ft,2,2014,,47500,Cheddar Woods Resort & Spa,Cheddar Woods Resort & Spa,BS27 3DB,"Cheddar Woods Resort & Spa, Cheddar, Somerset",Parklink,,For Sale,
 Willerby,Meridian,,42ft x 13ft,3,,,54995,Cheddar Woods Resort & Spa,Cheddar Woods Resort & Spa,BS27 3DB,,Darwin Escapes,,,Static Caravan/Lodge
-,,Park Realty Group Barrington Holiday Lodge,,,,,210000,Cherry Tree Holiday Lodge Park,Cherry Tree Holiday Lodge Park,NR31 9QR,,West Country Parks,,,
 ABI,Colorado,"ABI, Colorado Deluxe",36ft x 12ft,3,2008,,16995,Cherry Tree Holiday Park,Cherry Tree Holiday Park,NR31 9QR,"Cherry Tree Holiday Park, Norfolk",My Holiday Caravan - Cherry Tree Holiday Park,,,
 ABI,Connoisseur,"ABI, Connoisseur",38ft x 12ft,3,2010,,25995,Cherry Tree Holiday Park,Cherry Tree Holiday Park,NR31 9QR,"Cherry Tree Holiday Park, Norfolk",My Holiday Caravan - Cherry Tree Holiday Park,,,
 ABI,Horizon,"ABI, Horizon",36ft x 12ft,3,2012,,19995,Cherry Tree Holiday Park,Cherry Tree Holiday Park,NR31 9QR,"Cherry Tree Holiday Park, Norfolk",My Holiday Caravan - Cherry Tree Holiday Park,,,
@@ -1807,7 +1806,6 @@ Willerby,Westmorland,Willerby Westmorland 28 x 10 2 bedroom,28ft x 10ft,2,2005,,
 Willerby,Westmorland,Willerby Westmorland 2003,35ft x 12ft,3,2003,,11495,Clarach Bay Holiday Village,Clarach Bay Holiday Village,SY23 3DT,,Vale Holiday Parks,,,Static Caravan
 Willerby,Westmorland,,35ft x 12ft,2,2004,,17995,Clarach Bay Holiday Village,Clarach Bay Holiday Village,SY23 3DT,,Vale Holiday Parks,,,Static Caravan
 Willerby,Winchester,,35ft x 12ft,2,2012,,32995,Clarach Bay Holiday Village,Clarach Bay Holiday Village,SY23 3DT,,Vale Holiday Parks,,,Static Caravan
-,,Large lakeside lodge,,,,,142000,Claylands Park,Claylands Park,PR3 1AJ,,Claylands Park,,,
 Pemberton,,2 bed 2025 Pemberton Caravan For Sale,,2,2025,,64000,Claylands Park,Claylands Park,PR3 1AJ,,Claylands Park,,,
 ABI,Islay,ABI Islay 2026,37ft x 12ft,2,2026,,72800,Clayton Holiday Park,Clayton Holiday Park,KY16 9YB,,Clayton Holiday Park,,,
 ABI,Langdale,ABI | Langdale 2027,40ft x 13ft,2,2027,,104800,Clayton Holiday Park,Clayton Holiday Park,KY16 9YB,,Clayton Holiday Park,,,
@@ -1918,7 +1916,6 @@ Willerby,Herald,2007 Willerby Herald 3 bed,35ft x 10ft,3,2007,,17995,Coastfields
 Willerby,Malton,2021 Willerby Malton 2 bed,35ft x 12ft,2,2021,,37995,Coastfields Holiday Village,Coastfields Holiday Village,PE25 1JU,,Coastfields Leisure,,,
 Willerby,Malton,2026 Willerby Malton 3 bed,37ft x 12ft,3,2026,,49995,Coastfields Holiday Village,Coastfields Holiday Village,PE25 1JU,,Coastfields Leisure,,,
 Willerby,Malton,2025 Willerby Malton 3 bed,37ft x 12ft,3,2025,,49995,Coastfields Holiday Village,Coastfields Holiday Village,PE25 1JU,,Coastfields Leisure,,,
-,,Lesko Shoreline,40ft x 13ft,2,,,169000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,,,
 Aspire,Geneva,,40ft x 20ft,3,,,400000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
 Aspire,Nordica,,45ft x 22ft,3,,,650000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
 Aspire,Vienna,,45ft x 22ft,2,,,530000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
@@ -2617,8 +2614,6 @@ Swift,Morlaix,SWIFT Morlaix Static Caravan - 2 Bedroom,36ft x 12ft,2,2025,,67495
 Willerby,Rio Premier,Willerby Rio Premier Static Caravan - 3 Bedroom,37ft x 12ft,3,2014,,24995,Drimsynie Holiday Village,Drimsynie Holiday Village,PA24 8AD,"Drimsynie Holiday Village, Inveraray, Argyll and Bute",Parklink,,For Sale,
 Willerby,Sierra,Willerby Sierra Static Caravan - 3 Bedroom,38ft x 12ft,3,2023,,54995,Drimsynie Holiday Village,Drimsynie Holiday Village,PA24 8AD,"Drimsynie Holiday Village, Inveraray, Argyll and Bute",Parklink,,For Sale,
 Swift,Vendee Lodge,,42ft x 14ft,2,2026,,94995,Durham,Durham,,,Ideal Caravans,,,
-,,Driftwood Cove 2026,,2,2026,,68995,Eastern Beach Holiday Park,Eastern Beach Holiday Park,NR30 5HH,,The Family Parks Group,,,
-,Cove,Driftwood Cove,,2,2026,,68995,Eastern Beach Holiday Park,Eastern Beach Holiday Park,NR30 5HH,,Harvey Longsons,,,
 ABI,Summer Breeze,ABI Summer Breeze 2019,28ft x 10ft,2,2019,,23495,Eastern Beach Holiday Park,Eastern Beach Holiday Park,NR30 5HH,,The Family Parks Group,,,
 ABI,Summer Breeze,,28ft x 10ft,2,2019,,24995,Eastern Beach Holiday Park,Eastern Beach Holiday Park,NR30 5HH,,Harvey Longsons,,,
 Atlas,Festival,Atlas Festival 2024,28ft x 10ft,2,2024,,37659,Eastern Beach Holiday Park,Eastern Beach Holiday Park,NR30 5HH,,The Family Parks Group,,,
@@ -2884,7 +2879,6 @@ Willerby,Hayward,2023 Willerby Hayward,40ft x 20ft,2,2023,,,Fir Trees Caravan an
 Willerby,Impression,2023 Willerby Impression,35ft x 12ft,2,2023,,,Fir Trees Caravan and Lodge Park (Chester),Fir Trees Caravan and Lodge Park (Chester),,,Lloyds Caravans,,New,
 Willerby,Salisbury,2027 Willerby Salisbury,38ft x 12ft,2,2027,,59771,Fir Trees Caravan and Lodge Park (Chester),Fir Trees Caravan and Lodge Park (Chester),,,Lloyds Caravans,,New,
 Willerby,Aspen,,38ft x 12ft,2,,,26995,Fir View Tan Y Ffridd Holiday Park,Fir View Tan Y Ffridd Holiday Park,,"Fir View Tan Y Ffridd Holiday Park, Powys",Parkmove,,,
-,,The Plantation,,2,,,265995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,,,
 Cambrian,,,40ft x 20ft,3,2018,,279900,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,"Fishguard Bay Resort, West Wales",My Holiday Caravan - Fishguard Bay Resort,Y,,
 Tingdene,Brampton,"Tingdene, Brampton",42ft x 22ft,3,2023,,299000,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,"Fishguard Bay Resort, West Wales",My Holiday Caravan - Fishguard Bay Resort,Y,,
 ABI,Coworth,Abi Coworth 28 x 12 2 bed,28ft x 12ft,2,2021,,25995,Fishguard Holiday Park,Fishguard Holiday Park,SA65 9JH,,Vale Holiday Parks,,,Static Caravan
@@ -5355,10 +5349,10 @@ Willerby,Malton,,36ft x 12ft,2,2026,,56000,New Romney Holiday Park,New Romney Ho
 Willerby,Malton,Willerby Malton 2026,,2,2026,,56000,New Romney Holiday Park,New Romney Holiday Park,TN28 8PB,,The Family Parks Group,,,
 Willerby,Sheraton,Willerby Sheraton 2023,,2,2023,,67000,New Romney Holiday Park,New Romney Holiday Park,TN28 8PB,,The Family Parks Group,,,
 Willerby,Sheraton,,40ft x 13ft,2,2023,,72000,New Romney Holiday Park,New Romney Holiday Park,TN28 8PB,,Harvey Longsons,,,
-,,Stratford,,2,,,149000,Newbridge Country Park,Newbridge Country Park,,,Myholidayparks,,,
 ABI,Beverley,The Beverley,,2,,,74900,Newbridge Country Park,Newbridge Country Park,,,Myholidayparks,,,
 ABI,Islay II,ABI Islay II Static Caravan - 2 Bedroom,37ft x 12ft,2,2025,,74000,Newbridge Country Park,Newbridge Country Park,,"Newbridge Country Park, Dumfries, South Scotland",Parklink,,Sold,
 ABI,Windermere,ABI Windermere Static Caravan - 2 Bedroom,40ft x 13ft,2,2026,,79000,Newbridge Country Park,Newbridge Country Park,,"Newbridge Country Park, Dumfries, South Scotland",Parklink,,Sold,
+Delta,Stratford,,,2,,,149000,Newbridge Country Park,Newbridge Country Park,,,Myholidayparks,,,Lodge
 Swift,Morlaix Lodge,Morlaix Lodge,,2,,,92000,Newbridge Country Park,Newbridge Country Park,,,Myholidayparks,,,
 Swift,Vendee,The Vendee,,2,,,105000,Newbridge Country Park,Newbridge Country Park,,,Myholidayparks,,,
 ABI,Oakley,,37ft x 12ft,,2015,,29950,Newbus Grange,Newbus Grange,DL2 1PE,,Maguires Country Parks,,,
@@ -5635,7 +5629,6 @@ Swift,Margaux,Swift Margaux Static Caravan - 2 Bedroom,38ft x 12ft,2,2021,,49995
 Willerby,Malton Elite,"Willerby, Malton Elite",40ft x 14.5ft,2,2025,,99995,Oaklands Holiday Park,Oaklands Holiday Park,CO16 8HW,"Oaklands Holiday Park, Essex",My Holiday Caravan - Oaklands Holiday Park,,,
 ABI,Horizon,ABI Horizon Static Caravan - 3 Bedroom,36ft x 10ft,3,2011,,19995,Oaklands Park,Oaklands Park,,"Oaklands Park, Nr-Clacton-On-Sea, Essex",Parklink,,For Sale,
 ABI,St David,ABI St David Static Caravan - 2 Bedroom,36ft x 12ft,2,2013,,29995,Oaklands Park,Oaklands Park,,"Oaklands Park, Nr-Clacton-On-Sea, Essex",Parklink,,For Sale,
-,Lodge,Diamond Lodge,40ft x 13ft,2,2026,,69995,Oakwood Retreat York,Oakwood Retreat York,YO41 4DD,,Harvey Longsons,,,
 ABI,Ambleside,"ABI, Ambleside",40ft x 14ft,2,2015,,48495,Ocean Edge Holiday Park,Ocean Edge Holiday Park,LA3 2XA,"Ocean Edge Holiday Park, Lancashire",My Holiday Caravan - Ocean Edge Holiday Park,,,
 ABI,Horizon,"ABI, Horizon",36ft x 12ft,3,2011,,19495,Ocean Edge Holiday Park,Ocean Edge Holiday Park,LA3 2XA,"Ocean Edge Holiday Park, Lancashire",My Holiday Caravan - Ocean Edge Holiday Park,,,
 ABI,Seashore,"ABI, Seashore",36ft x 12ft,2,2013,,29995,Ocean Edge Holiday Park,Ocean Edge Holiday Park,LA3 2XA,"Ocean Edge Holiday Park, Lancashire",My Holiday Caravan - Ocean Edge Holiday Park,,,
@@ -7754,7 +7747,6 @@ Willerby,Malton,Willerby Malton Static Caravan - 3 Bedroom,37ft x 12ft,3,2024,,5
 Willerby,Sailsbury,Willerby Sailsbury Static Caravan - 2 Bedroom,35ft x 12ft,2,2026,,64995,Seven Lakes Holiday Park,Seven Lakes Holiday Park,DN17 4BQ,"Seven Lakes Holiday Park, Scunthorpe , Lincolnshire",Parklink,,For Sale,
 Willerby,Salsa Eco,Willerby Salsa Eco Static Caravan - 3 Bedroom,35ft x 12ft,3,2012,,31995,Seven Lakes Holiday Park,Seven Lakes Holiday Park,DN17 4BQ,"Seven Lakes Holiday Park, Scunthorpe , Lincolnshire",Parklink,,Sold,
 ,Shalom Lodge,,42ft x 14ft,2,2020,,90000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
-,Sunny Hill,,43ft x 14ft,2,2021,,119995,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
 ABI,Beaumont,,42ft x 14ft,2,,,115000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
 Aspire,Oslo,,40ft x 20ft,2,,,175000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
 Aspire,Santorini,,40ft x 20ft,2,,,299995,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
@@ -7764,12 +7756,6 @@ Swift,Vendee,,45ft x 13ft,2,2021,,85000,Seven Springs,Seven Springs,SY23 5LZ,,Se
 Willerby,,Willerby Holiday home Static Caravan - 2 Bedroom,35ft x 12ft,2,2019,,24995,Shaw Hall Holiday Park,Shaw Hall Holiday Park,L40 8HJ,"Shaw Hall Holiday Park, Ormskirk, Lancashire",Parklink,,For Sale,
 ABI,Roecliffe,Abi Roecliffe Static Caravan - 2 Bedroom,38ft x 12ft,2,2023,,74995,Shawhall,Shawhall,L40 8HJ,"Shawhall, Ormskirk, Lancashire",Parklink,,For Sale,
 Willerby,Malton,New Willerby Malton Static Caravan - 3 Bedroom,35ft x 12ft,3,2023,,54995,Shawhall,Shawhall,L40 8HJ,"Shawhall, Ormskirk, Lancashire",Parklink,,For Sale,
-,,Traditional Lodge,,2,,,150000,Sherwood Hideaway,Sherwood Hideaway,,,Myholidayparks,,,
-,,Rustic Lodge,,2,,,180000,Sherwood Hideaway,Sherwood Hideaway,,,Myholidayparks,,,
-,,Woodland View Lodge,,2,,,199000,Sherwood Hideaway,Sherwood Hideaway,,,Myholidayparks,,,
-,,Woodland View Lodge 3,,3,,,225000,Sherwood Hideaway,Sherwood Hideaway,,,Myholidayparks,,,
-,,Traditional Lodge 3,,3,,,225000,Sherwood Hideaway,Sherwood Hideaway,,,Myholidayparks,,,
-,,Rustic Lodge 3,,3,,,225000,Sherwood Hideaway,Sherwood Hideaway,,,Myholidayparks,,,
 ABI,Beaumont,,42ft x 14ft,2,,,96995,Shorefield Country Park,Shorefield Country Park,SO41 0LH,,Harvey Longsons,,,
 ABI,Beaumont,"ABI, Beaumont",42ft x 14ft,2,2026,,139995,Shorefield Country Park,Shorefield Country Park,SO41 0LH,"Shorefield Country Park, Hampshire",My Holiday Caravan - Shorefield Country Park,,,
 ABI,Beaumont,The Beaumont by ABI,42ft x 14ft,2,,,139995,Shorefield Country Park,Shorefield Country Park,SO41 0LH,,Shorefield Holidays,,For Sale,Caravan
@@ -8394,13 +8380,13 @@ Willerby,Midhurst,Willerby Midhurst 2024,35ft x 12ft,2,2024,,36995,Steeple Bay,S
 Willerby,Rio,Willerby Rio 2011,35ft x 12ft,2,2011,,16995,Steeple Bay,Steeple Bay,CM0 7RS,"Steeple Bay, Essex",Park Holidays,,,
 Willerby,Rio,Willerby Rio 2025,36ft x 12ft,2,2025,,59995,Steeple Bay,Steeple Bay,CM0 7RS,"Steeple Bay, Essex",Park Holidays,,,
 Willerby,Rio Premier,Willerby Rio Premier 2014,37ft x 12ft,3,2014,,26995,Steeple Bay,Steeple Bay,CM0 7RS,"Steeple Bay, Essex",Park Holidays,,,
-,,Horizon 2010 (Static Caravan),,3,2010,,16995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Amberley,,37ft x 12ft,2,2024,,79995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Harvey Longsons,,,
 ABI,Arizona Premier,Abi Arizona Premier 2024 (Static Caravan),,2,2024,,38995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Derwent,Abi Derwent 2012 (Static Caravan),,2,2012,,24995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Derwent,ABI Derwent Static Caravan - 2 Bedroom,36ft x 12ft,2,2012,,26995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,"Steeple Bay Holiday Park, Steeple, Southminster, Essex",Parklink,,For Sale,
 ABI,Fairlight,Abi Fairlight 2019 (Static Caravan),,3,2019,,42995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Horizon,Horizon Static Caravan - 3 Bedroom,36ft x 12ft,3,2010,,16995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,"Steeple Bay Holiday Park, Steeple, Southminster, Essex",Parklink,,For Sale,
+ABI,Horizon,,,3,2010,,16995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Horizon,Abi New Horizon 2013 (Static Caravan),,3,2013,,19995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Horizon,Abi New Horizon 2016 (Static Caravan),,3,2016,,20995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 ABI,Horizon,Abi Horizon 2017 (Static Caravan),,3,2017,,23500,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
@@ -8779,7 +8765,6 @@ Willerby,Mistral,Willerby Mistral 2020,28ft x 10ft,2,2020,,23500,Tarn House,Tarn
 Willerby,Rio,Willerby Rio 2026,28ft x 12ft,2,2026,,29995,Tarn House,Tarn House,BD23 3FF,,Partington's Holiday Centres,,,
 Willerby,Salisbury,Willerby Salisbury 2026,38ft x 12ft,2,2026,,54577,Tarn House,Tarn House,BD23 3FF,,Partington's Holiday Centres,,,
 Willerby,Sierra,Willerby Sierra 2023,38ft x 12ft,2,2023,,54060,Tarn House,Tarn House,BD23 3FF,,Partington's Holiday Centres,,,
-,Unit Twin Unit,Twin Unit Twin Unit - 2000,,,2000,,149000,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,,,
 ABI,Balmoral,A.B.I Balmoral - 2026,43ft x 14ft,3,2026,,124995,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,,,
 ABI,Driftwood,A.B.I Driftwood - 2026,36ft x 12ft,2,2026,,37995,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,,,
 ABI,Ingleton,A.B.I Ingleton - 2026,40ft x 13ft,2,2026,,99995,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,,,
@@ -8813,8 +8798,6 @@ Willerby,Mapleton,Willerby Mapleton - 2021,40ft x 20ft,3,2021,,130000,Tattershal
 Willerby,Rutherford,Willerby Rutherford - 2017,40ft x 20ft,3,2017,,119995,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,Y,,
 Willerby,Salsa Eco,Willerby Salsa Eco - 2014,35ft x 12ft,3,2014,,27995,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,,,
 Willerby,Vogue Lodge Classique,Willerby Vogue Lodge Classique - 2026,43ft x 14ft,2,2026,,129995,Tattershall Lakes,Tattershall Lakes,,,Away Resorts,,,
-,Unit Twin Unit,"Twin, Unit Twin Unit",,,2000,,149000,Tattershall Lakes Country Park,Tattershall Lakes Country Park,LN4 4LR,"Tattershall Lakes Country Park, Lincolnshire",My Holiday Caravan - Tattershall Lakes Country Park,,,
-,Unit Twin Unit,Twin Unit Twin Unit Static Caravan,,,2000,,149000,Tattershall Lakes Country Park,Tattershall Lakes Country Park,LN4 4JG,"Tattershall Lakes Country Park, Tattershall, Lincolnshire",Parklink,,For Sale,
 ABI,Westland,A.B.I Westland,36ft x 12ft,2,2025,,39995,Tattershall Lakes Country Park,Tattershall Lakes Country Park,LN4 4JG,,Harvey Longsons,,,
 Atlas,Adventure,,41ft x 12ft,3,2017,,47995,Tattershall Lakes Country Park,Tattershall Lakes Country Park,LN4 4JG,,Harvey Longsons,,,
 Swift,Biarritz,"Swift Biarritz 2016 with decking & hot tub on Tattershall Lakes, Lincolnshire",,3,2016,,30000,Tattershall Lakes Country Park,Tattershall Lakes Country Park,LN4 4JG,"Tattershall Lakes Country Park, Lincolnshire",Private Sale Caravans,,,
@@ -9966,28 +9949,6 @@ Willerby,Avonmore,"Willerby, Avonmore",38ft x 12ft,3,2014,,20686,Wild Duck Holid
 Willerby,Ellerton Extra,"Willerby, Ellerton Extra",35ft x 12ft,3,2025,,26495,Wild Duck Holiday Park,Wild Duck Holiday Park,NR31 9NE,"Wild Duck Holiday Park, Norfolk",My Holiday Caravan - Wild Duck Holiday Park,,,
 Willerby,Seasons,"Willerby, Seasons MK2",35ft x 12ft,3,2019,,22495,Wild Duck Holiday Park,Wild Duck Holiday Park,NR31 9NE,"Wild Duck Holiday Park, Norfolk",My Holiday Caravan - Wild Duck Holiday Park,,,
 Willerby,Seasons,"Willerby, Seasons MK2",37ft x 12ft,3,2022,,26686,Wild Duck Holiday Park,Wild Duck Holiday Park,NR31 9NE,"Wild Duck Holiday Park, Norfolk",My Holiday Caravan - Wild Duck Holiday Park,,,
-,,,35ft x 12ft,2,2026,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,2025,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,2026,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
-,,,35ft x 12ft,2,,,59280,,Wild Rose Holiday Park,CA16 6EJ,", Appleby-in-Westmorland, Cumbria, CA16 6EJ",Harvey Longsons,,,
 ABI,Ambleside Premier,ABI Ambleside Premier (Including Hot Tub) 2026,40ft x 14ft,3,2026,,129995,Wild Rose Holiday Park,Wild Rose Holiday Park,CA16 6EJ,,Harrison Holidays,,,
 Atlas,Festival,Atlas Festival 2019,35ft x 12ft,2,2019,,44995,Wild Rose Holiday Park,Wild Rose Holiday Park,CA16 6EJ,,Harrison Holidays,,,
 Atlas,Style,Atlas Style 2017,38ft x 12ft,2,2017,,56520,Wild Rose Holiday Park,Wild Rose Holiday Park,CA16 6EJ,,Harrison Holidays,,,
@@ -10014,8 +9975,6 @@ Regal,Hemsworth,The Hemsworth by Regal,40ft x 13ft,2,,,99995,Wilksworth Caravan 
 Swift,Biarritz,The Biarritz by Swift,38ft x 12ft,2,,,59995,Wilksworth Caravan Park,Wilksworth Caravan Park,BH21 4HW,,Shorefield Holidays,,For Sale,Caravan
 Swift,Moselle,The Moselle by Swift,38ft x 12ft,2,,,46995,Wilksworth Caravan Park,Wilksworth Caravan Park,BH21 4HW,,Shorefield Holidays,,For Sale,Caravan
 Willerby,Brockenhurst,The Brockenhurst by Willerby,35ft x 12ft,2,,,36995,Wilksworth Caravan Park,Wilksworth Caravan Park,BH21 4HW,,Shorefield Holidays,,For Sale,Caravan
-,,Bespoke 2 Bedroom Lodge,,2,,,185000,Willow Lakes,Willow Lakes,,,Myholidayparks,,,
-,,Bespoke 3 Bedroom Lodge,,3,,,195000,Willow Lakes,Willow Lakes,,,Myholidayparks,,,
 Carnaby,Rosedale,Pre-Owned Carnaby Rosedale 39×12 2B 2019 (2019),39ft x 12ft,2,2019,,24950,Willow Tree,Willow Tree,LA11 7LU,"Willow Tree, Cumbria",Daly Parks,,,
 Willerby,Malton,,35ft x 12ft,2,2021,,32500,Willow Tree Holiday Park,Willow Tree Holiday Park,LA11 7LU,,Harvey Longsons,,,
 Willerby,Seasons,,35ft x 12ft,2,2021,,25000,Willow Tree Holiday Park,Willow Tree Holiday Park,LA11 7LU,,Harvey Longsons,,,
