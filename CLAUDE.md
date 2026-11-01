@@ -43,6 +43,9 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
   Abbeyford Leisure, Lovat Parks via the shared `park_operator_scraper.py`). Total 74 websites.
   Harvey Longsons and Harrison use real Chrome via `nodriver`. Output:
   `combined_all_listings_<Mon>_<Year>.csv`, already cleaned by `post_process()`.
+- `make_model_cleanup.py` (next to the scraper, called first in `post_process()`): makes → manufacturer
+  only, models lose advert wording; applies the owner's `make_model_corrections.csv`
+  (make,model,new_make,new_model) and saves `make_model_review.csv` (uncertain items for the owner).
 - `website_update.py <that csv>` – postcodes → `combined_all_listings_with_postcodes_<Mon>_<Year>.csv`,
   writes `website\data.json`, runs `build_history.py`. Rebuilt Oct 2026 identically to what's live.
 - Failing sites save page copies to a `diagnostics\` folder – ask the owner to zip and send it.
