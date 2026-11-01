@@ -70,7 +70,7 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
 - **Lodges (from Nov 2026):** lodges by a main manufacturer (`MAIN_LODGE_MAKERS` in the scraper) are kept,
   `property_type = "Lodge"`; bespoke lodges (no recognised make, or a no-make home 20ft+ wide) are dropped.
   Never drop a caravan just for "Lodge" in its name. Park homes and tourers are removed; homes 16ft+ wide
-  are flagged `is_twin`. Website lodge filter not built yet – owner to choose how lodges show.
+  are flagged `is_twin`. Lodges show mixed in with caravans; owner said hold off on a lodge filter (Nov 2026).
 - Sold / under offer listings are left out.
 - **"New"/"brand new" with no year** → current year, `year_assumed = "Y"` (from Nov 2026); shown on the
   caravan page and explained on Past months.
