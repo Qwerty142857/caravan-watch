@@ -11,7 +11,8 @@ price is kept as a number), and the scrape date (the month is the file)
 are dropped. "name" is left blank when it's just make + model, and
 "location" when it's just the park name, since those can be rebuilt.
 Everything else - park, postcode, make, model, size, bedrooms, year,
-price, site, twin flag - is kept for every listing.
+price, site, twin flag - is kept for every listing. "year_assumed" is Y
+where the advert only said "new" and this year's model was assumed.
 """
 
 import csv
@@ -21,7 +22,7 @@ import statistics
 import sys
 from datetime import date
 
-COLUMNS = ["make", "model", "name", "dimensions", "bedrooms", "year", "price",
+COLUMNS = ["make", "model", "name", "dimensions", "bedrooms", "year", "year_assumed", "price",
            "park", "canonical_park", "postcode", "location", "source_site",
            "is_twin", "availability", "property_type"]
 
@@ -57,6 +58,7 @@ def condense(row):
         "dimensions": clean(row.get("dimensions")),
         "bedrooms": as_int(row.get("bedrooms")) or "",
         "year": as_int(row.get("year")) or "",
+        "year_assumed": "Y" if clean(row.get("year_assumed")).upper() == "Y" else "",
         "price": as_int(row.get("price_number")) or "",
         "park": park, "canonical_park": clean(row.get("canonical_park")),
         "postcode": clean(row.get("postcode")), "location": location,

@@ -524,6 +524,7 @@
   .change { display: block; font-size: 11.5px; color: var(--muted); font-weight: 400; }
   .change.up { color: var(--teal); }
   .change.down { color: var(--coral); }
+  .month-note { display: block; font-size: 11.5px; font-weight: 400; color: var(--muted); white-space: normal; max-width: 30ch; margin-top: 3px; }
   a.download { font-weight: 600; text-decoration: none; }
   a.download:hover, a.download:focus-visible { text-decoration: underline; }
   dl.columns { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0; font-size: 13.5px; }
@@ -538,7 +539,8 @@
     table.months tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
     table.months tr:last-child { border-bottom: none; }
     table.months td { border: none; padding: 3px 0; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; text-align: right; white-space: normal; }
-    table.months td.month { font-size: 15px; padding-bottom: 6px; }
+    table.months td.month { font-size: 15px; padding-bottom: 6px; display: block; }
+    .month-note { max-width: none; }
     table.months td[data-label]::before { content: attr(data-label); font-size: 12px; color: var(--muted); text-align: left; }
     .change { display: inline; margin-left: 6px; }
     dl.columns { grid-template-columns: 1fr; gap: 2px; }
@@ -602,6 +604,7 @@
       <dt>name</dt><dd>The advert's own title &ndash; only filled in when it says more than the make and model</dd>
       <dt>dimensions</dt><dd>Length x width in feet</dd>
       <dt>bedrooms, year</dt><dd>Number of bedrooms and the year the caravan was built</dd>
+      <dt>year_assumed</dt><dd>Y where the advert only said &ldquo;new&rdquo; or &ldquo;brand new&rdquo; without a year &ndash; we record these as the current year&rsquo;s model (from November 2026). Occasionally a new caravan is an earlier year&rsquo;s model that hasn&rsquo;t yet sold, so treat these years as approximate.</dd>
       <dt>price</dt><dd>Asking price in pounds</dd>
       <dt>park</dt><dd>The park as the website named it</dd>
       <dt>canonical_park</dt><dd>The same park under its standard name, so one park is counted once whichever site listed it</dd>
@@ -646,7 +649,8 @@
       body.innerHTML = months.map((m, i) => {
         const prev = months[i + 1] || {};
         return '<tr>' +
-          '<td class="month">' + esc(m.label) + '</td>' +
+          '<td class="month">' + esc(m.label) +
+            (m.note ? '<span class="month-note">' + esc(m.note) + '</span>' : '') + '</td>' +
           '<td data-label="Caravans"><span>' + fmtInt(m.listings) + change(m.listings, prev.listings) + '</span></td>' +
           '<td data-label="Parks"><span>' + fmtInt(m.parks) + change(m.parks, prev.parks) + '</span></td>' +
           '<td data-label="Websites"><span>' + fmtInt(m.sites) + '</span></td>' +
