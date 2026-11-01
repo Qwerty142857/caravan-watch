@@ -2,7 +2,7 @@
   {
     "name": "Homeseeker Rochester with Hot Tub",
     "make": "Homeseeker",
-    "model": "Rochester with Hot Tub",
+    "model": "Rochester",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -107,7 +107,7 @@
   {
     "name": "Cambrian Plantation with hot tub",
     "make": "Cambrian",
-    "model": "Plantation with hot tub",
+    "model": "Plantation",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2013.0,
@@ -170,7 +170,7 @@
   {
     "name": "Homeseeker Custom Lodge with hot tub",
     "make": "Homeseeker",
-    "model": "Custom Lodge with hot tub",
+    "model": "Custom Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -295,8 +295,8 @@
   },
   {
     "name": "Stately Kielder with hot tub",
-    "make": "Stately",
-    "model": "Kielder with hot tub",
+    "make": "Stately Albion",
+    "model": "Kielder",
     "dimensions": "46ft x 20ft",
     "bedrooms": 3.0,
     "year": 2016.0,
@@ -317,7 +317,7 @@
   {
     "name": "Tingdene Country with Hot Tub",
     "make": "Tingdene",
-    "model": "Country with Hot Tub",
+    "model": "Country",
     "dimensions": "46ft x 20ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -820,7 +820,7 @@
   },
   {
     "name": "BK Caprice",
-    "make": "BK",
+    "make": "BK Bluebird",
     "model": "Caprice",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -1156,7 +1156,7 @@
   },
   {
     "name": "BK Seville",
-    "make": "BK",
+    "make": "BK Bluebird",
     "model": "Seville",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -1240,7 +1240,7 @@
   },
   {
     "name": "Bk Carnival 35 x 12 3 bed",
-    "make": "BK",
+    "make": "BK Bluebird",
     "model": "Carnival",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
@@ -1325,7 +1325,7 @@
   {
     "name": "Willerby Salsa ECO",
     "make": "Willerby",
-    "model": "Salsa ECO",
+    "model": "Salsa Eco",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2014.0,
@@ -1682,7 +1682,7 @@
   {
     "name": "Delta Bromley with decking",
     "make": "Delta",
-    "model": "Bromley with decking",
+    "model": "Bromley",
     "dimensions": "24ft x 12ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -2102,7 +2102,7 @@
   {
     "name": "Willerby Brockenhurst 2019",
     "make": "Willerby",
-    "model": "Brockenhurst 2019",
+    "model": "Brockenhurst",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -3425,7 +3425,7 @@
   {
     "name": "Willerby Sheraton elite",
     "make": "Willerby",
-    "model": "Sheraton elite",
+    "model": "Sheraton Elite",
     "dimensions": "40ft x 14.5ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -4811,7 +4811,7 @@
   {
     "name": "2012 Willerby  Edan",
     "make": "Willerby",
-    "model": " Edan",
+    "model": "Edan",
     "dimensions": "37ft x 12ft",
     "bedrooms": 3.0,
     "year": 2012.0,
@@ -5063,7 +5063,7 @@
   {
     "name": "2019 ABI New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -5105,7 +5105,7 @@
   {
     "name": "2016 Swift  Loire",
     "make": "Swift",
-    "model": " Loire",
+    "model": "Loire",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": 2016.0,
@@ -5147,7 +5147,7 @@
   {
     "name": "2015 Atlas  Moonstone",
     "make": "Atlas",
-    "model": " Moonstone",
+    "model": "Moonstone",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -5420,7 +5420,7 @@
   {
     "name": "2014 Willerby  Skyline",
     "make": "Willerby",
-    "model": " Skyline",
+    "model": "Skyline",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2014.0,
@@ -5756,7 +5756,7 @@
   {
     "name": "2026 Willerby  Coastline",
     "make": "Willerby",
-    "model": " Coastline",
+    "model": "Coastline",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -6070,8 +6070,8 @@
   },
   {
     "name": "2025 Love  Riverdale",
-    "make": "Love",
-    "model": " Riverdale",
+    "make": "Love Holiday Homes",
+    "model": "Riverdale",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -6197,7 +6197,7 @@
   {
     "name": "2026 Swift  Provence",
     "make": "Swift",
-    "model": " Provence",
+    "model": "Provence",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -6617,7 +6617,7 @@
   {
     "name": "2025 Swift  Margaux",
     "make": "Swift",
-    "model": " Margaux",
+    "model": "Margaux",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -6701,7 +6701,7 @@
   {
     "name": "2026 ABI  Ingleton",
     "make": "ABI",
-    "model": " Ingleton",
+    "model": "Ingleton",
     "dimensions": "41ft x 13ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -6722,7 +6722,7 @@
   {
     "name": "2025 Willerby  Sheraton",
     "make": "Willerby",
-    "model": " Sheraton",
+    "model": "Sheraton",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -6889,7 +6889,7 @@
   },
   {
     "name": "2026 Love Heartwood",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
@@ -6953,7 +6953,7 @@
   {
     "name": "Hamptons 10. 3bedroom Loch side Luxury LNHL",
     "make": "Hamptons",
-    "model": "10. 3bedroom Loch side Luxury LNHL",
+    "model": "10. Loch Side Luxury",
     "dimensions": "50ft x 20ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -6974,7 +6974,7 @@
   {
     "name": "Beverley St Andrews BL",
     "make": "Beverley",
-    "model": "St Andrews BL",
+    "model": "St Andrews",
     "dimensions": "42ft x 20ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -6995,7 +6995,7 @@
   {
     "name": "Atlas Debonair HM",
     "make": "Atlas",
-    "model": "Debonair HM",
+    "model": "Debonair",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7016,7 +7016,7 @@
   {
     "name": "Atlas Debonair HM",
     "make": "Atlas",
-    "model": "Debonair HM",
+    "model": "Debonair",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7037,7 +7037,7 @@
   {
     "name": "Willerby Sierra HM",
     "make": "Willerby",
-    "model": "Sierra HM",
+    "model": "Sierra",
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7058,7 +7058,7 @@
   {
     "name": "Victory Bronte HM",
     "make": "Victory",
-    "model": "Bronte HM",
+    "model": "Bronte",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7079,7 +7079,7 @@
   {
     "name": "ABI Cowarth FE",
     "make": "ABI",
-    "model": "Cowarth FE",
+    "model": "Cowarth",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7100,7 +7100,7 @@
   {
     "name": "Victory Silverwood FE",
     "make": "Victory",
-    "model": "Silverwood FE",
+    "model": "Silverwood",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7121,7 +7121,7 @@
   {
     "name": "Willerby Brookwood FE",
     "make": "Willerby",
-    "model": "Brookwood FE",
+    "model": "Brookwood",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7142,7 +7142,7 @@
   {
     "name": "Willerby Linwood FE",
     "make": "Willerby",
-    "model": "Linwood FE",
+    "model": "Linwood",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7163,7 +7163,7 @@
   {
     "name": "Pemberton Rivendale LV",
     "make": "Pemberton",
-    "model": "Rivendale LV",
+    "model": "Rivendale",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7184,7 +7184,7 @@
   {
     "name": "Carnaby Melrose CS",
     "make": "Carnaby",
-    "model": "Melrose CS",
+    "model": "Melrose",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2011.0,
@@ -7205,7 +7205,7 @@
   {
     "name": "Willerby Lyndhurst CS",
     "make": "Willerby",
-    "model": "Lyndhurst CS",
+    "model": "Lyndhurst",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": 2005.0,
@@ -7226,7 +7226,7 @@
   {
     "name": "Atlas Andromeda CS",
     "make": "Atlas",
-    "model": "Andromeda CS",
+    "model": "Andromeda",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2010.0,
@@ -7247,7 +7247,7 @@
   {
     "name": "ABI Beverley CS",
     "make": "ABI",
-    "model": "Beverley CS",
+    "model": "Beverley",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -7268,7 +7268,7 @@
   {
     "name": "Victory Silverwood CS",
     "make": "Victory",
-    "model": "Silverwood CS",
+    "model": "Silverwood",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -7289,7 +7289,7 @@
   {
     "name": "Delta Pure Haven FE",
     "make": "Delta",
-    "model": "Pure Haven FE",
+    "model": "Pure Haven",
     "dimensions": "31ft x 12ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -7310,7 +7310,7 @@
   {
     "name": "ABI Wimbledon LP",
     "make": "ABI",
-    "model": "Wimbledon LP",
+    "model": "Wimbledon",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -7331,7 +7331,7 @@
   {
     "name": "Willerby Linear LP",
     "make": "Willerby",
-    "model": "Linear LP",
+    "model": "Linear",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -7352,7 +7352,7 @@
   {
     "name": "Willerby Meridian LP",
     "make": "Willerby",
-    "model": "Meridian LP",
+    "model": "Meridian",
     "dimensions": "42ft x 13ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -7373,7 +7373,7 @@
   {
     "name": "Sunseeker Supreme LP",
     "make": "Sunseeker",
-    "model": "Supreme LP",
+    "model": "Supreme",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -7394,7 +7394,7 @@
   {
     "name": "Victory Ashberry LVY",
     "make": "Victory",
-    "model": "Ashberry LVY",
+    "model": "Ashberry",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7415,7 +7415,7 @@
   {
     "name": "ABI Pure Indulgence LVY",
     "make": "ABI",
-    "model": "Pure Indulgence LVY",
+    "model": "Pure Indulgence",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -7436,7 +7436,7 @@
   {
     "name": "Willerby Sheraton LP",
     "make": "Willerby",
-    "model": "Sheraton LP",
+    "model": "Sheraton",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7457,7 +7457,7 @@
   {
     "name": "Willerby Sierra LP",
     "make": "Willerby",
-    "model": "Sierra LP",
+    "model": "Sierra",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -7478,7 +7478,7 @@
   {
     "name": "Willerby Pinehurst LVY",
     "make": "Willerby",
-    "model": "Pinehurst LVY",
+    "model": "Pinehurst",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -7499,7 +7499,7 @@
   {
     "name": "Willerby Buxton LVY",
     "make": "Willerby",
-    "model": "Buxton LVY",
+    "model": "Buxton",
     "dimensions": "40ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7520,7 +7520,7 @@
   {
     "name": "Delta Pure Haven FE",
     "make": "Delta",
-    "model": "Pure Haven FE",
+    "model": "Pure Haven",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -7541,7 +7541,7 @@
   {
     "name": "Willerby Aspen SH",
     "make": "Willerby",
-    "model": "Aspen SH",
+    "model": "Aspen",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2005.0,
@@ -7562,7 +7562,7 @@
   {
     "name": "Atlas Nevada SH",
     "make": "Atlas",
-    "model": "Nevada SH",
+    "model": "Nevada",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2007.0,
@@ -7583,7 +7583,7 @@
   {
     "name": "Delta Resort Plus SH",
     "make": "Delta",
-    "model": "Resort Plus SH",
+    "model": "Resort Plus",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -7604,7 +7604,7 @@
   {
     "name": "Atlas Chorus LP",
     "make": "Atlas",
-    "model": "Chorus LP",
+    "model": "Chorus",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -7625,7 +7625,7 @@
   {
     "name": "Victory Silverwood LP",
     "make": "Victory",
-    "model": "Silverwood LP",
+    "model": "Silverwood",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -7646,7 +7646,7 @@
   {
     "name": "Victory Ashberry LP",
     "make": "Victory",
-    "model": "Ashberry LP",
+    "model": "Ashberry",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -7667,7 +7667,7 @@
   {
     "name": "Delta Countryside LP",
     "make": "Delta",
-    "model": "Countryside LP",
+    "model": "Countryside",
     "dimensions": "41ft x 14ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -7688,7 +7688,7 @@
   {
     "name": "ABI Pure Indulgence LP",
     "make": "ABI",
-    "model": "Pure Indulgence LP",
+    "model": "Pure Indulgence",
     "dimensions": "40ft x 13ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -7709,7 +7709,7 @@
   {
     "name": "Delta Resort Haven CS",
     "make": "Delta",
-    "model": "Resort Haven CS",
+    "model": "Resort Haven",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7730,7 +7730,7 @@
   {
     "name": "Europa Rosewood FE",
     "make": "Europa",
-    "model": "Rosewood FE",
+    "model": "Rosewood",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7751,7 +7751,7 @@
   {
     "name": "Swift Margaux BL",
     "make": "Swift",
-    "model": "Margaux BL",
+    "model": "Margaux",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7772,7 +7772,7 @@
   {
     "name": "Lakeland Skydale BL",
     "make": "Lakeland",
-    "model": "Skydale BL",
+    "model": "Skydale",
     "dimensions": "41ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7793,7 +7793,7 @@
   {
     "name": "Victory Ashberry BL",
     "make": "Victory",
-    "model": "Ashberry BL",
+    "model": "Ashberry",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7814,7 +7814,7 @@
   {
     "name": "Victory Bronte FE",
     "make": "Victory",
-    "model": "Bronte FE",
+    "model": "Bronte",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7835,7 +7835,7 @@
   {
     "name": "Willerby Mapleton LP",
     "make": "Willerby",
-    "model": "Mapleton LP",
+    "model": "Mapleton",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7856,7 +7856,7 @@
   {
     "name": "Europa Maple LP",
     "make": "Europa",
-    "model": "Maple LP",
+    "model": "Maple",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7877,7 +7877,7 @@
   {
     "name": "ABI Beverley LP",
     "make": "ABI",
-    "model": "Beverley LP",
+    "model": "Beverley",
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -7898,7 +7898,7 @@
   {
     "name": "Victory Ashberry FE",
     "make": "Victory",
-    "model": "Ashberry FE",
+    "model": "Ashberry",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7919,7 +7919,7 @@
   {
     "name": "Swift Atlantique FE",
     "make": "Swift",
-    "model": "Atlantique FE",
+    "model": "Atlantique",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -7940,7 +7940,7 @@
   {
     "name": "Willerby Malton FE",
     "make": "Willerby",
-    "model": "Malton FE",
+    "model": "Malton",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -7961,7 +7961,7 @@
   {
     "name": "ABI Pure Indulgence FE",
     "make": "ABI",
-    "model": "Pure Indulgence FE",
+    "model": "Pure Indulgence",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -8401,8 +8401,8 @@
   },
   {
     "name": "2 Bedroom Sunrise Beverley Lodge",
-    "make": "Sunrise",
-    "model": "Beverley",
+    "make": "ABI",
+    "model": "Beverley Lodge",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -8906,7 +8906,7 @@
   {
     "name": "Delta BROMLEY",
     "make": "Delta",
-    "model": "BROMLEY",
+    "model": "Bromley",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -9683,7 +9683,7 @@
   {
     "name": "Carnaby Carnaby Carrington",
     "make": "Carnaby",
-    "model": "Carnaby Carrington",
+    "model": "Carrington",
     "dimensions": "40ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -11824,7 +11824,7 @@
   },
   {
     "name": "Love Mountview 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Mountview",
     "dimensions": "40ft x 16ft",
     "bedrooms": 2.0,
@@ -11908,7 +11908,7 @@
   },
   {
     "name": "Love  Mount View 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Mount View",
     "dimensions": "40ft x 16ft",
     "bedrooms": 2.0,
@@ -11950,7 +11950,7 @@
   },
   {
     "name": "Love Gisburn 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Gisburn",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -12013,7 +12013,7 @@
   },
   {
     "name": "Love Whinfell 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Whinfell",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
@@ -12034,7 +12034,7 @@
   },
   {
     "name": "Love Heartwood 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
@@ -12055,7 +12055,7 @@
   },
   {
     "name": "Love Hamlet 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Hamlet",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
@@ -12076,7 +12076,7 @@
   },
   {
     "name": "Love Gisburn 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Gisburn",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -12244,7 +12244,7 @@
   },
   {
     "name": "Love Mountview 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Mountview",
     "dimensions": "40ft x 16ft",
     "bedrooms": 2.0,
@@ -12538,7 +12538,7 @@
   },
   {
     "name": "Love Galloway Lodge 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Galloway Lodge",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
@@ -12559,7 +12559,7 @@
   },
   {
     "name": "Love Riverdale 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Riverdale",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -12580,7 +12580,7 @@
   },
   {
     "name": "Love  Heartwood 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "12ft x 38ft",
     "bedrooms": 2.0,
@@ -12664,8 +12664,8 @@
   },
   {
     "name": "Love  Heartwood  2025",
-    "make": "Love",
-    "model": "Heartwood ",
+    "make": "Love Holiday Homes",
+    "model": "Heartwood",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -12685,7 +12685,7 @@
   },
   {
     "name": "Love Heartwood 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
@@ -12707,7 +12707,7 @@
   {
     "name": "ABI AMBLESIDE PREMIER 2024",
     "make": "ABI",
-    "model": "AMBLESIDE PREMIER",
+    "model": "Ambleside Premier",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -12811,7 +12811,7 @@
   },
   {
     "name": "Love Heartwood 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
@@ -12874,7 +12874,7 @@
   },
   {
     "name": "Love Mount View 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Mount View",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
@@ -12937,7 +12937,7 @@
   },
   {
     "name": "Love Gisburn 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Gisburn",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -13000,7 +13000,7 @@
   },
   {
     "name": "Love Galloway 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Galloway",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
@@ -13084,7 +13084,7 @@
   },
   {
     "name": "Love Gisburn 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Gisburn",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -13126,7 +13126,7 @@
   },
   {
     "name": "Love Mountview 2025",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Mountview",
     "dimensions": "40ft x 16ft",
     "bedrooms": 2.0,
@@ -13273,8 +13273,8 @@
   },
   {
     "name": "Victory Liberte Center Lounge 2026",
-    "make": "Victory Liberte",
-    "model": "Center Lounge",
+    "make": "Victory",
+    "model": "Liberte Center Lounge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -13294,8 +13294,8 @@
   },
   {
     "name": "Tallow Oakgrove 2026",
-    "make": "Tallow",
-    "model": "Oakgrove",
+    "make": "Oakgrove",
+    "model": "Tallow",
     "dimensions": "44ft x 22ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -13379,7 +13379,7 @@
   {
     "name": "Carnaby Oakdale Cl 2024",
     "make": "Carnaby",
-    "model": "Oakdale Cl",
+    "model": "Oakdale CL",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -13463,7 +13463,7 @@
   {
     "name": "Willerby Skye  2018",
     "make": "Willerby",
-    "model": "Skye ",
+    "model": "Skye",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -13778,7 +13778,7 @@
   {
     "name": "ABI Ambleside Premier (Including Hot Tub) 2026",
     "make": "ABI",
-    "model": "Ambleside Premier (Including Hot Tub)",
+    "model": "Ambleside Premier",
     "dimensions": "40ft x 14ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -13799,7 +13799,7 @@
   {
     "name": "ABI BALMORAL 2026",
     "make": "ABI",
-    "model": "BALMORAL",
+    "model": "Balmoral",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -13861,7 +13861,7 @@
   },
   {
     "name": "Love Galloway 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Galloway",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
@@ -14071,7 +14071,7 @@
   },
   {
     "name": "Love Galloway 2026",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Galloway",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
@@ -15038,7 +15038,7 @@
   {
     "name": "2002 Cosalt Torino plus 3 bed",
     "make": "Cosalt",
-    "model": "Torino plus",
+    "model": "Torino Plus",
     "dimensions": "32ft x 12ft",
     "bedrooms": 3.0,
     "year": 2002.0,
@@ -19091,7 +19091,7 @@
   {
     "name": "Corona Sunrise 2015 P2",
     "make": "Corona",
-    "model": "Sunrise P2",
+    "model": "Sunrise",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -19112,7 +19112,7 @@
   {
     "name": "New Willerby Malton 2026",
     "make": "Willerby",
-    "model": "New Malton",
+    "model": "Malton",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -19343,7 +19343,7 @@
   {
     "name": "2021 ABI Ryedale P43",
     "make": "ABI",
-    "model": "Ryedale P43",
+    "model": "Ryedale",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -19385,7 +19385,7 @@
   {
     "name": "ABI Roecliffe 2022 P25A",
     "make": "ABI",
-    "model": "Roecliffe P25A",
+    "model": "Roecliffe",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -19406,7 +19406,7 @@
   {
     "name": "ABI Windermere 2026 RESI SPEC UPGRADE*",
     "make": "ABI",
-    "model": "Windermere RESI SPEC UPGRADE*",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -19616,7 +19616,7 @@
   {
     "name": "Abi Islay II*  2026",
     "make": "ABI",
-    "model": "Islay II*",
+    "model": "Islay II",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -21653,7 +21653,7 @@
   {
     "name": "Swift Bordeaux 38×12",
     "make": "Swift",
-    "model": "Bordeaux 38×12",
+    "model": "Bordeaux",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -21674,7 +21674,7 @@
   {
     "name": "Pemberton Marlow 37×12",
     "make": "Pemberton",
-    "model": "Marlow 37×12",
+    "model": "Marlow",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -21716,7 +21716,7 @@
   {
     "name": "Swift Loire 36×12",
     "make": "Swift",
-    "model": "Loire 36×12",
+    "model": "Loire",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -21779,7 +21779,7 @@
   {
     "name": "Pemberton Rivington CXL 42×13",
     "make": "Pemberton",
-    "model": "Rivington CXL 42×13",
+    "model": "Rivington CXL",
     "dimensions": "42ft x 13ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -21821,7 +21821,7 @@
   {
     "name": "Victory Lakewood Lodge 42 x14",
     "make": "Victory",
-    "model": "Lakewood Lodge 42 x14",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -21926,7 +21926,7 @@
   {
     "name": "Pemberton Avon 35×12",
     "make": "Pemberton",
-    "model": "Avon 35×12",
+    "model": "Avon",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -21947,7 +21947,7 @@
   {
     "name": "Willerby Sierra 35×12",
     "make": "Willerby",
-    "model": "Sierra 35×12",
+    "model": "Sierra",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -21989,7 +21989,7 @@
   {
     "name": "Pemberton Marlow 38×12",
     "make": "Pemberton",
-    "model": "Marlow 38×12",
+    "model": "Marlow",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -22010,7 +22010,7 @@
   {
     "name": "Pemberton Marlow 40×13",
     "make": "Pemberton",
-    "model": "Marlow 40×13",
+    "model": "Marlow",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -22052,7 +22052,7 @@
   {
     "name": "Pemberton Park Lane 42×14",
     "make": "Pemberton",
-    "model": "Park Lane 42×14",
+    "model": "Park Lane",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -22157,7 +22157,7 @@
   {
     "name": "Willerby New Hampton 35×12",
     "make": "Willerby",
-    "model": "New Hampton 35×12",
+    "model": "New Hampton",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2013.0,
@@ -22178,7 +22178,7 @@
   {
     "name": "Willerby Winchester 38×12",
     "make": "Willerby",
-    "model": "Winchester 38×12",
+    "model": "Winchester",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2011.0,
@@ -22220,7 +22220,7 @@
   {
     "name": "Willerby Rio Gold 35×10",
     "make": "Willerby",
-    "model": "Rio Gold 35×10",
+    "model": "Rio Gold",
     "dimensions": "35ft x 10ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -22283,7 +22283,7 @@
   {
     "name": "Pemberton Avon 35×12",
     "make": "Pemberton",
-    "model": "Avon 35×12",
+    "model": "Avon",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -22304,7 +22304,7 @@
   {
     "name": "Willerby Manor 38×12",
     "make": "Willerby",
-    "model": "Manor 38×12",
+    "model": "Manor",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -22325,7 +22325,7 @@
   {
     "name": "Willerby Clearwater Lodge 36×20",
     "make": "Willerby",
-    "model": "Clearwater Lodge 36×20",
+    "model": "Clearwater Lodge",
     "dimensions": "36ft x 20ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -22534,8 +22534,8 @@
   },
   {
     "name": "2016 EUROPA CYPRUS AT SCOUTSCROFT PARK",
-    "make": "EUROPA",
-    "model": "CYPRUS",
+    "make": "Europa",
+    "model": "Cyprus",
     "dimensions": "28ft x 10ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -22661,7 +22661,7 @@
   {
     "name": "Pre-Loved 2012 CARNABY MELROSE at Kingfisher",
     "make": "Carnaby",
-    "model": "MELROSE",
+    "model": "Melrose",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2012.0,
@@ -22808,7 +22808,7 @@
   {
     "name": "2018 ABI SUMMERHOUSE AT SCOUTSCROFT PARK",
     "make": "ABI",
-    "model": "SUMMERHOUSE",
+    "model": "Summerhouse",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -22891,8 +22891,8 @@
   },
   {
     "name": "2012 VICTORY SANDFORD AT COLDINGHAM BAY",
-    "make": "VICTORY",
-    "model": "SANDFORD",
+    "make": "Victory",
+    "model": "Sandford",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": 2012.0,
@@ -22912,8 +22912,8 @@
   },
   {
     "name": "PRE-LOVED WILLERBY RIO ACCESSIBLE  2015 MODEL AT SCOUTSCROFT",
-    "make": "WILLERBY",
-    "model": "RIO ACCESSIBLE",
+    "make": "Willerby",
+    "model": "Rio Accessible",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -22954,8 +22954,8 @@
   },
   {
     "name": "PRE-LOVED WILLERBY MISTRAL 2019 AT COLDINGHAM BAY",
-    "make": "WILLERBY",
-    "model": "MISTRAL",
+    "make": "Willerby",
+    "model": "Mistral",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -23017,8 +23017,8 @@
   },
   {
     "name": "2020 SWIFT LOIRE AT SCOUTSCOFT PARK",
-    "make": "SWIFT",
-    "model": "LOIRE",
+    "make": "Swift",
+    "model": "Loire",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -23038,8 +23038,8 @@
   },
   {
     "name": "PRE-LOVED WILLERBY LINWOOD 2022 MODEL AT COLDINGHAM BAY",
-    "make": "WILLERBY",
-    "model": "LINWOOD",
+    "make": "Willerby",
+    "model": "Linwood",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -23206,8 +23206,8 @@
   },
   {
     "name": "2022 SWIFT LOIRE AT SCOUTSCROFT PARK",
-    "make": "SWIFT",
-    "model": "LOIRE",
+    "make": "Swift",
+    "model": "Loire",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -23290,8 +23290,8 @@
   },
   {
     "name": "BRAND NEW WILLERBY ASHFORD 2025 MODEL AT COLDINGHAM BAY",
-    "make": "WILLERBY",
-    "model": "ASHFORD",
+    "make": "Willerby",
+    "model": "Ashford",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -23689,8 +23689,8 @@
   },
   {
     "name": "BRAND NEW SWIFT PROVENCE 2025 MODEL AT SCOUTSCROFT",
-    "make": "SWIFT",
-    "model": "PROVENCE",
+    "make": "Swift",
+    "model": "Provence",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -23836,8 +23836,8 @@
   },
   {
     "name": "2025 BRAND NEW VICTORY ARLINGTON AT COLDINGHAM BAY",
-    "make": "VICTORY",
-    "model": "ARLINGTON",
+    "make": "Victory",
+    "model": "Arlington",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -23942,7 +23942,7 @@
   {
     "name": "Brand New 2026 Swift Morlaix lodge LUX Edition",
     "make": "Swift",
-    "model": "Morlaix lodge LUX",
+    "model": "Morlaix Lodge LUX",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -24194,7 +24194,7 @@
   {
     "name": "BRAND NEW ABI BEAUMONT LODGE 2025 MODEL",
     "make": "ABI",
-    "model": "BEAUMONT LODGE",
+    "model": "Beaumont Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -24215,7 +24215,7 @@
   {
     "name": "BRAND NEW ABI BEAUMONT LODGE 2025 MODEL AT COLDINGHAM BAY",
     "make": "ABI",
-    "model": "BEAUMONT LODGE",
+    "model": "Beaumont Lodge",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -24298,8 +24298,8 @@
   },
   {
     "name": "2025 BRAND NEW WILLERBY BOSTON AT COLDINGHAM BAY",
-    "make": "WILLERBY",
-    "model": "BOSTON",
+    "make": "Willerby",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -24991,7 +24991,7 @@
   },
   {
     "name": "Carnaby-Caravans Oakdale",
-    "make": "Carnaby Caravans",
+    "make": "Carnaby",
     "model": "Oakdale",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
@@ -25159,7 +25159,7 @@
   },
   {
     "name": "Carnaby-Caravans Chantry-Lodge",
-    "make": "Carnaby Caravans",
+    "make": "Carnaby",
     "model": "Chantry Lodge",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
@@ -25180,7 +25180,7 @@
   },
   {
     "name": "Carnaby-Caravans Langham",
-    "make": "Carnaby Caravans",
+    "make": "Carnaby",
     "model": "Langham",
     "dimensions": "41ft x 13ft",
     "bedrooms": 2.0,
@@ -25496,7 +25496,7 @@
   {
     "name": "Pre-loved Willerby Boston Holiday Lodge 2012",
     "make": "Willerby",
-    "model": "Boston holiday",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2012.0,
@@ -26399,7 +26399,7 @@
   {
     "name": "Ex-Demo 2023 Willerby Sierra (2 Bed)",
     "make": "Willerby",
-    "model": "Sierra (2 Bed)",
+    "model": "Sierra",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -26419,7 +26419,7 @@
   },
   {
     "name": "Ex-Demo 2023 Love Holywell",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Holywell",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -26441,7 +26441,7 @@
   {
     "name": "Ex-Demo 2023 Willerby Sierra (2 Bed)",
     "make": "Willerby",
-    "model": "Sierra (2 Bed)",
+    "model": "Sierra",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -26566,7 +26566,7 @@
   },
   {
     "name": "New 2026 Love Hamlet",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Hamlet",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
@@ -26608,7 +26608,7 @@
   },
   {
     "name": "New 2027 Love Whinfell Duo Lodge",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Whinfell Duo Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
@@ -31257,7 +31257,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£9,995",
@@ -31467,7 +31467,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£14,995",
@@ -32174,7 +32174,7 @@
   {
     "name": "ABI New Horizon 2016",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2016.0,
@@ -32433,7 +32433,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£22,995",
@@ -32468,7 +32468,7 @@
   {
     "name": "ABI New Horizon 2010",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2010.0,
@@ -32517,7 +32517,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£23,995",
@@ -33035,7 +33035,7 @@
   {
     "name": "ABI New Horizon 2013",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2013.0,
@@ -34260,7 +34260,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£29,995",
@@ -34925,7 +34925,7 @@
   {
     "name": "ABI New Horizon 2024",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -35030,7 +35030,7 @@
   {
     "name": "ABI New Horizon 2017",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2017.0,
@@ -35331,7 +35331,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£34,995",
@@ -36626,7 +36626,7 @@
   {
     "name": "ABI New Horizon 2018",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -36647,7 +36647,7 @@
   {
     "name": "ABI New Horizon 2015",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2015.0,
@@ -37151,7 +37151,7 @@
   {
     "name": "ABI New Horizon 2018",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -37403,7 +37403,7 @@
   {
     "name": "Victory Grovewood Lux 2017",
     "make": "Victory",
-    "model": "Grovewood Lux",
+    "model": "Grovewood LUX",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2017.0,
@@ -37557,7 +37557,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£40,995",
@@ -37578,7 +37578,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£40,995",
@@ -37599,7 +37599,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£40,995",
@@ -40007,7 +40007,7 @@
   {
     "name": "Willerby Winchester Mk 7 2016",
     "make": "Willerby",
-    "model": "Winchester Mk 7",
+    "model": "Winchester MK7",
     "dimensions": "38ft x 12.5ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -42954,7 +42954,7 @@
     "year_assumed": null,
     "location": "Sand le Mere, Yorkshire",
     "park": "Sand le Mere",
-    "postcode": null,
+    "postcode": "HU12 0JN",
     "availability": null,
     "property_type": null,
     "price_display": "£69,995",
@@ -49896,27 +49896,6 @@
     "canonical_park": "Heather View Leisure Park"
   },
   {
-    "name": "Europa Cyprus",
-    "make": "Europa",
-    "model": "Cyprus",
-    "dimensions": "28ft x 10ft",
-    "bedrooms": 2.0,
-    "year": 2016.0,
-    "year_assumed": null,
-    "location": "Scoutscroft Holiday Park",
-    "park": "Scoutscroft Holiday Park",
-    "postcode": "TD14 5NB",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£19,995",
-    "price_number": 19995.0,
-    "source_site": "Harvey Longsons",
-    "date_scraped": "2026-10-30",
-    "listing_url": "https://www.harveylongsons.com/property/scoutscroft-leisure-park/",
-    "is_twin": "False",
-    "canonical_park": "Scoutscroft Holiday Park"
-  },
-  {
     "name": "Delta Goodwood",
     "make": "Delta",
     "model": "Goodwood",
@@ -50128,7 +50107,7 @@
   },
   {
     "name": "Stella Daybreak",
-    "make": "Stella",
+    "make": "Stellar",
     "model": "Daybreak",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -51514,7 +51493,7 @@
   },
   {
     "name": "BK Sheraton",
-    "make": "BK",
+    "make": "BK Bluebird",
     "model": "Sheraton",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -51746,7 +51725,7 @@
   {
     "name": "ABI New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -52522,7 +52501,7 @@
   },
   {
     "name": "BK Caprice",
-    "make": "BK",
+    "make": "BK Bluebird",
     "model": "Caprice",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -53698,7 +53677,7 @@
   },
   {
     "name": "Love Royale Poplar",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Royale Poplar",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -54560,7 +54539,7 @@
   {
     "name": "Willerby New Horizon",
     "make": "Willerby",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -54850,27 +54829,6 @@
     "listing_url": "https://www.harveylongsons.com/property/sutton-park-holiday-park-7/",
     "is_twin": "False",
     "canonical_park": "Sutton Park Holiday Park"
-  },
-  {
-    "name": "Swift Bordeaux Bordeaux",
-    "make": "Swift Bordeaux",
-    "model": "Bordeaux",
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "Heather View Holiday Park",
-    "park": "Heather View Holiday Park",
-    "postcode": "DL13 2PS",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£57,995",
-    "price_number": 57995.0,
-    "source_site": "Harvey Longsons",
-    "date_scraped": "2026-10-30",
-    "listing_url": "https://www.harveylongsons.com/property/heather-view-leisure-park-6/",
-    "is_twin": "False",
-    "canonical_park": "Heather View Holiday Park"
   },
   {
     "name": "Pemberton Marlow",
@@ -56467,27 +56425,6 @@
     "listing_url": "https://www.harveylongsons.com/property/newhaven-holiday-park-derbyshire-11/",
     "is_twin": "False",
     "canonical_park": "Newhaven Holiday Park"
-  },
-  {
-    "name": "Diamond Lodge",
-    "make": "Diamond",
-    "model": "Lodge",
-    "dimensions": "40ft x 13ft",
-    "bedrooms": 2.0,
-    "year": 2026.0,
-    "year_assumed": null,
-    "location": "Oakwood Retreat York",
-    "park": "Oakwood Retreat York",
-    "postcode": "YO41 4DD",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£69,995",
-    "price_number": 69995.0,
-    "source_site": "Harvey Longsons",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.harveylongsons.com/property/oakwood-retreat-york-5/",
-    "is_twin": "False",
-    "canonical_park": "Oakwood Retreat York"
   },
   {
     "name": "Willerby Buxton",
@@ -58256,7 +58193,7 @@
   {
     "name": "Willerby Salisbury - Isis",
     "make": "Willerby",
-    "model": "Salisbury - Isis",
+    "model": "Salisbury Isis",
     "dimensions": "33ft x 12ft",
     "bedrooms": 2.0,
     "year": 2012.0,
@@ -59050,27 +58987,6 @@
     "listing_url": "https://www.harveylongsons.com/property/barmouth-bay-holiday-park-north-west-wales-5/",
     "is_twin": "False",
     "canonical_park": "Barmouth Bay Holiday Park"
-  },
-  {
-    "name": "Willerby Skye",
-    "make": "Willerby",
-    "model": "Skye",
-    "dimensions": "38ft x 12ft",
-    "bedrooms": 3.0,
-    "year": 2018.0,
-    "year_assumed": null,
-    "location": "Wild Rose Park",
-    "park": "Wild Rose Park",
-    "postcode": "CA16 6EJ",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£54,995",
-    "price_number": 54995.0,
-    "source_site": "Harvey Longsons",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.harveylongsons.com/property/wild-rose-holiday-park-cumbria-13/",
-    "is_twin": "False",
-    "canonical_park": "Wild Rose Park"
   },
   {
     "name": "Swift Loire",
@@ -60331,6 +60247,27 @@
     "listing_url": "https://www.lloydscaravans.co.uk/Caravan/New_2024_Swift_Bordeaux_2_Bedrooms_816-3561/",
     "is_twin": "False",
     "canonical_park": "Plas Caravan Park"
+  },
+  {
+    "name": "Ashdale Outlook",
+    "make": "Carnaby",
+    "model": "Ashdale Outlook",
+    "dimensions": "35ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2027.0,
+    "year_assumed": null,
+    "location": "Newhaven Holiday Park",
+    "park": "Newhaven Holiday Park",
+    "postcode": "SK17 0DT",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£65,995",
+    "price_number": 65995.0,
+    "source_site": "Harvey Longsons",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.harveylongsons.com/property/newhaven-holiday-park-derbyshire-6/",
+    "is_twin": "False",
+    "canonical_park": "Newhaven Holiday Park"
   },
   {
     "name": "Willerby Winchester",
@@ -61595,7 +61532,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -61931,7 +61868,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -61973,7 +61910,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -61994,7 +61931,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -64786,8 +64723,8 @@
   },
   {
     "name": "Lakewood, Lodge",
-    "make": "Lakewood",
-    "model": "Lodge",
+    "make": "Victory",
+    "model": "Lakewood Lodge",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -65035,27 +64972,6 @@
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/derbyshire/ashbourne-heights-country--leisure-park/CAR0065177",
     "is_twin": "True",
     "canonical_park": "Ashbourne Heights Country  Leisure Park"
-  },
-  {
-    "name": "Ashdale, Outlook",
-    "make": "Ashdale",
-    "model": "Outlook",
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2027.0,
-    "year_assumed": null,
-    "location": "Newhaven, Derbyshire",
-    "park": "Newhaven",
-    "postcode": "SK17 0DT",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£65,995",
-    "price_number": 65995.0,
-    "source_site": "My Holiday Caravan - Newhaven",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/derbyshire/newhaven/CAR0065773",
-    "is_twin": "False",
-    "canonical_park": "Newhaven"
   },
   {
     "name": "Willerby, Malton Elite",
@@ -65795,7 +65711,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -65816,7 +65732,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -65942,7 +65858,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -66047,7 +65963,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -66068,7 +65984,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -66194,7 +66110,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -66215,7 +66131,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -66735,7 +66651,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/devon/golden-sands/VS280992",
     "is_twin": "False",
-    "canonical_park": "Golden Sands"
+    "canonical_park": "Golden Sands Dawlish"
   },
   {
     "name": "Willerby, Everleigh",
@@ -66756,7 +66672,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/devon/golden-sands/VS007566",
     "is_twin": "True",
-    "canonical_park": "Golden Sands"
+    "canonical_park": "Golden Sands Dawlish"
   },
   {
     "name": "Carnaby, Langham",
@@ -66777,7 +66693,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/devon/golden-sands/CAR0065295",
     "is_twin": "False",
-    "canonical_park": "Golden Sands"
+    "canonical_park": "Golden Sands Dawlish"
   },
   {
     "name": "ABI, Beaumont Eden",
@@ -66798,7 +66714,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/devon/golden-sands/VS949405",
     "is_twin": "True",
-    "canonical_park": "Golden Sands"
+    "canonical_park": "Golden Sands Dawlish"
   },
   {
     "name": "Beverley, Norwood",
@@ -67979,7 +67895,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -68000,7 +67916,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -68504,7 +68420,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -68609,7 +68525,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -68672,7 +68588,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -69953,7 +69869,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -70079,7 +69995,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -70121,7 +70037,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -70856,7 +70772,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -70877,7 +70793,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -70898,7 +70814,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -70919,7 +70835,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -70940,7 +70856,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -70961,7 +70877,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -70982,7 +70898,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -71003,7 +70919,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -71087,7 +71003,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -71150,7 +71066,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -71318,7 +71234,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -72305,7 +72221,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -74111,7 +74027,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -74132,7 +74048,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -74153,7 +74069,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -74174,7 +74090,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -74321,7 +74237,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -74342,7 +74258,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -74384,7 +74300,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -74405,7 +74321,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -79151,7 +79067,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -79172,7 +79088,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -79193,7 +79109,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -79235,7 +79151,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -79718,7 +79634,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -79739,7 +79655,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -80808,27 +80724,6 @@
     "canonical_park": "New Romney Caravan Park"
   },
   {
-    "name": "Victory, Harmony 35",
-    "make": "Victory",
-    "model": "Harmony 35",
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 3.0,
-    "year": 2017.0,
-    "year_assumed": null,
-    "location": "New Romney Caravan Park, Kent",
-    "park": "New Romney Caravan Park",
-    "postcode": "TN28 8PB",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£48,000",
-    "price_number": 48000.0,
-    "source_site": "My Holiday Caravan - New Romney Caravan Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/kent/new-romney-caravan-park/AD13603",
-    "is_twin": "False",
-    "canonical_park": "New Romney Caravan Park"
-  },
-  {
     "name": "Willerby, Malton",
     "make": "Willerby",
     "model": "Malton",
@@ -81879,30 +81774,9 @@
     "canonical_park": "Fell End Caravan Park"
   },
   {
-    "name": "Willerby, Brookwood",
-    "make": "Willerby",
-    "model": "Brookwood",
-    "dimensions": "28ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "Fell End Caravan Park, Lake District And Cumbria",
-    "park": "Fell End Caravan Park",
-    "postcode": "LA7 7BS",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£49,995",
-    "price_number": 49995.0,
-    "source_site": "My Holiday Caravan - Fell End Caravan Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/3243",
-    "is_twin": "False",
-    "canonical_park": "Fell End Caravan Park"
-  },
-  {
     "name": "ABI, Coworth FE",
     "make": "ABI",
-    "model": "Coworth FE",
+    "model": "Coworth",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -81917,27 +81791,6 @@
     "source_site": "My Holiday Caravan - Fell End Caravan Park",
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/3176",
-    "is_twin": "False",
-    "canonical_park": "Fell End Caravan Park"
-  },
-  {
-    "name": "Swift, Atlantique",
-    "make": "Swift",
-    "model": "Atlantique",
-    "dimensions": "28ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "Fell End Caravan Park, Lake District And Cumbria",
-    "park": "Fell End Caravan Park",
-    "postcode": "LA7 7BS",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£54,995",
-    "price_number": 54995.0,
-    "source_site": "My Holiday Caravan - Fell End Caravan Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/17118",
     "is_twin": "False",
     "canonical_park": "Fell End Caravan Park"
   },
@@ -81963,30 +81816,9 @@
     "canonical_park": "Fell End Caravan Park"
   },
   {
-    "name": "Beverley, FE",
-    "make": "Beverley",
-    "model": "FE",
-    "dimensions": "39ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2023.0,
-    "year_assumed": null,
-    "location": "Fell End Caravan Park, Lake District And Cumbria",
-    "park": "Fell End Caravan Park",
-    "postcode": "LA7 7BS",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£76,895",
-    "price_number": 76895.0,
-    "source_site": "My Holiday Caravan - Fell End Caravan Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/10361",
-    "is_twin": "False",
-    "canonical_park": "Fell End Caravan Park"
-  },
-  {
     "name": "Atlas, Heritage FE",
     "make": "Atlas",
-    "model": "Heritage FE",
+    "model": "Heritage",
     "dimensions": "40ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -82001,48 +81833,6 @@
     "source_site": "My Holiday Caravan - Fell End Caravan Park",
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/14982",
-    "is_twin": "False",
-    "canonical_park": "Fell End Caravan Park"
-  },
-  {
-    "name": "Victory, Bronte",
-    "make": "Victory",
-    "model": "Bronte",
-    "dimensions": "38ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "Fell End Caravan Park, Lake District And Cumbria",
-    "park": "Fell End Caravan Park",
-    "postcode": "LA7 7BS",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£79,995",
-    "price_number": 79995.0,
-    "source_site": "My Holiday Caravan - Fell End Caravan Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/15029",
-    "is_twin": "False",
-    "canonical_park": "Fell End Caravan Park"
-  },
-  {
-    "name": "Willerby, Malton",
-    "make": "Willerby",
-    "model": "Malton",
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2026.0,
-    "year_assumed": null,
-    "location": "Fell End Caravan Park, Lake District And Cumbria",
-    "park": "Fell End Caravan Park",
-    "postcode": "LA7 7BS",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£79,995",
-    "price_number": 79995.0,
-    "source_site": "My Holiday Caravan - Fell End Caravan Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/17121",
     "is_twin": "False",
     "canonical_park": "Fell End Caravan Park"
   },
@@ -82509,48 +82299,6 @@
     "canonical_park": "Keswick Reach Lodge Retreat"
   },
   {
-    "name": "Stately, Kielder",
-    "make": "Stately",
-    "model": "Kielder",
-    "dimensions": "46ft x 20ft",
-    "bedrooms": 3.0,
-    "year": 2016.0,
-    "year_assumed": null,
-    "location": "Keswick Reach Lodge Retreat, Lake District And Cumbria",
-    "park": "Keswick Reach Lodge Retreat",
-    "postcode": "CA13 9SY",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£149,995",
-    "price_number": 149995.0,
-    "source_site": "My Holiday Caravan - Keswick Reach Lodge Retreat",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/keswick-reach-lodge-retreat/AD17645",
-    "is_twin": "True",
-    "canonical_park": "Keswick Reach Lodge Retreat"
-  },
-  {
-    "name": "Stately, Kielder",
-    "make": "Stately",
-    "model": "Kielder",
-    "dimensions": "46ft x 20ft",
-    "bedrooms": 3.0,
-    "year": 2016.0,
-    "year_assumed": null,
-    "location": "Keswick Reach Lodge Retreat, Lake District And Cumbria",
-    "park": "Keswick Reach Lodge Retreat",
-    "postcode": "CA13 9SY",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£149,995",
-    "price_number": 149995.0,
-    "source_site": "My Holiday Caravan - Keswick Reach Lodge Retreat",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/keswick-reach-lodge-retreat/AD17041",
-    "is_twin": "True",
-    "canonical_park": "Keswick Reach Lodge Retreat"
-  },
-  {
     "name": "Homeseeker, Dorchester",
     "make": "Homeseeker",
     "model": "Dorchester",
@@ -82742,7 +82490,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -82763,7 +82511,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -82784,7 +82532,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -84274,7 +84022,7 @@
   },
   {
     "name": "Love, Heartwood",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -84779,7 +84527,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -84800,7 +84548,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -85283,7 +85031,7 @@
   {
     "name": "Swift, Moselle CS",
     "make": "Swift",
-    "model": "Moselle CS",
+    "model": "Moselle",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2008.0,
@@ -85304,7 +85052,7 @@
   {
     "name": "Atlas, Andromeda CS CS",
     "make": "Atlas",
-    "model": "Andromeda CS CS",
+    "model": "Andromeda CS",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2010.0,
@@ -85325,7 +85073,7 @@
   {
     "name": "Sunseeker, Zest CS",
     "make": "Sunseeker",
-    "model": "Zest CS",
+    "model": "Zest",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -85340,27 +85088,6 @@
     "source_site": "My Holiday Caravan - Cockerham Sands",
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lancashire/cockerham-sands/8435",
-    "is_twin": "False",
-    "canonical_park": "Cockerham Sands"
-  },
-  {
-    "name": "Beverley, CS",
-    "make": "Beverley",
-    "model": "CS",
-    "dimensions": "36ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2019.0,
-    "year_assumed": null,
-    "location": "Cockerham Sands, Lancashire",
-    "park": "Cockerham Sands",
-    "postcode": "LA2 0BB",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£49,995",
-    "price_number": 49995.0,
-    "source_site": "My Holiday Caravan - Cockerham Sands",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lancashire/cockerham-sands/10861",
     "is_twin": "False",
     "canonical_park": "Cockerham Sands"
   },
@@ -85430,7 +85157,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -85766,7 +85493,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -85871,7 +85598,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -85892,7 +85619,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -85955,7 +85682,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -85976,7 +85703,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -86081,7 +85808,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -87382,7 +87109,7 @@
   },
   {
     "name": "Love, Winfell",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Winfell",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
@@ -87908,7 +87635,7 @@
   {
     "name": "Willerby, Winchester Mk 7",
     "make": "Willerby",
-    "model": "Winchester Mk 7",
+    "model": "Winchester MK7",
     "dimensions": "38ft x 12.5ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -88306,7 +88033,7 @@
   },
   {
     "name": "Love, Riverdale",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Riverdale",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -88369,7 +88096,7 @@
   },
   {
     "name": "Love, Heartwood Lodge",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood Lodge",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
@@ -88916,7 +88643,7 @@
   {
     "name": "Swift, Bordeaux Platinum luxury Deluxe",
     "make": "Swift",
-    "model": "Bordeaux Platinum luxury Deluxe",
+    "model": "Bordeaux Platinum Luxury Deluxe",
     "dimensions": "40ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -89000,7 +88727,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -89105,7 +88832,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -89210,7 +88937,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -89294,7 +89021,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -90176,7 +89903,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -90197,7 +89924,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -90218,7 +89945,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -90260,7 +89987,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -90302,7 +90029,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -90323,7 +90050,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -90428,7 +90155,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -90470,7 +90197,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -90554,7 +90281,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -90617,7 +90344,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -90638,7 +90365,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -90680,7 +90407,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -90722,7 +90449,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -91478,7 +91205,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -91520,7 +91247,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -91541,7 +91268,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -93640,7 +93367,7 @@
   },
   {
     "name": "Minister, Norwood",
-    "make": "Minister",
+    "make": "Minster",
     "model": "Norwood",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
@@ -93893,7 +93620,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -93914,7 +93641,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -93935,7 +93662,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -93956,7 +93683,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -93977,7 +93704,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -94061,7 +93788,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -94082,7 +93809,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -94733,7 +94460,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -95741,7 +95468,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -95762,7 +95489,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -96896,7 +96623,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -96917,7 +96644,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -97043,7 +96770,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -97547,7 +97274,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -97673,7 +97400,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -97694,7 +97421,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -99752,7 +99479,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -99773,7 +99500,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -100902,7 +100629,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/northumberland/golden-sands-holiday-park/AD17567",
     "is_twin": "False",
-    "canonical_park": "Golden Sands Holiday Park"
+    "canonical_park": "Golden Sands Holiday Park Northumberland"
   },
   {
     "name": "Willerby, Mistral",
@@ -100923,7 +100650,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/northumberland/golden-sands-holiday-park/AD16702",
     "is_twin": "False",
-    "canonical_park": "Golden Sands Holiday Park"
+    "canonical_park": "Golden Sands Holiday Park Northumberland"
   },
   {
     "name": "Atlas, Chorus",
@@ -100944,7 +100671,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/northumberland/golden-sands-holiday-park/AD17569",
     "is_twin": "False",
-    "canonical_park": "Golden Sands Holiday Park"
+    "canonical_park": "Golden Sands Holiday Park Northumberland"
   },
   {
     "name": "Willerby, Ashford",
@@ -100965,7 +100692,7 @@
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/northumberland/golden-sands-holiday-park/AD17568",
     "is_twin": "False",
-    "canonical_park": "Golden Sands Holiday Park"
+    "canonical_park": "Golden Sands Holiday Park Northumberland"
   },
   {
     "name": "ABI, Horizon",
@@ -101138,7 +100865,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -101390,7 +101117,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -102082,7 +101809,7 @@
   },
   {
     "name": "Love, Galloway",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Galloway",
     "dimensions": "43ft x 14ft",
     "bedrooms": 2.0,
@@ -103238,7 +102965,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -103553,7 +103280,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -103889,7 +103616,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -104057,7 +103784,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -104078,7 +103805,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -104729,7 +104456,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -104771,7 +104498,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -104792,7 +104519,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -104813,7 +104540,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -104960,7 +104687,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -105023,7 +104750,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -105065,7 +104792,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -105086,7 +104813,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -105736,7 +105463,7 @@
   },
   {
     "name": "Love, Riverdale",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Riverdale",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -105773,27 +105500,6 @@
     "source_site": "My Holiday Caravan - Lyons Eryl Hall Holiday Park",
     "date_scraped": "2026-10-31",
     "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/north-wales/lyons-eryl-hall-holiday-park-/101443",
-    "is_twin": "False",
-    "canonical_park": "Eryl Hall Holiday Park"
-  },
-  {
-    "name": "Swift, Margaux",
-    "make": "Swift",
-    "model": "Margaux",
-    "dimensions": "38ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "Lyons Eryl Hall Holiday Park, North Wales",
-    "park": "Lyons Eryl Hall Holiday Park",
-    "postcode": "LL17 0EW",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£79,995",
-    "price_number": 79995.0,
-    "source_site": "My Holiday Caravan - Lyons Eryl Hall Holiday Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/north-wales/lyons-eryl-hall-holiday-park-/101609",
     "is_twin": "False",
     "canonical_park": "Eryl Hall Holiday Park"
   },
@@ -105967,7 +105673,7 @@
   },
   {
     "name": "Love, Riverdale",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Riverdale",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -106345,7 +106051,7 @@
   },
   {
     "name": "Love, Gisburn",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Gisburn",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
@@ -107164,7 +106870,7 @@
   },
   {
     "name": "Love, The Whinfell",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "The Whinfell",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
@@ -107564,7 +107270,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -107690,7 +107396,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -107711,7 +107417,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -107732,7 +107438,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -107774,7 +107480,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -107795,7 +107501,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -107900,7 +107606,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -107984,7 +107690,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -108068,7 +107774,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -108089,7 +107795,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -110189,7 +109895,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -110210,7 +109916,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -111008,7 +110714,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -111050,7 +110756,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -111113,7 +110819,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -111134,7 +110840,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -111239,7 +110945,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -111260,7 +110966,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -111783,27 +111489,6 @@
     "canonical_park": "Cheddar Woods Resort  Spa"
   },
   {
-    "name": "Cambrian, Plantation",
-    "make": "Cambrian",
-    "model": "Plantation",
-    "dimensions": "40ft x 20ft",
-    "bedrooms": 3.0,
-    "year": 2013.0,
-    "year_assumed": null,
-    "location": "Cheddar Woods Resort  Spa, Somerset",
-    "park": "Cheddar Woods Resort  Spa",
-    "postcode": "BS27 3DB",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£129,995",
-    "price_number": 129995.0,
-    "source_site": "My Holiday Caravan - Cheddar Woods Resort  Spa",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/somerset/cheddar-woods-resort--spa/AD16891",
-    "is_twin": "True",
-    "canonical_park": "Cheddar Woods Resort  Spa"
-  },
-  {
     "name": "ABI, Horizon",
     "make": "ABI",
     "model": "Horizon",
@@ -111827,7 +111512,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -112058,7 +111743,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -112079,7 +111764,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -112121,7 +111806,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -112142,7 +111827,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -113612,7 +113297,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -113948,7 +113633,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -114053,7 +113738,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -114326,7 +114011,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -114347,7 +114032,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -114893,7 +114578,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -114914,7 +114599,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -118190,7 +117875,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -118274,7 +117959,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -118421,7 +118106,7 @@
   {
     "name": "Carnaby, Helmsley lodge",
     "make": "Carnaby",
-    "model": "Helmsley lodge",
+    "model": "Helmsley Lodge",
     "dimensions": "39ft x 13ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -118505,7 +118190,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -118526,7 +118211,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -119450,7 +119135,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -119471,7 +119156,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -119492,7 +119177,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -119513,7 +119198,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -119576,7 +119261,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -119597,7 +119282,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -119618,7 +119303,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -119723,7 +119408,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -119744,7 +119429,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -119765,7 +119450,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -119786,7 +119471,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -121277,7 +120962,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -121298,7 +120983,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -121319,7 +121004,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -121340,7 +121025,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -121403,7 +121088,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121424,7 +121109,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121445,7 +121130,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121466,7 +121151,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121487,7 +121172,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121508,7 +121193,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121529,7 +121214,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121550,7 +121235,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121571,7 +121256,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -121739,7 +121424,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -121907,7 +121592,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -121928,7 +121613,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -122851,7 +122536,7 @@
   },
   {
     "name": "Love, Riverdale",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Riverdale",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
@@ -122872,7 +122557,7 @@
   },
   {
     "name": "Love, Heartwood",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -125267,7 +124952,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -125288,7 +124973,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -125309,7 +124994,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -126779,7 +126464,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -126905,7 +126590,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -127010,7 +126695,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -127430,7 +127115,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -127451,7 +127136,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -127577,7 +127262,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -128816,7 +128501,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -128963,7 +128648,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2027.0,
@@ -128984,7 +128669,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -130139,7 +129824,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -130202,7 +129887,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -130223,7 +129908,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -130265,7 +129950,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -130286,7 +129971,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -130307,7 +129992,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -130370,7 +130055,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -130727,7 +130412,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -130769,7 +130454,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -130832,7 +130517,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -130853,7 +130538,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -130874,7 +130559,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -130895,7 +130580,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -132113,7 +131798,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -132134,7 +131819,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2021.0,
@@ -132260,7 +131945,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2022.0,
@@ -132344,7 +132029,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -132575,7 +132260,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -133667,7 +133352,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -133709,7 +133394,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2020.0,
@@ -133856,7 +133541,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -133961,7 +133646,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -133982,7 +133667,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -134024,7 +133709,7 @@
   {
     "name": "ABI, New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -135639,29 +135324,8 @@
     "canonical_park": "Yorkshire Dales Country  Leisure Park"
   },
   {
-    "name": "Love Heartwood 2025 - 2 bed",
-    "make": "Love",
-    "model": "Heartwood",
-    "dimensions": "40ft x 14ft",
-    "bedrooms": 2.0,
-    "year": 2025.0,
-    "year_assumed": null,
-    "location": "White Rose Holiday Park, Thirsk",
-    "park": "White Rose Holiday Park",
-    "postcode": "YO7 3BA",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£94,395",
-    "price_number": 94395.0,
-    "source_site": "Parkmove",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.parkmove.co.uk/property/love-heartwood-2025-40-x-13ft-2-bed/15741",
-    "is_twin": "False",
-    "canonical_park": "White Rose Holiday Park"
-  },
-  {
     "name": "Love Gisburn 2025 - 2 bed",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Gisburn",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -137086,27 +136750,6 @@
     "listing_url": "https://www.parklink.uk/property/atlas-heritage/",
     "is_twin": "False",
     "canonical_park": "Pearl Lake Country Holiday Park"
-  },
-  {
-    "name": "BK Sheraton Static Caravan - 2 Bedroom",
-    "make": "BK Bluebird",
-    "model": "Sheraton",
-    "dimensions": "38ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2016.0,
-    "year_assumed": null,
-    "location": "Crook O Lune Holiday Park, Lancaster, Lancashire",
-    "park": "Crook O Lune Holiday Park",
-    "postcode": "LA2 9HP",
-    "availability": "For Sale",
-    "property_type": null,
-    "price_display": "£34,995",
-    "price_number": 34995.0,
-    "source_site": "Parklink",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.parklink.uk/property/bk-sheraton/",
-    "is_twin": "False",
-    "canonical_park": "Crook O Lune Holiday Park"
   },
   {
     "name": "ABI Sensation Static Caravan - 2 Bedroom",
@@ -141710,7 +141353,7 @@
   {
     "name": "ABI New Horizon Static Caravan - 3 Bedroom",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2015.0,
@@ -144541,27 +144184,6 @@
     "listing_url": "https://www.parklink.uk/property/delta-saffron-3/",
     "is_twin": "False",
     "canonical_park": "Talacre Beach Resort"
-  },
-  {
-    "name": "Willerby Mistral Static Caravan - 2 Bedroom",
-    "make": "Willerby",
-    "model": "Mistral",
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2016.0,
-    "year_assumed": null,
-    "location": "Golden Sands Holiday Park Northumberland, Cresswell, Northumberland",
-    "park": "Golden Sands Holiday Park Northumberland",
-    "postcode": "NE61 5LF",
-    "availability": "For Sale",
-    "property_type": null,
-    "price_display": "£29,995",
-    "price_number": 29995.0,
-    "source_site": "Parklink",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.parklink.uk/property/willerby-mistral-2016/",
-    "is_twin": "False",
-    "canonical_park": "Golden Sands Holiday Park Northumberland"
   },
   {
     "name": "Willerby Ellerton Static Caravan - 2 Bedroom",
@@ -150655,7 +150277,7 @@
   },
   {
     "name": "Love Royale Poplar Static Caravan - 2 Bedroom",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Royale Poplar",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -151033,7 +150655,7 @@
   },
   {
     "name": "Love Holiday Homes CHESTNUT Static Caravan - 2 Bedroom",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Chestnut",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
@@ -151096,7 +150718,7 @@
   },
   {
     "name": "LOVE CARAVANS ROYALE POPLAR Static Caravan - 2 Bedroom",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Royale Poplar",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
@@ -151138,7 +150760,7 @@
   },
   {
     "name": "Love Chestnut Static Caravan - 2 Bedroom",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Chestnut",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
@@ -151201,7 +150823,7 @@
   },
   {
     "name": "Love Holiday Homes Holywell Static Caravan - 2 Bedroom",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Holywell",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -151496,7 +151118,7 @@
   {
     "name": "New Willerby Malton Static Caravan - 3 Bedroom",
     "make": "Willerby",
-    "model": "New Malton",
+    "model": "Malton",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -151618,27 +151240,6 @@
     "listing_url": "https://www.caravan4you.com/listing/willerby-salisbury/",
     "is_twin": "False",
     "canonical_park": "Chesil Beach Holiday Park"
-  },
-  {
-    "name": "Timber Venture",
-    "make": "Timber",
-    "model": "Venture",
-    "dimensions": "42ft x 20ft",
-    "bedrooms": 2.0,
-    "year": 2026.0,
-    "year_assumed": null,
-    "location": "Highlands End Holiday Park, Dorset",
-    "park": "Highlands End Holiday Park",
-    "postcode": "DT6 6AR",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£495,000",
-    "price_number": 495000.0,
-    "source_site": "Caravan4you",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.caravan4you.com/listing/timber-venture/",
-    "is_twin": "True",
-    "canonical_park": "Highlands End Holiday Park"
   },
   {
     "name": "Willerby Brookwood 2026",
@@ -151937,7 +151538,7 @@
   {
     "name": "NEW Sunseeker Highgate Riverside Lodge",
     "make": "Sunseeker",
-    "model": "NEW Highgate Riverside Lodge",
+    "model": "Highgate Riverside Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -151978,7 +151579,7 @@
   },
   {
     "name": "Stately Lakewood Lodge 2008",
-    "make": "Stately",
+    "make": "Stately Albion",
     "model": "Lakewood Lodge",
     "dimensions": "45ft x 20ft",
     "bedrooms": 3.0,
@@ -152145,69 +151746,6 @@
     "canonical_park": "Meadow Lee Holiday Park"
   },
   {
-    "name": "Pitch 017 – 2026 Pemberton Marlow Resi",
-    "make": "Pemberton",
-    "model": "Pitch 017 – 2026 Marlow Resi",
-    "dimensions": "36ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2026.0,
-    "year_assumed": null,
-    "location": "Skelwith Fold Caravan Park, Cumbria",
-    "park": "Skelwith Fold Caravan Park",
-    "postcode": "LA22 0HX",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£71,542",
-    "price_number": 71542.0,
-    "source_site": "Caravan4you",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.caravan4you.com/listing/pitch-017-2026-pemberton-marlow-resi/",
-    "is_twin": "False",
-    "canonical_park": "Skelwith Fold Caravan Park"
-  },
-  {
-    "name": "Pitch 240 – 2026 Pemberton Avon",
-    "make": "Pemberton",
-    "model": "Pitch 240 – 2026 Avon",
-    "dimensions": "30ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2026.0,
-    "year_assumed": null,
-    "location": "Skelwith Fold Caravan Park, Cumbria",
-    "park": "Skelwith Fold Caravan Park",
-    "postcode": "LA22 0HX",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£56,760",
-    "price_number": 56760.0,
-    "source_site": "Caravan4you",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.caravan4you.com/listing/pitch-240-2026-pemberton-avon/",
-    "is_twin": "False",
-    "canonical_park": "Skelwith Fold Caravan Park"
-  },
-  {
-    "name": "Pitch 313 – 2026 Pemberton Marlow Resi Spec",
-    "make": "Pemberton",
-    "model": "Pitch 313 – 2026 Marlow Resi Spec",
-    "dimensions": "36ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2026.0,
-    "year_assumed": null,
-    "location": "Skelwith Fold Caravan Park, Cumbria",
-    "park": "Skelwith Fold Caravan Park",
-    "postcode": "LA22 0HX",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£68,593",
-    "price_number": 68593.0,
-    "source_site": "Caravan4you",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.caravan4you.com/listing/pitch-313-2026-pemberton-marlow-resi-spec/",
-    "is_twin": "False",
-    "canonical_park": "Skelwith Fold Caravan Park"
-  },
-  {
     "name": "Atlas Sahara",
     "make": "Atlas",
     "model": "Sahara",
@@ -152294,7 +151832,7 @@
   {
     "name": "***SOLD*** Swift Ardennes (Coastal) Pre-Owned 2023",
     "make": "Swift",
-    "model": "***SOLD*** Ardennes Pre-Owned",
+    "model": "Ardennes",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -153785,7 +153323,7 @@
   {
     "name": "Willerby Rio Gold Mk3 2011",
     "make": "Willerby",
-    "model": "Rio Gold Mk3",
+    "model": "Rio Gold MK3",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2011.0,
@@ -157061,7 +156599,7 @@
   {
     "name": "Willerby Winchester Mk 7 2016 (Static Caravan)",
     "make": "Willerby",
-    "model": "Winchester Mk 7",
+    "model": "Winchester MK7",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -159098,7 +158636,7 @@
   {
     "name": "2011 28x10ft Delta Goodwood 2 Bed Caravan With Sea...",
     "make": "Delta",
-    "model": "Goodwood 2 Bed Caravan With Sea...",
+    "model": "Goodwood Caravan With Sea",
     "dimensions": "28ft x 10ft",
     "bedrooms": 2.0,
     "year": 2011.0,
@@ -159241,6 +158779,174 @@
     "listing_url": "https://www.myholidayparks.com/properties/2517568-2022-atlas-lilac-arbroath-scotland",
     "is_twin": "True",
     "canonical_park": "Seaton Estate Holiday Village"
+  },
+  {
+    "name": "2008 Advent Tarragon",
+    "make": "Advent",
+    "model": "Tarragon",
+    "dimensions": "43ft x 20ft",
+    "bedrooms": 2.0,
+    "year": 2008.0,
+    "year_assumed": null,
+    "location": "Goosewood Holiday Park",
+    "park": "Goosewood Holiday Park",
+    "postcode": "YO61 1ET",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£84,995",
+    "price_number": 84995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2517545-2008-advent-tarragon-york-england",
+    "is_twin": "True",
+    "canonical_park": "Goosewood Holiday Park"
+  },
+  {
+    "name": "2022 Ambleside Premier",
+    "make": "ABI",
+    "model": "Ambleside Premier",
+    "dimensions": "40ft x 14ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "Castle Howard Lakeside Holiday Park",
+    "park": "Castle Howard Lakeside Holiday Park",
+    "postcode": "YO60 7DD",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£74,995",
+    "price_number": 74995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2514582-2022-ambleside-premier-york-england",
+    "is_twin": "False",
+    "canonical_park": "Castle Howard Lakeside Holiday Park"
+  },
+  {
+    "name": "2022 Hazelwood",
+    "make": "Love Holiday Homes",
+    "model": "Hazelwood",
+    "dimensions": "40ft x 13ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "Flower of May",
+    "park": "Flower of May",
+    "postcode": "YO11 3NU",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£69,995",
+    "price_number": 69995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2517538-2022-hazelwood-scarborough-england",
+    "is_twin": "False",
+    "canonical_park": "Flower of May"
+  },
+  {
+    "name": "2022 Royale Poplar",
+    "make": "Love Holiday Homes",
+    "model": "Royale Poplar",
+    "dimensions": "35ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "Flower of May",
+    "park": "Flower of May",
+    "postcode": "YO11 3NU",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£51,995",
+    "price_number": 51995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2517535-2022-royale-poplar-scarborough-england",
+    "is_twin": "False",
+    "canonical_park": "Flower of May"
+  },
+  {
+    "name": "2022 Royale Poplar",
+    "make": "Love Holiday Homes",
+    "model": "Royale Poplar",
+    "dimensions": "35ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "The Lighthouse Holiday Park",
+    "park": "The Lighthouse Holiday Park",
+    "postcode": "YO15 1AJ",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£41,995",
+    "price_number": 41995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2518578-2022-royale-poplar-flamborough-england",
+    "is_twin": "False",
+    "canonical_park": "The Lighthouse Holiday Park"
+  },
+  {
+    "name": "2022 Royale Poplar",
+    "make": "Love Holiday Homes",
+    "model": "Royale Poplar",
+    "dimensions": "35ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "Riverside Meadows Holiday Park",
+    "park": "Riverside Meadows Holiday Park",
+    "postcode": "HG4 1JD",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£41,995",
+    "price_number": 41995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2518582-2022-royale-poplar-ripon-england",
+    "is_twin": "False",
+    "canonical_park": "Riverside Meadows Holiday Park"
+  },
+  {
+    "name": "2022 Poplar",
+    "make": "Love Holiday Homes",
+    "model": "Poplar",
+    "dimensions": "35ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "Flower of May",
+    "park": "Flower of May",
+    "postcode": "YO11 3NU",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£38,495",
+    "price_number": 38495.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2518550-2022-poplar-scarborough-england",
+    "is_twin": "False",
+    "canonical_park": "Flower of May"
+  },
+  {
+    "name": "2022 Poplar",
+    "make": "Love Holiday Homes",
+    "model": "Poplar",
+    "dimensions": "35ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2022.0,
+    "year_assumed": null,
+    "location": "The Lighthouse Holiday Park",
+    "park": "The Lighthouse Holiday Park",
+    "postcode": "YO15 1AJ",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£37,995",
+    "price_number": 37995.0,
+    "source_site": "Myholidayparks",
+    "date_scraped": "2026-11-01",
+    "listing_url": "https://www.myholidayparks.com/properties/2514949-2022-poplar-flamborough-england",
+    "is_twin": "False",
+    "canonical_park": "The Lighthouse Holiday Park"
   },
   {
     "name": "Willerby Vacation",
@@ -160672,8 +160378,8 @@
   },
   {
     "name": "2025 Love  Riverdale",
-    "make": "Love",
-    "model": " Riverdale",
+    "make": "Love Holiday Homes",
+    "model": "Riverdale",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -160715,7 +160421,7 @@
   {
     "name": "Willerby Malton LW",
     "make": "Willerby",
-    "model": "Malton LW",
+    "model": "Malton",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -160736,7 +160442,7 @@
   {
     "name": "ABI Coworth LW",
     "make": "ABI",
-    "model": "Coworth LW",
+    "model": "Coworth",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -160757,7 +160463,7 @@
   {
     "name": "Willerby Boston DP",
     "make": "Willerby",
-    "model": "Boston DP",
+    "model": "Boston",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -160778,7 +160484,7 @@
   {
     "name": "ABI Harrogate CV",
     "make": "ABI",
-    "model": "Harrogate CV",
+    "model": "Harrogate",
     "dimensions": "41ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -160799,7 +160505,7 @@
   {
     "name": "Atlas Wisteria CV",
     "make": "Atlas",
-    "model": "Wisteria CV",
+    "model": "Wisteria",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -160820,7 +160526,7 @@
   {
     "name": "Omar Westfield CV",
     "make": "Omar",
-    "model": "Westfield CV",
+    "model": "Westfield",
     "dimensions": "42ft x 20ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -160841,7 +160547,7 @@
   {
     "name": "Atlas Heritage LW",
     "make": "Atlas",
-    "model": "Heritage LW",
+    "model": "Heritage",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -160862,7 +160568,7 @@
   {
     "name": "Regal Hemsworth LW",
     "make": "Regal",
-    "model": "Hemsworth LW",
+    "model": "Hemsworth",
     "dimensions": "40ft x 13ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -160883,7 +160589,7 @@
   {
     "name": "Regal Hemsworth LW",
     "make": "Regal",
-    "model": "Hemsworth LW",
+    "model": "Hemsworth",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -160904,7 +160610,7 @@
   {
     "name": "Carabuild Parkland LW",
     "make": "Carabuild",
-    "model": "Parkland LW",
+    "model": "Parkland",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2017.0,
@@ -160925,7 +160631,7 @@
   {
     "name": "ABI Wimbledon LW",
     "make": "ABI",
-    "model": "Wimbledon LW",
+    "model": "Wimbledon",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -160946,7 +160652,7 @@
   {
     "name": "Victory Bronte LW",
     "make": "Victory",
-    "model": "Bronte LW",
+    "model": "Bronte",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2024.0,
@@ -160967,7 +160673,7 @@
   {
     "name": "Victory Atlantic LW",
     "make": "Victory",
-    "model": "Atlantic LW",
+    "model": "Atlantic",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -160988,7 +160694,7 @@
   {
     "name": "Delta Resort Plus LW",
     "make": "Delta",
-    "model": "Resort Plus LW",
+    "model": "Resort Plus",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -161009,7 +160715,7 @@
   {
     "name": "Europa Rosewood LW",
     "make": "Europa",
-    "model": "Rosewood LW",
+    "model": "Rosewood",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -161030,7 +160736,7 @@
   {
     "name": "Sunseeker Zest LW",
     "make": "Sunseeker",
-    "model": "Zest LW",
+    "model": "Zest",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -161051,7 +160757,7 @@
   {
     "name": "Regal Retreat LW",
     "make": "Regal",
-    "model": "Retreat LW",
+    "model": "Retreat",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -161072,7 +160778,7 @@
   {
     "name": "Willerby Rio Gold LW",
     "make": "Willerby",
-    "model": "Rio Gold LW",
+    "model": "Rio Gold",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": 2017.0,
@@ -161093,7 +160799,7 @@
   {
     "name": "Minster Norwood TG",
     "make": "Minster",
-    "model": "Norwood TG",
+    "model": "Norwood",
     "dimensions": "36ft x 14ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -161113,8 +160819,8 @@
   },
   {
     "name": "St Andrews TG",
-    "make": "St",
-    "model": "Andrews TG",
+    "make": "Beverley",
+    "model": "St Andrews",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": 2019.0,
@@ -161135,7 +160841,7 @@
   {
     "name": "Delta Cambridge TG",
     "make": "Delta",
-    "model": "Cambridge TG",
+    "model": "Cambridge",
     "dimensions": "40ft x 16ft",
     "bedrooms": 3.0,
     "year": 2023.0,
@@ -161156,7 +160862,7 @@
   {
     "name": "Willerby Linear LW",
     "make": "Willerby",
-    "model": "Linear LW",
+    "model": "Linear",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -161429,7 +161135,7 @@
   {
     "name": "2 Bedroom ABI Haywood Static Caravan",
     "make": "ABI",
-    "model": "Haywood Static",
+    "model": "Haywood",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2014.0,
@@ -161722,7 +161428,7 @@
   },
   {
     "name": "New 2027 Love Riverdale",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Riverdale",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
@@ -163991,7 +163697,7 @@
   {
     "name": "ABI New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2017.0,
@@ -164180,7 +163886,7 @@
   {
     "name": "ABI New Horizon",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2018.0,
@@ -164390,7 +164096,7 @@
   {
     "name": "Willerby Winchester Mk 7",
     "make": "Willerby",
-    "model": "Winchester Mk 7",
+    "model": "Winchester MK7",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -165670,7 +165376,7 @@
   },
   {
     "name": "swift Atlantique",
-    "make": "swift",
+    "make": "Swift",
     "model": "Atlantique",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
@@ -165776,7 +165482,7 @@
   {
     "name": "OMAR WOODBURY",
     "make": "Omar",
-    "model": "WOODBURY",
+    "model": "Woodbury",
     "dimensions": "40ft x 14ft",
     "bedrooms": 2.0,
     "year": 2020.0,
@@ -166217,7 +165923,7 @@
   {
     "name": "ABI Keswick - 3 Bedrooms",
     "make": "ABI",
-    "model": "Keswick - 3 Bedrooms",
+    "model": "Keswick",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -166553,7 +166259,7 @@
   {
     "name": "Willerby Winchester Mk 7 Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Winchester Mk 7",
+    "model": "Winchester MK7",
     "dimensions": "38ft x 12.5ft",
     "bedrooms": 2.0,
     "year": 2016.0,
@@ -166784,7 +166490,7 @@
   {
     "name": "ABI Forest oak Static Caravan - 2 Bedroom",
     "make": "ABI",
-    "model": "Forest oak",
+    "model": "Forest Oak",
     "dimensions": "40ft x 12ft",
     "bedrooms": 2.0,
     "year": 2021.0,
@@ -167477,7 +167183,7 @@
   {
     "name": "ABI New Horizon Static Caravan - 3 Bedroom",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2017.0,
@@ -170520,6 +170226,27 @@
     "canonical_park": "White House Leisure Park"
   },
   {
+    "name": "Vendee static caravan Static Caravan - 2 Bedroom",
+    "make": "Swift",
+    "model": "Vendee",
+    "dimensions": "42ft x 13ft",
+    "bedrooms": 2.0,
+    "year": 2023.0,
+    "year_assumed": null,
+    "location": "Private seller, Callander, Mid Scotland",
+    "park": "Private seller",
+    "postcode": null,
+    "availability": "Private Sale",
+    "property_type": null,
+    "price_display": "£95,000",
+    "price_number": 95000.0,
+    "source_site": "Parklink",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.parklink.uk/property/static-caravans-sale-callander-woods-holiday-park/",
+    "is_twin": "False",
+    "canonical_park": "Private seller"
+  },
+  {
     "name": "ABI Beachcomber",
     "make": "ABI",
     "model": "Beachcomber",
@@ -170627,7 +170354,7 @@
   {
     "name": "Cambrian Sandalwood with Hot Tub",
     "make": "Cambrian",
-    "model": "Sandalwood with Hot Tub",
+    "model": "Sandalwood",
     "dimensions": "40ft x 16ft",
     "bedrooms": 2.0,
     "year": null,
@@ -170770,27 +170497,6 @@
     "listing_url": "https://darwinescapes.co.uk/ownership/stock/pemberton-arrondale/",
     "is_twin": "True",
     "canonical_park": "Aberconwy Resort & Spa"
-  },
-  {
-    "name": "UK holiday homes for sale",
-    "make": "UK",
-    "model": "Holiday Homes For Sale",
-    "dimensions": null,
-    "bedrooms": null,
-    "year": 2023.0,
-    "year_assumed": null,
-    "location": null,
-    "park": null,
-    "postcode": null,
-    "availability": null,
-    "property_type": "Static Caravan/Lodge",
-    "price_display": "£19,995",
-    "price_number": 19995.0,
-    "source_site": "Darwin Escapes",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://darwinescapes.co.uk/ownership/stock/regal-charmouth-2023/",
-    "is_twin": "False",
-    "canonical_park": null
   },
   {
     "name": "Tingdene Country Lodge",
@@ -172538,7 +172244,7 @@
   {
     "name": "ABI ROSELLE FREE 2026 SITE FEES",
     "make": "ABI",
-    "model": "Roselle Free 2026 Site Fees",
+    "model": "Roselle",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": 2011.0,
@@ -173084,7 +172790,7 @@
   {
     "name": "ABI Elan - Bath",
     "make": "ABI",
-    "model": "Elan - Bath",
+    "model": "Elan Bath",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2017.0,
@@ -173168,7 +172874,7 @@
   {
     "name": "Pemberton Sovereign - Wheelchair Accessible Holiday Home",
     "make": "Pemberton",
-    "model": "Sovereign - Wheelchair Accessible Holiday Home",
+    "model": "Sovereign Wheelchair Accessible",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2015.0,
@@ -173588,7 +173294,7 @@
   {
     "name": "VICTORY BECKWOOD FREE 2027 SITE FEES",
     "make": "Victory",
-    "model": "Beckwood Free 2027 Site Fees",
+    "model": "Beckwood",
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -173630,7 +173336,7 @@
   {
     "name": "Swift Ardennes. Inc 2027 Site Fees",
     "make": "Swift",
-    "model": "Ardennes. Inc 2027 Site Fees",
+    "model": "Ardennes",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": 2023.0,
@@ -173819,7 +173525,7 @@
   {
     "name": "Victory Ashberry  FREE 2026 & 2027 SITE FEES INC!!!",
     "make": "Victory",
-    "model": "Ashberry  FREE 2026 & 2027 SITE FEES INC!!!",
+    "model": "Ashberry",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -173840,7 +173546,7 @@
   {
     "name": "Victory Ashberry FREE 2027 SITE FEES",
     "make": "Victory",
-    "model": "Ashberry FREE 2027 SITE FEES",
+    "model": "Ashberry",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -173903,7 +173609,7 @@
   {
     "name": "Atlas Sahara FREE 2027 SITE FEES",
     "make": "Atlas",
-    "model": "Sahara FREE 2027 SITE FEES",
+    "model": "Sahara",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2025.0,
@@ -173987,7 +173693,7 @@
   {
     "name": "Swift Bordeaux FREE 2027 SITE FEES",
     "make": "Swift",
-    "model": "Bordeaux FREE 2027 SITE FEES",
+    "model": "Bordeaux",
     "dimensions": "40ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -174008,7 +173714,7 @@
   {
     "name": "SWIFT MARGAUX FREE 2027 SITE FEES",
     "make": "Swift",
-    "model": "Margaux Free 2027 Site Fees",
+    "model": "Margaux",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -174029,7 +173735,7 @@
   {
     "name": "Swift Morlaix FREE 2027 SITE FEES",
     "make": "Swift",
-    "model": "Morlaix FREE 2027 SITE FEES",
+    "model": "Morlaix",
     "dimensions": "40ft x 12ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -174050,7 +173756,7 @@
   {
     "name": "ABI LEYBURN FREE 2027 SITE FEES",
     "make": "ABI",
-    "model": "Leyburn Free 2027 Site Fees",
+    "model": "Leyburn",
     "dimensions": "41ft x 14ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -174092,7 +173798,7 @@
   {
     "name": "ABI WESTWOOD LODGE FREE 2027 SITE FESS",
     "make": "ABI",
-    "model": "Westwood Lodge Free 2027 Site Fess",
+    "model": "Westwood Lodge Free",
     "dimensions": "44ft x 14ft",
     "bedrooms": 2.0,
     "year": 2022.0,
@@ -174113,7 +173819,7 @@
   {
     "name": "ABI AMBLESIDE PREMIER FREE 2027 FESS",
     "make": "ABI",
-    "model": "Ambleside Premier Free 2027 Fess",
+    "model": "Ambleside Premier",
     "dimensions": "41ft x 14ft",
     "bedrooms": 3.0,
     "year": 2026.0,
@@ -174134,7 +173840,7 @@
   {
     "name": "Willerby Clearwater FREE 2027 SITE FEES",
     "make": "Willerby",
-    "model": "Clearwater FREE 2027 SITE FEES",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": 2024.0,
@@ -175016,7 +174722,7 @@
   {
     "name": "Europa Mulberry CS",
     "make": "Europa",
-    "model": "Mulberry CS",
+    "model": "Mulberry",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175037,7 +174743,7 @@
   {
     "name": "Willerby Clearwater LNHR",
     "make": "Willerby",
-    "model": "Clearwater LNHR",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175058,7 +174764,7 @@
   {
     "name": "Atlas Lilac DP",
     "make": "Atlas",
-    "model": "Lilac DP",
+    "model": "Lilac",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175079,7 +174785,7 @@
   {
     "name": "Atlas Mirage HM",
     "make": "Atlas",
-    "model": "Mirage HM",
+    "model": "Mirage",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175100,7 +174806,7 @@
   {
     "name": "Willerby Clearwater LV",
     "make": "Willerby",
-    "model": "Clearwater LV",
+    "model": "Clearwater",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175121,7 +174827,7 @@
   {
     "name": "Atlas Wisteria LV",
     "make": "Atlas",
-    "model": "Wisteria LV",
+    "model": "Wisteria",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175142,7 +174848,7 @@
   {
     "name": "ABI Trieste LP",
     "make": "ABI",
-    "model": "Trieste LP",
+    "model": "Trieste",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175163,7 +174869,7 @@
   {
     "name": "Willerby Rio Gold 2bed CS",
     "make": "Willerby",
-    "model": "Rio Gold 2bed CS",
+    "model": "Rio Gold",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175184,7 +174890,7 @@
   {
     "name": "Willerby Westmoreland 3 bed CS",
     "make": "Willerby",
-    "model": "Westmoreland 3 bed CS",
+    "model": "Westmoreland",
     "dimensions": "37ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -175205,7 +174911,7 @@
   {
     "name": "Atlas Topaz SH",
     "make": "Atlas",
-    "model": "Topaz SH",
+    "model": "Topaz",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -175226,7 +174932,7 @@
   {
     "name": "Carnaby Ashdale LP",
     "make": "Carnaby",
-    "model": "Ashdale LP",
+    "model": "Ashdale",
     "dimensions": "36ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -175247,7 +174953,7 @@
   {
     "name": "Swift Margaux LP",
     "make": "Swift",
-    "model": "Margaux LP",
+    "model": "Margaux",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -177452,7 +177158,7 @@
   {
     "name": "Willerby Clearwater New Price –",
     "make": "Willerby",
-    "model": "Clearwater Price –",
+    "model": "Clearwater Price",
     "dimensions": null,
     "bedrooms": null,
     "year": 2022.0,
@@ -177914,7 +177620,7 @@
   {
     "name": "Lunar Quasar 554 (2015)",
     "make": "Lunar",
-    "model": "Quasar 554 ()",
+    "model": "Quasar 554",
     "dimensions": null,
     "bedrooms": null,
     "year": 2015.0,
@@ -177956,7 +177662,7 @@
   {
     "name": "Swift Ace Ambassador (2015)",
     "make": "Swift",
-    "model": "Ace Ambassador ()",
+    "model": "Ace Ambassador",
     "dimensions": null,
     "bedrooms": null,
     "year": 2015.0,
@@ -177977,7 +177683,7 @@
   {
     "name": "Willerby Cameo F8*",
     "make": "Willerby",
-    "model": "Cameo F8*",
+    "model": "Cameo",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -177998,7 +177704,7 @@
   {
     "name": "Stellar Daybreak – New Decking Included",
     "make": "Stellar",
-    "model": "Daybreak – New Decking Included",
+    "model": "Daybreak",
     "dimensions": "35ft x 12ft",
     "bedrooms": null,
     "year": null,
@@ -178019,7 +177725,7 @@
   {
     "name": "ABI Highlander 2021 P98",
     "make": "ABI",
-    "model": "Highlander P98",
+    "model": "Highlander",
     "dimensions": "32ft x 12ft",
     "bedrooms": null,
     "year": 2021.0,
@@ -178040,7 +177746,7 @@
   {
     "name": "Willerby Gainsborough A37",
     "make": "Willerby",
-    "model": "Gainsborough A37",
+    "model": "Gainsborough",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178061,7 +177767,7 @@
   {
     "name": "Pre-Loved Holiday Home Available Now",
     "make": "Delta",
-    "model": "Pre-Loved Holiday Home Available Now",
+    "model": "Available Now",
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178082,7 +177788,7 @@
   {
     "name": "ABI Beverley H7* STUNNING VIEWS!!",
     "make": "ABI",
-    "model": "Beverley H7* STUNNING VIEWS!!",
+    "model": "Beverley",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178124,7 +177830,7 @@
   {
     "name": "New ABI Hamilton",
     "make": "ABI",
-    "model": "New Hamilton",
+    "model": "Hamilton",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178208,7 +177914,7 @@
   {
     "name": "New Willerby Brookwood – Just Arrived!",
     "make": "Willerby",
-    "model": "New Brookwood – Just Arrived!",
+    "model": "Brookwood",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178313,7 +178019,7 @@
   {
     "name": "Swift Bordeaux – NEW",
     "make": "Swift",
-    "model": "Bordeaux – NEW",
+    "model": "Bordeaux",
     "dimensions": "33ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178334,7 +178040,7 @@
   {
     "name": "Victory Festival B40*  BRAND NEW",
     "make": "Victory",
-    "model": "Festival B40*",
+    "model": "Festival",
     "dimensions": "28ft x 10ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178355,7 +178061,7 @@
   {
     "name": "Willerby Salisbury –  D60*",
     "make": "Willerby",
-    "model": "Salisbury –  D60*",
+    "model": "Salisbury",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178376,7 +178082,7 @@
   {
     "name": "Swift Burgundy F23",
     "make": "Swift",
-    "model": "Burgundy F23",
+    "model": "Burgundy",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178397,7 +178103,7 @@
   {
     "name": "Victory Silverwood Deluxe B46*",
     "make": "Victory",
-    "model": "Silverwood Deluxe B46*",
+    "model": "Silverwood Deluxe",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178481,7 +178187,7 @@
   {
     "name": "ABI Beverley L33* BIG REDUCTION Save £10,000",
     "make": "ABI",
-    "model": "Beverley L33* BIG REDUCTION Save £10,000",
+    "model": "Beverley",
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178502,7 +178208,7 @@
   {
     "name": "ABI Islay*  D43",
     "make": "ABI",
-    "model": "Islay*  D43",
+    "model": "Islay",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178523,7 +178229,7 @@
   {
     "name": "ABI Arizona BF48  Reduced",
     "make": "ABI",
-    "model": "Arizona BF48  Reduced",
+    "model": "Arizona",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178540,27 +178246,6 @@
     "listing_url": "https://meridianparks.co.uk/home/abi-arizona-bf48/",
     "is_twin": "False",
     "canonical_park": "Lido Leisure Park"
-  },
-  {
-    "name": "New Static Plot Available",
-    "make": null,
-    "model": "New Static Plot Available",
-    "dimensions": null,
-    "bedrooms": null,
-    "year": null,
-    "year_assumed": null,
-    "location": "Brompton on Swale Caravan Park",
-    "park": "Brompton on Swale Caravan Park",
-    "postcode": "DL10 7EZ",
-    "availability": null,
-    "property_type": null,
-    "price_display": "POA",
-    "price_number": null,
-    "source_site": "Meridian Parks",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://meridianparks.co.uk/home/new-static-plot-available/",
-    "is_twin": "False",
-    "canonical_park": "Brompton on Swale Caravan Park"
   },
   {
     "name": "Willerby New Hampshire",
@@ -178586,7 +178271,7 @@
   {
     "name": "ABI Ambleside K30* SALE –  Reduction",
     "make": "ABI",
-    "model": "Ambleside K30* SALE –  Reduction",
+    "model": "Ambleside",
     "dimensions": "40ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178670,7 +178355,7 @@
   {
     "name": "ABI Coworth H60a",
     "make": "ABI",
-    "model": "Coworth H60a",
+    "model": "Coworth",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -178859,7 +178544,7 @@
   {
     "name": "Carnaby Carrington + deck",
     "make": "Carnaby",
-    "model": "Carrington + deck",
+    "model": "Carrington + Deck",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -179279,7 +178964,7 @@
   {
     "name": "WILLERBY RIO",
     "make": "Willerby",
-    "model": "RIO",
+    "model": "Rio",
     "dimensions": null,
     "bedrooms": null,
     "year": 2027.0,
@@ -179384,7 +179069,7 @@
   {
     "name": "WILLERBY RIO",
     "make": "Willerby",
-    "model": "RIO",
+    "model": "Rio",
     "dimensions": null,
     "bedrooms": null,
     "year": 2027.0,
@@ -179594,7 +179279,7 @@
   {
     "name": "Willerby Sierra 3 Bedroom",
     "make": "Willerby",
-    "model": "Sierra 3 Bedroom",
+    "model": "Sierra",
     "dimensions": "36ft x 12ft",
     "bedrooms": null,
     "year": 2013.0,
@@ -180098,7 +179783,7 @@
   {
     "name": "ABI Balmoral at Ord House – Pitch 284",
     "make": "ABI",
-    "model": "Balmoral at Ord House – Pitch 284",
+    "model": "Balmoral",
     "dimensions": "44ft x 13ft",
     "bedrooms": null,
     "year": 2026.0,
@@ -180728,7 +180413,7 @@
   {
     "name": "ABI Keswick at Marwood – Pitch 4",
     "make": "ABI",
-    "model": "Keswick at Marwood – Pitch 4",
+    "model": "Keswick",
     "dimensions": "28ft x 12ft",
     "bedrooms": null,
     "year": 2025.0,
@@ -180854,7 +180539,7 @@
   {
     "name": "Victory Faraday at Hurworth Springs – Pitch 68",
     "make": "Victory",
-    "model": "Faraday at Hurworth Springs – Pitch 68",
+    "model": "Faraday",
     "dimensions": "40ft x 20ft",
     "bedrooms": null,
     "year": 2024.0,
@@ -181106,7 +180791,7 @@
   {
     "name": "Cosalt Lautrec Lodge at Ord House – Pitch 304",
     "make": "Cosalt",
-    "model": "Lautrec Lodge at Ord House – Pitch 304",
+    "model": "Lautrec Lodge",
     "dimensions": "34ft x 20ft",
     "bedrooms": null,
     "year": 2003.0,
@@ -181400,7 +181085,7 @@
   {
     "name": "ABI Portofino at Ord House – Pitch SG8",
     "make": "ABI",
-    "model": "Portofino at Ord House – Pitch SG8",
+    "model": "Portofino",
     "dimensions": "40ft x 13ft",
     "bedrooms": null,
     "year": 2026.0,
@@ -181820,7 +181505,7 @@
   {
     "name": "ABI Langdale at Ord House – Pitch R289",
     "make": "ABI",
-    "model": "Langdale at Ord House – Pitch R289",
+    "model": "Langdale",
     "dimensions": "40ft x 13ft",
     "bedrooms": null,
     "year": 2023.0,
@@ -181841,7 +181526,7 @@
   {
     "name": "ABI Ingleton at Ord House – Pitch 283",
     "make": "ABI",
-    "model": "Ingleton at Ord House – Pitch 283",
+    "model": "Ingleton",
     "dimensions": "40ft x 13ft",
     "bedrooms": null,
     "year": 2025.0,
@@ -182093,7 +181778,7 @@
   {
     "name": "ABI Beaumont Lodge at Hurworth Springs Plot 40",
     "make": "ABI",
-    "model": "Beaumont Lodge at Hurworth Springs Plot 40",
+    "model": "Beaumont Lodge",
     "dimensions": "43ft x 13ft",
     "bedrooms": null,
     "year": 2024.0,
@@ -182114,7 +181799,7 @@
   {
     "name": "ABI Langdale at Hurworth Springs",
     "make": "ABI",
-    "model": "Langdale at Hurworth Springs",
+    "model": "Langdale",
     "dimensions": "40ft x 13ft",
     "bedrooms": null,
     "year": 2021.0,
@@ -182156,7 +181841,7 @@
   {
     "name": "ABI Harrogate at Hurworth Springs – Pitch 30",
     "make": "ABI",
-    "model": "Harrogate at Hurworth Springs – Pitch 30",
+    "model": "Harrogate",
     "dimensions": "41ft x 20ft",
     "bedrooms": null,
     "year": null,
@@ -182219,7 +181904,7 @@
   {
     "name": "ABI Windermere at Ord House – Showground",
     "make": "ABI",
-    "model": "Windermere at Ord House – Showground",
+    "model": "Windermere",
     "dimensions": "40ft x 13ft",
     "bedrooms": null,
     "year": 2025.0,
@@ -182303,7 +181988,7 @@
   {
     "name": "Victory Park View at Hurworth Springs – Pitch 67",
     "make": "Victory",
-    "model": "Park View at Hurworth Springs – Pitch 67",
+    "model": "Park View",
     "dimensions": "40ft x 20ft",
     "bedrooms": null,
     "year": 2023.0,
@@ -182323,8 +182008,8 @@
   },
   {
     "name": "PRE-LOVED WILLERBY MISTRAL AT SCOUTSCROFT",
-    "make": "WILLERBY",
-    "model": "MISTRAL",
+    "make": "Willerby",
+    "model": "Mistral",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -182344,8 +182029,8 @@
   },
   {
     "name": "PRE-LOVED WILLERBY CLEMENT AT COLDINGHAM BAY",
-    "make": "WILLERBY",
-    "model": "CLEMENT",
+    "make": "Willerby",
+    "model": "Clement",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -182365,8 +182050,8 @@
   },
   {
     "name": "BRAND NEW WILLERBY ASHFORDS & NEW 12X6 ENCLOSED DECKING AT SCOUTSCROFT PARK",
-    "make": "WILLERBY",
-    "model": "ASHFORDS & NEW",
+    "make": "Willerby",
+    "model": "Ashfords & New",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -182386,8 +182071,8 @@
   },
   {
     "name": "BRAND NEW VICTORY SILVERWOOD AT COLDINGHAM BAY",
-    "make": "VICTORY",
-    "model": "SILVERWOOD",
+    "make": "Victory",
+    "model": "Silverwood",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -182596,7 +182281,7 @@
   },
   {
     "name": "Love Royale Poplar",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Royale Poplar",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
@@ -182807,7 +182492,7 @@
   {
     "name": "Atlas Lodge at Billing Aquadrome",
     "make": "Atlas",
-    "model": "Lodge at Billing Aquadrome",
+    "model": "Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -183479,7 +183164,7 @@
   {
     "name": "Willerby Malton with decking",
     "make": "Willerby",
-    "model": "Malton with decking",
+    "model": "Malton",
     "dimensions": "37ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -183584,7 +183269,7 @@
   {
     "name": "Sunseeker Spirit Coastal Woodpecker Meadows Two Bed",
     "make": "Sunseeker",
-    "model": "Spirit Coastal Woodpecker Meadows Two Bed",
+    "model": "Spirit Coastal Woodpecker Meadows",
     "dimensions": "39ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -183710,7 +183395,7 @@
   {
     "name": "Willerby Boston Lodge Three Bed on Woodpecker Meadows",
     "make": "Willerby",
-    "model": "Boston Lodge Three Bed on Woodpecker Meadows",
+    "model": "Boston Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 3.0,
     "year": null,
@@ -183730,7 +183415,7 @@
   },
   {
     "name": "Pinehurst Lodge",
-    "make": null,
+    "make": "Willerby",
     "model": "Pinehurst Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
@@ -184739,7 +184424,7 @@
   {
     "name": "Swift Paddocks 19",
     "make": "Swift",
-    "model": "Paddocks 19",
+    "model": "Paddocks",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -184948,7 +184633,7 @@
   },
   {
     "name": "Lakewood",
-    "make": null,
+    "make": "Victory",
     "model": "Lakewood",
     "dimensions": "14ft x 42ft",
     "bedrooms": 2.0,
@@ -184991,7 +184676,7 @@
   {
     "name": "ABI ABI Coworth",
     "make": "ABI",
-    "model": "ABI Coworth",
+    "model": "Coworth",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185096,7 +184781,7 @@
   {
     "name": "Swift Ardennes ES",
     "make": "Swift",
-    "model": "Ardennes ES",
+    "model": "Ardennes Es",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185306,7 +184991,7 @@
   {
     "name": "Swift Loire - Pitch 57",
     "make": "Swift",
-    "model": "Loire - Pitch 57",
+    "model": "Loire",
     "dimensions": "28ft x 10ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185346,30 +185031,9 @@
     "canonical_park": "River Valley"
   },
   {
-    "name": "New or Pre Owned",
-    "make": null,
-    "model": "New or Pre Owned",
-    "dimensions": null,
-    "bedrooms": 2.0,
-    "year": null,
-    "year_assumed": null,
-    "location": "River Valley",
-    "park": "River Valley",
-    "postcode": "TR20 9ER",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£30,000",
-    "price_number": 30000.0,
-    "source_site": "Own Your Own Holiday Home (Surf Bay Leisure)",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.ownyourownholidayhome.co.uk/rivervalley/ownership/black-13",
-    "is_twin": "False",
-    "canonical_park": "River Valley"
-  },
-  {
     "name": "Atlas Aurora- Pitch 67",
     "make": "Atlas",
-    "model": "Aurora- Pitch 67",
+    "model": "Aurora",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185474,7 +185138,7 @@
   {
     "name": "Swift Loire 34",
     "make": "Swift",
-    "model": "Loire 34",
+    "model": "Loire",
     "dimensions": "28ft x 10ft",
     "bedrooms": 2.0,
     "year": null,
@@ -185537,7 +185201,7 @@
   {
     "name": "ABI Oakley- Pitch 8",
     "make": "ABI",
-    "model": "Oakley- Pitch 8",
+    "model": "Oakley",
     "dimensions": "28ft x 10ft",
     "bedrooms": 2.0,
     "year": null,
@@ -186058,27 +185722,6 @@
     "listing_url": "https://longbeach-leisure.co.uk/holiday-homes-for-sale/willerby-malton-2022",
     "is_twin": "False",
     "canonical_park": "Longbeach Leisure Park"
-  },
-  {
-    "name": "Sea View Plot now Available!",
-    "make": null,
-    "model": null,
-    "dimensions": null,
-    "bedrooms": null,
-    "year": null,
-    "year_assumed": null,
-    "location": "Pegwell Bay Holiday Park",
-    "park": "Pegwell Bay Holiday Park",
-    "postcode": "CT11 0NJ",
-    "availability": null,
-    "property_type": null,
-    "price_display": "No price listed",
-    "price_number": null,
-    "source_site": "The Family Parks Group",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://thefamilyparksgroup.co.uk/property/sea-view-plot-now-available/",
-    "is_twin": "False",
-    "canonical_park": "Pegwell Bay Holiday Park"
   },
   {
     "name": "Regal Regency 2015",
@@ -187070,7 +186713,7 @@
   {
     "name": "NEW Willerby Mapleton Lodge! – 2 Bed",
     "make": "Willerby",
-    "model": "Mapleton Lodge! – 2 Bed",
+    "model": "Mapleton Lodge",
     "dimensions": null,
     "bedrooms": null,
     "year": null,
@@ -187091,7 +186734,7 @@
   {
     "name": "NEW Swift Vendee Lodge – Lakeside!",
     "make": "Swift",
-    "model": "Vendee Lodge – Lakeside!",
+    "model": "Vendee Lodge Lakeside",
     "dimensions": null,
     "bedrooms": null,
     "year": null,
@@ -187112,7 +186755,7 @@
   {
     "name": "Willerby Manor 38 x 12 – 2 Bed – Like NEW!",
     "make": "Willerby",
-    "model": "Manor 38 x 12 – 2 Bed – Like !",
+    "model": "Manor",
     "dimensions": "38ft x 12ft",
     "bedrooms": null,
     "year": 2024.0,
@@ -187133,7 +186776,7 @@
   {
     "name": "D7 – Swift Moselle – Canalside",
     "make": "Swift",
-    "model": "Moselle – Canalside",
+    "model": "Moselle Canalside",
     "dimensions": null,
     "bedrooms": null,
     "year": null,
@@ -187384,8 +187027,8 @@
   },
   {
     "name": "Ex-Hire Fleet 2023 Love Poplar",
-    "make": null,
-    "model": "Ex-Hire Fleet 2023 Love Poplar",
+    "make": "Love Holiday Homes",
+    "model": "Poplar",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -187444,27 +187087,6 @@
     "listing_url": "https://www.hillandale.co.uk/accommodation/2020-jubilee-honey-bee-0",
     "is_twin": "False",
     "canonical_park": "Morfa Bychan Holiday Park"
-  },
-  {
-    "name": "HOLIDAY HOMES COMING SOON",
-    "make": null,
-    "model": "HOLIDAY HOMES COMING SOON",
-    "dimensions": null,
-    "bedrooms": null,
-    "year": null,
-    "year_assumed": null,
-    "location": "Lickhill Manor Caravan Park",
-    "park": "Lickhill Manor Caravan Park",
-    "postcode": "DY13 8RL",
-    "availability": null,
-    "property_type": null,
-    "price_display": "No price listed",
-    "price_number": null,
-    "source_site": "Hillandale Caravan Parks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.hillandale.co.uk/accommodation/holiday-homes-coming-soon",
-    "is_twin": "False",
-    "canonical_park": "Lickhill Manor Caravan Park"
   },
   {
     "name": "The Morlaix",
@@ -188497,7 +188119,7 @@
   },
   {
     "name": "Twin Unit Twin Unit - 2000",
-    "make": "Twin",
+    "make": null,
     "model": "Unit Twin Unit",
     "dimensions": null,
     "bedrooms": 0.0,
@@ -188812,8 +188434,8 @@
   },
   {
     "name": "Lakewood Lodge",
-    "make": "Lakewood",
-    "model": "Lodge",
+    "make": "Victory",
+    "model": "Lakewood Lodge",
     "dimensions": "42ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -188977,6 +188599,27 @@
     "listing_url": "https://www.discoverparks.co.uk/holiday-homes/atlas-image-new-10170/",
     "is_twin": "False",
     "canonical_park": "Arrow Bank"
+  },
+  {
+    "name": "Diamond Lodge",
+    "make": null,
+    "model": "Lodge",
+    "dimensions": "40ft x 13ft",
+    "bedrooms": 2.0,
+    "year": 2026.0,
+    "year_assumed": null,
+    "location": "Oakwood Retreat York",
+    "park": "Oakwood Retreat York",
+    "postcode": "YO41 4DD",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£69,995",
+    "price_number": 69995.0,
+    "source_site": "Harvey Longsons",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.harveylongsons.com/property/oakwood-retreat-york-5/",
+    "is_twin": "False",
+    "canonical_park": "Oakwood Retreat York"
   },
   {
     "name": "Willerby Brookwood",
@@ -190430,7 +190073,7 @@
   {
     "name": "Regal retreat",
     "make": "Regal",
-    "model": "retreat",
+    "model": "Retreat",
     "dimensions": "33ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -190575,29 +190218,8 @@
     "canonical_park": "Castle View Park"
   },
   {
-    "name": "Ashdale Outlook",
-    "make": null,
-    "model": "Ashdale Outlook",
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2027.0,
-    "year_assumed": null,
-    "location": "Newhaven Holiday Park",
-    "park": "Newhaven Holiday Park",
-    "postcode": "SK17 0DT",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£65,995",
-    "price_number": 65995.0,
-    "source_site": "Harvey Longsons",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.harveylongsons.com/property/newhaven-holiday-park-derbyshire-6/",
-    "is_twin": "False",
-    "canonical_park": "Newhaven Holiday Park"
-  },
-  {
     "name": "Driftwood Cove",
-    "make": "Driftwood",
+    "make": null,
     "model": "Cove",
     "dimensions": null,
     "bedrooms": 2.0,
@@ -190660,8 +190282,8 @@
   },
   {
     "name": "Onyx Atlas",
-    "make": "Onyx",
-    "model": "Atlas",
+    "make": "Atlas",
+    "model": "Onyx",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -191522,7 +191144,7 @@
   {
     "name": "ABI New Horizon 2019 static caravan & decking sited at Haven's Kent Coast, Allhallows",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2019.0,
@@ -193013,7 +192635,7 @@
   {
     "name": "2025 Atlas aPAD",
     "make": "Atlas",
-    "model": "aPAD",
+    "model": "APAD",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": 2025.0,
@@ -193240,6 +192862,132 @@
     "listing_url": "https://www.lloydscaravans.co.uk/Caravan/New_2023_Willerby_Hayward_2_Bedrooms_758-2806/",
     "is_twin": "True",
     "canonical_park": "Fir Trees Caravan and Lodge Park (Chester)"
+  },
+  {
+    "name": "Beverley, FE",
+    "make": "Beverley",
+    "model": null,
+    "dimensions": "39ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2023.0,
+    "year_assumed": null,
+    "location": "Fell End Caravan Park, Lake District And Cumbria",
+    "park": "Fell End Caravan Park",
+    "postcode": "LA7 7BS",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£76,895",
+    "price_number": 76895.0,
+    "source_site": "My Holiday Caravan - Fell End Caravan Park",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lake-district-and-cumbria/fell-end-caravan-park/10361",
+    "is_twin": "False",
+    "canonical_park": "Fell End Caravan Park"
+  },
+  {
+    "name": "Beverley, CS",
+    "make": "Beverley",
+    "model": null,
+    "dimensions": "36ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2019.0,
+    "year_assumed": null,
+    "location": "Cockerham Sands, Lancashire",
+    "park": "Cockerham Sands",
+    "postcode": "LA2 0BB",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£49,995",
+    "price_number": 49995.0,
+    "source_site": "My Holiday Caravan - Cockerham Sands",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/lancashire/cockerham-sands/10861",
+    "is_twin": "False",
+    "canonical_park": "Cockerham Sands"
+  },
+  {
+    "name": "Timber Venture",
+    "make": "Timberventure",
+    "model": null,
+    "dimensions": "42ft x 20ft",
+    "bedrooms": 2.0,
+    "year": 2026.0,
+    "year_assumed": null,
+    "location": "Highlands End Holiday Park, Dorset",
+    "park": "Highlands End Holiday Park",
+    "postcode": "DT6 6AR",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£495,000",
+    "price_number": 495000.0,
+    "source_site": "Caravan4you",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.caravan4you.com/listing/timber-venture/",
+    "is_twin": "True",
+    "canonical_park": "Highlands End Holiday Park"
+  },
+  {
+    "name": "Pitch 017 – 2026 Pemberton Marlow Resi",
+    "make": "Pemberton",
+    "model": null,
+    "dimensions": "36ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2026.0,
+    "year_assumed": null,
+    "location": "Skelwith Fold Caravan Park, Cumbria",
+    "park": "Skelwith Fold Caravan Park",
+    "postcode": "LA22 0HX",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£71,542",
+    "price_number": 71542.0,
+    "source_site": "Caravan4you",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.caravan4you.com/listing/pitch-017-2026-pemberton-marlow-resi/",
+    "is_twin": "False",
+    "canonical_park": "Skelwith Fold Caravan Park"
+  },
+  {
+    "name": "Pitch 240 – 2026 Pemberton Avon",
+    "make": "Pemberton",
+    "model": null,
+    "dimensions": "30ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2026.0,
+    "year_assumed": null,
+    "location": "Skelwith Fold Caravan Park, Cumbria",
+    "park": "Skelwith Fold Caravan Park",
+    "postcode": "LA22 0HX",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£56,760",
+    "price_number": 56760.0,
+    "source_site": "Caravan4you",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.caravan4you.com/listing/pitch-240-2026-pemberton-avon/",
+    "is_twin": "False",
+    "canonical_park": "Skelwith Fold Caravan Park"
+  },
+  {
+    "name": "Pitch 313 – 2026 Pemberton Marlow Resi Spec",
+    "make": "Pemberton",
+    "model": null,
+    "dimensions": "36ft x 12ft",
+    "bedrooms": 2.0,
+    "year": 2026.0,
+    "year_assumed": null,
+    "location": "Skelwith Fold Caravan Park, Cumbria",
+    "park": "Skelwith Fold Caravan Park",
+    "postcode": "LA22 0HX",
+    "availability": null,
+    "property_type": null,
+    "price_display": "£68,593",
+    "price_number": 68593.0,
+    "source_site": "Caravan4you",
+    "date_scraped": "2026-10-31",
+    "listing_url": "https://www.caravan4you.com/listing/pitch-313-2026-pemberton-marlow-resi-spec/",
+    "is_twin": "False",
+    "canonical_park": "Skelwith Fold Caravan Park"
   },
   {
     "name": "Willerby, Brookwood",
@@ -193494,27 +193242,6 @@
     "canonical_park": "Hayling Island Holiday Park"
   },
   {
-    "name": "S",
-    "make": "S",
-    "model": null,
-    "dimensions": null,
-    "bedrooms": 3.0,
-    "year": null,
-    "year_assumed": null,
-    "location": "Golden Leas Holiday Park, Kent",
-    "park": "Golden Leas Holiday Park",
-    "postcode": "ME12 4JF",
-    "availability": null,
-    "property_type": null,
-    "price_display": "No price listed",
-    "price_number": null,
-    "source_site": "My Holiday Caravan - Golden Leas Holiday Park",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.myholidaycaravan.co.uk/uk-sites/kent/golden-leas-holiday-park/VAN2454",
-    "is_twin": "False",
-    "canonical_park": "Golden Leas Holiday Park"
-  },
-  {
     "name": "Willerby, Salsa",
     "make": "Willerby",
     "model": "Salsa",
@@ -193622,7 +193349,7 @@
   {
     "name": "None, Storey Lodge FE",
     "make": null,
-    "model": "Storey Lodge FE",
+    "model": "Storey Lodge",
     "dimensions": "40ft x 16ft",
     "bedrooms": 3.0,
     "year": null,
@@ -193727,7 +193454,7 @@
   {
     "name": "Willerby, Westmoreland CS",
     "make": "Willerby",
-    "model": "Westmoreland CS",
+    "model": "Westmoreland",
     "dimensions": "37ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -193748,7 +193475,7 @@
   {
     "name": "Willerby, Rio Gold CS",
     "make": "Willerby",
-    "model": "Rio Gold CS",
+    "model": "Rio Gold",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -193769,7 +193496,7 @@
   {
     "name": "Willerby, Elerton CS",
     "make": "Willerby",
-    "model": "Elerton CS",
+    "model": "Elerton",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -193790,7 +193517,7 @@
   {
     "name": "Europa, Mulberry CS",
     "make": "Europa",
-    "model": "Mulberry CS",
+    "model": "Mulberry",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -193831,7 +193558,7 @@
   },
   {
     "name": "Twin, Unit Twin Unit",
-    "make": "Twin",
+    "make": null,
     "model": "Unit Twin Unit",
     "dimensions": null,
     "bedrooms": 0.0,
@@ -194210,7 +193937,7 @@
   {
     "name": "Willerby, New Horizon",
     "make": "Willerby",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": "12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -194545,8 +194272,8 @@
   },
   {
     "name": "Bronte Norwood - Pond View New",
-    "make": "Bronte",
-    "model": "Norwood - Pond View New",
+    "make": "Victory",
+    "model": "Bronte Norwood Pond View New",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195280,7 +195007,7 @@
   },
   {
     "name": "Twin Unit Twin Unit Static Caravan",
-    "make": "Twin",
+    "make": null,
     "model": "Unit Twin Unit",
     "dimensions": null,
     "bedrooms": null,
@@ -195403,27 +195130,6 @@
     "listing_url": "https://www.parklink.uk/property/victory-baywood-luxury-static-caravan-for-sale-suffolk/",
     "is_twin": "False",
     "canonical_park": "The Sandlings Centre"
-  },
-  {
-    "name": "Vendee static caravan Static Caravan - 2 Bedroom",
-    "make": "Vendee",
-    "model": null,
-    "dimensions": "42ft x 13ft",
-    "bedrooms": 2.0,
-    "year": 2023.0,
-    "year_assumed": null,
-    "location": "Private seller, Callander, Mid Scotland",
-    "park": "Private seller",
-    "postcode": null,
-    "availability": "Private Sale",
-    "property_type": null,
-    "price_display": "£95,000",
-    "price_number": 95000.0,
-    "source_site": "Parklink",
-    "date_scraped": "2026-10-31",
-    "listing_url": "https://www.parklink.uk/property/static-caravans-sale-callander-woods-holiday-park/",
-    "is_twin": "False",
-    "canonical_park": "Private seller"
   },
   {
     "name": "Victory Atlantic LW Static Caravan - 2 Bedroom",
@@ -195554,7 +195260,7 @@
   {
     "name": "Swift Moselle CS Static Caravan - 2 Bedroom",
     "make": "Swift",
-    "model": "Moselle CS",
+    "model": "Moselle",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195575,7 +195281,7 @@
   {
     "name": "Carnaby Melrose CS Static Caravan - 2 Bedroom",
     "make": "Carnaby",
-    "model": "Melrose CS",
+    "model": "Melrose",
     "dimensions": "37ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195596,7 +195302,7 @@
   {
     "name": "Willerby Lyndhurst CS Static Caravan - 3 Bedroom",
     "make": "Willerby",
-    "model": "Lyndhurst CS",
+    "model": "Lyndhurst",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -195638,7 +195344,7 @@
   {
     "name": "Willerby Linwood FE Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Linwood FE",
+    "model": "Linwood",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195659,7 +195365,7 @@
   {
     "name": "Delta Pure Haven FE Static Caravan - 2 Bedroom",
     "make": "Delta",
-    "model": "Pure Haven FE",
+    "model": "Pure Haven",
     "dimensions": "31ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195680,7 +195386,7 @@
   {
     "name": "Atlas Heritage FE Static Caravan - 3 Bedroom",
     "make": "Atlas",
-    "model": "Heritage FE",
+    "model": "Heritage",
     "dimensions": "40ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -195701,7 +195407,7 @@
   {
     "name": "Victory Silverwood FE Static Caravan - 2 Bedroom",
     "make": "Victory",
-    "model": "Silverwood FE",
+    "model": "Silverwood",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195722,7 +195428,7 @@
   {
     "name": "Victory Silverwood LP Static Caravan - 3 Bedroom",
     "make": "Victory",
-    "model": "Silverwood LP",
+    "model": "Silverwood",
     "dimensions": "39ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -195764,7 +195470,7 @@
   {
     "name": "Willerby Sierra LP Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Sierra LP",
+    "model": "Sierra",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195785,7 +195491,7 @@
   {
     "name": "Timber Lodge FE Static Caravan - 2 Bedroom",
     "make": "Timber",
-    "model": "Lodge FE",
+    "model": "Lodge",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195827,7 +195533,7 @@
   {
     "name": "Delta Pure Haven HM Static Caravan - 2 Bedroom",
     "make": "Delta",
-    "model": "Pure Haven HM",
+    "model": "Pure Haven",
     "dimensions": "31ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195869,7 +195575,7 @@
   {
     "name": "Delta Resort Plus LW Static Caravan - 2 Bedroom",
     "make": "Delta",
-    "model": "Resort Plus LW",
+    "model": "Resort Plus",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195890,7 +195596,7 @@
   {
     "name": "Willerby Rio Gold LW Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Rio Gold LW",
+    "model": "Rio Gold",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -195911,7 +195617,7 @@
   {
     "name": "Willerby Westmoreland 3 bed CS Static Caravan - 3 Bedroom",
     "make": "Willerby",
-    "model": "Westmoreland CS",
+    "model": "Westmoreland",
     "dimensions": "37ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -195932,7 +195638,7 @@
   {
     "name": "Willerby Manor LP Static Caravan - 3 Bedroom",
     "make": "Willerby",
-    "model": "Manor LP",
+    "model": "Manor",
     "dimensions": "38ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -195974,7 +195680,7 @@
   {
     "name": "Europa Rosewood LW Static Caravan - 2 Bedroom",
     "make": "Europa",
-    "model": "Rosewood LW",
+    "model": "Rosewood",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196016,7 +195722,7 @@
   {
     "name": "Atlas Festival HM Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Festival HM",
+    "model": "Festival",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196037,7 +195743,7 @@
   {
     "name": "Willerby Westmoreland 2 Bed CS Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Westmoreland CS",
+    "model": "Westmoreland",
     "dimensions": "35ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196058,7 +195764,7 @@
   {
     "name": "ABI Beverley FE Static Caravan - 2 Bedroom",
     "make": "Beverley",
-    "model": "FE",
+    "model": null,
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196079,7 +195785,7 @@
   {
     "name": "Atlas Sahara LVY Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Sahara LVY",
+    "model": "Sahara",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196100,7 +195806,7 @@
   {
     "name": "ABI Trieste 20 LP Static Caravan - 2 Bedroom",
     "make": "ABI",
-    "model": "Trieste 20 LP",
+    "model": "Trieste",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196121,7 +195827,7 @@
   {
     "name": "ABI Beverly 23 LP Static Caravan - 2 Bedroom",
     "make": "ABI",
-    "model": "Beverley 23 LP",
+    "model": "Beverley",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196142,7 +195848,7 @@
   {
     "name": "Atlas Heritage CS Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Heritage CS",
+    "model": "Heritage",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196163,7 +195869,7 @@
   {
     "name": "Pinelog Oregon Lodge LP Static Caravan - 2 Bedroom",
     "make": "Pinelog",
-    "model": "Oregon Lodge LP",
+    "model": "Oregon Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -196205,7 +195911,7 @@
   {
     "name": "Europa Maple LP Static Caravan",
     "make": "Europa",
-    "model": "Maple LP",
+    "model": "Maple",
     "dimensions": "38ft x 12ft",
     "bedrooms": null,
     "year": null,
@@ -196226,7 +195932,7 @@
   {
     "name": "Europa Mulberry LP Static Caravan - 2 Bedroom",
     "make": "Europa",
-    "model": "Mulberry LP",
+    "model": "Mulberry",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196268,7 +195974,7 @@
   {
     "name": "ABI Wimbledon 21 LP Static Caravan - 2 Bedroom",
     "make": "ABI",
-    "model": "Wimbledon LP",
+    "model": "Wimbledon",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196310,7 +196016,7 @@
   {
     "name": "Swift Burgundy 18 LP Static Caravan - 2 Bedroom",
     "make": "Swift",
-    "model": "Burgundy LP",
+    "model": "Burgundy",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196331,7 +196037,7 @@
   {
     "name": "ABI Trieste LP Static Caravan - 2 Bedroom",
     "make": "ABI",
-    "model": "Trieste LP",
+    "model": "Trieste",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196352,7 +196058,7 @@
   {
     "name": "Willerby Granada LP Static Caravan - 3 Bedroom",
     "make": "Willerby",
-    "model": "Granada LP",
+    "model": "Granada",
     "dimensions": "40ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -196373,7 +196079,7 @@
   {
     "name": "Atlas Festival LP Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Festival LP",
+    "model": "Festival",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196394,7 +196100,7 @@
   {
     "name": "Sunseeker Zest LP Static Caravan - 2 Bedroom",
     "make": "Sunseeker",
-    "model": "Zest LP",
+    "model": "Zest",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196415,7 +196121,7 @@
   {
     "name": "Delta Resort LP Static Caravan - 2 Bedroom",
     "make": "Delta",
-    "model": "Resort LP",
+    "model": "Resort",
     "dimensions": "29ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196436,7 +196142,7 @@
   {
     "name": "Willerby Sierra HM Static Caravan - 2 Bedroom",
     "make": "Willerby",
-    "model": "Sierra HM",
+    "model": "Sierra",
     "dimensions": "39ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196457,7 +196163,7 @@
   {
     "name": "Delta Pure Haven FE Static Caravan - 3 Bedroom",
     "make": "Delta",
-    "model": "Pure Haven FE",
+    "model": "Pure Haven",
     "dimensions": "35ft x 12ft",
     "bedrooms": 3.0,
     "year": null,
@@ -196520,7 +196226,7 @@
   {
     "name": "Atlas Heritage LW Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Heritage LW",
+    "model": "Heritage",
     "dimensions": "38ft x 13ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196541,7 +196247,7 @@
   {
     "name": "Europa Mulberry CS Static Caravan - 2 Bedroom",
     "make": "Europa",
-    "model": "Mulberry CS",
+    "model": "Mulberry",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196562,7 +196268,7 @@
   {
     "name": "Europa Rosewood HM Static Caravan - 2 Bedroom",
     "make": "Europa",
-    "model": "Rosewood HM",
+    "model": "Rosewood",
     "dimensions": "32ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196583,7 +196289,7 @@
   {
     "name": "ABI Cowarth HM Static Caravan - 2 Bedroom",
     "make": "ABI",
-    "model": "Coworth HM",
+    "model": "Coworth",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -196604,7 +196310,7 @@
   {
     "name": "Atlas Mirage HM Static Caravan - 2 Bedroom",
     "make": "Atlas",
-    "model": "Mirage HM",
+    "model": "Mirage",
     "dimensions": "28ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -197045,7 +196751,7 @@
   {
     "name": "The Bordeaux 35ft",
     "make": "Swift",
-    "model": "Bordeaux 35ft",
+    "model": "Bordeaux",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -197947,7 +197653,7 @@
   },
   {
     "name": "Love Heartwood",
-    "make": "Love",
+    "make": "Love Holiday Homes",
     "model": "Heartwood",
     "dimensions": null,
     "bedrooms": null,
@@ -198578,7 +198284,7 @@
   {
     "name": "Willerby Vogue Lodge Mk 4 Clas 2026 (Villa)",
     "make": "Willerby",
-    "model": "Vogue Lodge Mk 4 Clas",
+    "model": "Vogue Lodge MK4 Clas",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2026.0,
@@ -198913,8 +198619,8 @@
   },
   {
     "name": "Timberventure Seaspray",
-    "make": null,
-    "model": null,
+    "make": "Timberventure",
+    "model": "Seaspray",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": null,
@@ -200068,8 +199774,8 @@
   },
   {
     "name": "Sunningdale 2018 (Static Caravan)",
-    "make": null,
-    "model": null,
+    "make": "ABI",
+    "model": "Sunningdale",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": 2018.0,
@@ -200593,8 +200299,8 @@
   },
   {
     "name": "Timberventure Seaspray",
-    "make": null,
-    "model": null,
+    "make": "Timberventure",
+    "model": "Seaspray",
     "dimensions": "42ft x 20ft",
     "bedrooms": 3.0,
     "year": null,
@@ -203156,7 +202862,7 @@
   {
     "name": "Abi New Horizon 2017 (Static Caravan)",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2017.0,
@@ -203407,8 +203113,8 @@
   },
   {
     "name": "The Vendee",
-    "make": null,
-    "model": null,
+    "make": "Swift",
+    "model": "Vendee",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -203428,8 +203134,8 @@
   },
   {
     "name": "Morlaix Lodge",
-    "make": null,
-    "model": null,
+    "make": "Swift",
+    "model": "Morlaix Lodge",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -203449,8 +203155,8 @@
   },
   {
     "name": "The Beverley",
-    "make": null,
-    "model": null,
+    "make": "ABI",
+    "model": "Beverley",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -205550,7 +205256,7 @@
   {
     "name": "Abi New Horizon 2017 (Static Caravan)",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2017.0,
@@ -207650,7 +207356,7 @@
   {
     "name": "Abi New Horizon 2016 (Static Caravan)",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2016.0,
@@ -208133,7 +207839,7 @@
   {
     "name": "Abi New Horizon 2013 (Static Caravan)",
     "make": "ABI",
-    "model": "New Horizon",
+    "model": "Horizon",
     "dimensions": null,
     "bedrooms": 3.0,
     "year": 2013.0,
@@ -208992,27 +208698,6 @@
     "canonical_park": "Seawick Holiday Park"
   },
   {
-    "name": "Bay Colwell Cottages",
-    "make": null,
-    "model": null,
-    "dimensions": null,
-    "bedrooms": 2.0,
-    "year": null,
-    "year_assumed": null,
-    "location": "The Bay Colwell Holiday Park",
-    "park": "The Bay Colwell Holiday Park",
-    "postcode": null,
-    "availability": null,
-    "property_type": null,
-    "price_display": "No price listed",
-    "price_number": null,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2522309-bay-colwell-cottages-colwell-bay-england",
-    "is_twin": "False",
-    "canonical_park": "The Bay Colwell Holiday Park"
-  },
-  {
     "name": "Victory Parkview Lodge",
     "make": "Victory",
     "model": "Parkview Lodge",
@@ -209036,7 +208721,7 @@
   {
     "name": "Pemberton Glendale 44x22ft",
     "make": "Pemberton",
-    "model": "Glendale 44x22ft",
+    "model": "Glendale",
     "dimensions": "44ft x 22ft",
     "bedrooms": 2.0,
     "year": null,
@@ -209078,7 +208763,7 @@
   {
     "name": "Atlas Debonair Lodge 40x 20ft",
     "make": "Atlas",
-    "model": "Debonair Lodge 40x 20ft",
+    "model": "Debonair Lodge",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -209099,7 +208784,7 @@
   {
     "name": "Pemberton Glendale 40x20ft",
     "make": "Pemberton",
-    "model": "Glendale 40x20ft",
+    "model": "Glendale",
     "dimensions": "40ft x 20ft",
     "bedrooms": 2.0,
     "year": null,
@@ -209246,7 +208931,7 @@
   {
     "name": "Pre Owned Regal Symphony",
     "make": "Regal",
-    "model": "Pre Owned Symphony",
+    "model": "Symphony",
     "dimensions": "41ft x 14ft",
     "bedrooms": 2.0,
     "year": null,
@@ -209330,7 +209015,7 @@
   {
     "name": "Pemberton Avon – Wharf 36 X 12ft",
     "make": "Pemberton",
-    "model": "Avon – Wharf 36 X 12ft",
+    "model": "Avon Wharf",
     "dimensions": "36ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -209351,7 +209036,7 @@
   {
     "name": "Pemberton Marlow 38x12ft",
     "make": "Pemberton",
-    "model": "Marlow 38x12ft",
+    "model": "Marlow",
     "dimensions": "38ft x 12ft",
     "bedrooms": 2.0,
     "year": null,
@@ -211030,8 +210715,8 @@
   },
   {
     "name": "The Boston",
-    "make": null,
-    "model": null,
+    "make": "Willerby",
+    "model": "Boston",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -211093,8 +210778,8 @@
   },
   {
     "name": "The Manor",
-    "make": null,
-    "model": null,
+    "make": "Willerby",
+    "model": "Manor",
     "dimensions": null,
     "bedrooms": 2.0,
     "year": null,
@@ -211911,69 +211596,6 @@
     "canonical_park": "Castle Howard Lakeside Holiday Park"
   },
   {
-    "name": "2008 Advent Tarragon",
-    "make": null,
-    "model": null,
-    "dimensions": "43ft x 20ft",
-    "bedrooms": 2.0,
-    "year": 2008.0,
-    "year_assumed": null,
-    "location": "Goosewood Holiday Park",
-    "park": "Goosewood Holiday Park",
-    "postcode": "YO61 1ET",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£84,995",
-    "price_number": 84995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2517545-2008-advent-tarragon-york-england",
-    "is_twin": "True",
-    "canonical_park": "Goosewood Holiday Park"
-  },
-  {
-    "name": "2022 Ambleside Premier",
-    "make": null,
-    "model": null,
-    "dimensions": "40ft x 14ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Castle Howard Lakeside Holiday Park",
-    "park": "Castle Howard Lakeside Holiday Park",
-    "postcode": "YO60 7DD",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£74,995",
-    "price_number": 74995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2514582-2022-ambleside-premier-york-england",
-    "is_twin": "False",
-    "canonical_park": "Castle Howard Lakeside Holiday Park"
-  },
-  {
-    "name": "2022 Hazelwood",
-    "make": null,
-    "model": null,
-    "dimensions": "40ft x 13ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Flower of May",
-    "park": "Flower of May",
-    "postcode": "YO11 3NU",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£69,995",
-    "price_number": 69995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2517538-2022-hazelwood-scarborough-england",
-    "is_twin": "False",
-    "canonical_park": "Flower of May"
-  },
-  {
     "name": "Carnaby Highgrove 2022 (Static Caravan)",
     "make": "Carnaby",
     "model": "Highgrove",
@@ -212014,27 +211636,6 @@
     "listing_url": "https://www.myholidayparks.com/properties/2527297-willerby-malton-elite-2025-villa-tunstall-england",
     "is_twin": "False",
     "canonical_park": "Sand le Mere Holiday Park"
-  },
-  {
-    "name": "2023 Love Chestnut",
-    "make": null,
-    "model": null,
-    "dimensions": "40ft x 13ft",
-    "bedrooms": 2.0,
-    "year": 2023.0,
-    "year_assumed": null,
-    "location": "Flower of May",
-    "park": "Flower of May",
-    "postcode": "YO11 3NU",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£66,995",
-    "price_number": 66995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2518852-2023-love-chestnut-scarborough-england",
-    "is_twin": "False",
-    "canonical_park": "Flower of May"
   },
   {
     "name": "Willerby Malton Special 2026 (Static Caravan)",
@@ -212121,27 +211722,6 @@
     "canonical_park": "Bowland Fell Holiday Park"
   },
   {
-    "name": "2023 Love Chestnut",
-    "make": null,
-    "model": null,
-    "dimensions": "40ft x 13ft",
-    "bedrooms": 2.0,
-    "year": 2023.0,
-    "year_assumed": null,
-    "location": "Fir Tree Holiday Park",
-    "park": "Fir Tree Holiday Park",
-    "postcode": "YO16 6YG",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£56,995",
-    "price_number": 56995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2518859-2023-love-chestnut-bridlington-england",
-    "is_twin": "False",
-    "canonical_park": "Fir Tree Holiday Park"
-  },
-  {
     "name": "Atlas Fanfare 2024 (Static Caravan)",
     "make": "Atlas",
     "model": "Fanfare",
@@ -212203,27 +211783,6 @@
     "listing_url": "https://www.myholidayparks.com/properties/2522945-2022-atlas-sahara-scarborough-england",
     "is_twin": "False",
     "canonical_park": "Spring Willows Boutique Holiday Park"
-  },
-  {
-    "name": "2022 Royale Poplar",
-    "make": null,
-    "model": null,
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Flower of May",
-    "park": "Flower of May",
-    "postcode": "YO11 3NU",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£51,995",
-    "price_number": 51995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2517535-2022-royale-poplar-scarborough-england",
-    "is_twin": "False",
-    "canonical_park": "Flower of May"
   },
   {
     "name": "2023 Europa Willow",
@@ -212331,69 +211890,6 @@
     "canonical_park": "Bowland Fell Holiday Park"
   },
   {
-    "name": "2022 Royale Poplar",
-    "make": null,
-    "model": null,
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Fir Tree Holiday Park",
-    "park": "Fir Tree Holiday Park",
-    "postcode": "YO16 6YG",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£41,995",
-    "price_number": 41995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2514920-2022-royale-poplar-bridlington-england",
-    "is_twin": "False",
-    "canonical_park": "Fir Tree Holiday Park"
-  },
-  {
-    "name": "2022 Royale Poplar",
-    "make": null,
-    "model": null,
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "The Lighthouse Holiday Park",
-    "park": "The Lighthouse Holiday Park",
-    "postcode": "YO15 1AJ",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£41,995",
-    "price_number": 41995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2518578-2022-royale-poplar-flamborough-england",
-    "is_twin": "False",
-    "canonical_park": "The Lighthouse Holiday Park"
-  },
-  {
-    "name": "2022 Royale Poplar",
-    "make": null,
-    "model": null,
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Riverside Meadows Holiday Park",
-    "park": "Riverside Meadows Holiday Park",
-    "postcode": "HG4 1JD",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£41,995",
-    "price_number": 41995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2518582-2022-royale-poplar-ripon-england",
-    "is_twin": "False",
-    "canonical_park": "Riverside Meadows Holiday Park"
-  },
-  {
     "name": "Willerby Midhurst 2024 (Static Caravan)",
     "make": "Willerby",
     "model": "Midhurst",
@@ -212476,48 +211972,6 @@
     "listing_url": "https://www.myholidayparks.com/properties/2527034-willerby-midhurst-2024-static-caravan-tunstall-england",
     "is_twin": "False",
     "canonical_park": "Sand le Mere Holiday Park"
-  },
-  {
-    "name": "2022 Poplar",
-    "make": null,
-    "model": null,
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "Flower of May",
-    "park": "Flower of May",
-    "postcode": "YO11 3NU",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£38,495",
-    "price_number": 38495.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2518550-2022-poplar-scarborough-england",
-    "is_twin": "False",
-    "canonical_park": "Flower of May"
-  },
-  {
-    "name": "2022 Poplar",
-    "make": null,
-    "model": null,
-    "dimensions": "35ft x 12ft",
-    "bedrooms": 2.0,
-    "year": 2022.0,
-    "year_assumed": null,
-    "location": "The Lighthouse Holiday Park",
-    "park": "The Lighthouse Holiday Park",
-    "postcode": "YO15 1AJ",
-    "availability": null,
-    "property_type": null,
-    "price_display": "£37,995",
-    "price_number": 37995.0,
-    "source_site": "Myholidayparks",
-    "date_scraped": "2026-11-01",
-    "listing_url": "https://www.myholidayparks.com/properties/2514949-2022-poplar-flamborough-england",
-    "is_twin": "False",
-    "canonical_park": "The Lighthouse Holiday Park"
   },
   {
     "name": "Atlas Hollington 2025 (Static Caravan)",
