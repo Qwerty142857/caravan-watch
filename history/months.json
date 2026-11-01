@@ -3,13 +3,13 @@
     "month": "2026-10",
     "label": "October 2026",
     "file": "history/listings_2026-10.csv",
-    "listings": 10150,
+    "listings": 10205,
     "parks": 943,
     "sites": 74,
     "median_price": 47995,
     "average_age": 5.5,
     "with_postcode": 94.9,
-    "file_kb": 1685
+    "file_kb": 1693
   },
   {
     "month": "2026-09",

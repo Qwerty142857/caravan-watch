@@ -270,9 +270,6 @@ Atlas,Status,2022 Atlas Status,38ft x 12ft,2,2022,,69995,Aldbrough Leisure Park,
 Carnaby,Finesse,2015 Carnaby Finesse,37ft x 12ft,2,2015,,39995,Aldbrough Leisure Park,Aldbrough Leisure Park,HU11 4SA,,Myholidayparks,,,
 Carnaby,Roxburgh,,,2,,,29995,Aldbrough Leisure Park,Aldbrough Leisure Park,HU11 4SA,,Myholidayparks,,,
 Europa,Willow,2022 Europa Willow,38ft x 12ft,2,2022,,58500,Aldbrough Leisure Park,Aldbrough Leisure Park,HU11 4SA,,Myholidayparks,,,
-,,The Tuscany,40ft x 20ft,2,,,174950,Alder Country Park,Alder Country Park,,,Myholidayparks,Y,,
-,,Casa Di Lusso,45ft x 22ft,2,,,194995,Alder Country Park,Alder Country Park,,,Myholidayparks,Y,,
-,,La Belle Maison,45ft x 22ft,2,,,229950,Alder Country Park,Alder Country Park,,,Myholidayparks,Y,,
 ABI,Beverley,ABI BEVERLEY 2019,39ft x 12ft,2,2019,,42500,Allensford Holiday Park,Allensford Holiday Park,DH8 9BA,,Meridian Parks,,,
 ABI,Coworth,ABI Coworth 2020,39ft x 12ft,2,2020,,29500,Allensford Holiday Park,Allensford Holiday Park,DH8 9BA,,Meridian Parks,,,
 ABI,Oakley,ABI Oakley 2017,32ft x 12ft,2,2017,,24995,Allensford Holiday Park,Allensford Holiday Park,DH8 9BA,,Meridian Parks,,,
@@ -340,6 +337,7 @@ Willerby,Malton Elite,Willerby Malton Elite 2025 (Villa),,2,2025,,99995,Amble Li
 Willerby,Malton Elite,"Willerby, Malton Elite",40ft x 14.5ft,2,2025,,104995,Amble Links Coastal Holiday Park,Amble Links Coastal Holiday Park,NE65 0SD,"Amble Links Coastal Holiday Park, Northumberland",My Holiday Caravan - Amble Links Coastal Holiday Park,,,
 Willerby,Malton Elite,Willerby Malton Elite 2025 (Villa),,2,2025,,104995,Amble Links Coastal Holiday Park,Amble Links Coastal Holiday Park,NE65 0SD,,Myholidayparks,,,Villa
 Willerby,New Holland,"Willerby, New Holland",40ft x 20ft,3,2026,,214995,Amble Links Coastal Holiday Park,Amble Links Coastal Holiday Park,NE65 0SD,"Amble Links Coastal Holiday Park, Northumberland",My Holiday Caravan - Amble Links Coastal Holiday Park,Y,,
+Willerby,New Holland,Willerby New Holland 2026 (Lodge),,3,2026,,214995,Amble Links Coastal Holiday Park,Amble Links Coastal Holiday Park,NE65 0SD,,Myholidayparks,,,Lodge
 Willerby,Vacation,Willerby Vacation 2014 (Static Caravan),,2,2014,,24995,Amble Links Coastal Holiday Park,Amble Links Coastal Holiday Park,NE65 0SD,,Myholidayparks,,,Static Caravan
 ABI,Beverley,ABI Beverley Static Caravan - 2 Bedroom,39ft x 12ft,2,2025,,79995,Amble Links Coastal Retreat & Holiday Park,Amble Links Coastal Retreat & Holiday Park,NE65 0SD,"Amble Links Coastal Retreat & Holiday Park, Amble, Northumberland",Parklink,,For Sale,
 ABI,Ingleton,ABI Ingleton Static Caravan - 2 Bedroom,40ft x 13ft,2,2025,,89995,Amble Links Coastal Retreat & Holiday Park,Amble Links Coastal Retreat & Holiday Park,NE65 0SD,"Amble Links Coastal Retreat & Holiday Park, Amble, Northumberland",Parklink,,For Sale,
@@ -886,6 +884,7 @@ Regal,Hemsworth,,,2,,,59995,Bockenfield Country Park,Bockenfield Country Park,NE
 Victory,Baywood,,38ft x 12ft,2,2022,,39995,Bockenfield Country Park,Bockenfield Country Park,NE65 9QJ,,Harvey Longsons,,,
 Victory,Beckwood,,39ft x 12ft,2,,,49995,Bockenfield Country Park,Bockenfield Country Park,NE65 9QJ,,Harvey Longsons,,,
 Victory,Stonewood,,39ft x 12ft,2,2022,,49995,Bockenfield Country Park,Bockenfield Country Park,NE65 9QJ,,Harvey Longsons,,,
+Willerby,Horsham,Willerby Horsham 2024 (Lodge),,3,2024,,129995,Bodmin Holiday Park,Bodmin Holiday Park,,,Myholidayparks,,,Lodge
 Jubilee,Bumblebee CL,2019 Jubilee Bumblebee CL,32ft x 12ft,2,2019,,31985,Borders Hideaway Holiday Home Park,Borders Hideaway Holiday Home Park,,,Hillandale Caravan Parks,,,
 Jubilee,Butterfly,2021 Jubilee Butterfly,38ft x 12ft,2,2021,,43290,Borders Hideaway Holiday Home Park,Borders Hideaway Holiday Home Park,,,Hillandale Caravan Parks,,,
 Jubilee,Queen Bee,2021 Jubilee Queen Bee,38ft x 12ft,2,2021,,51980,Borders Hideaway Holiday Home Park,Borders Hideaway Holiday Home Park,,,Hillandale Caravan Parks,,,
@@ -935,7 +934,9 @@ Atlas,Wisteria,2021 Atlas Wisteria,20ft x 40ft,2,2021,,149995,Bowland Fell Holid
 Atlas,Wisteria,2022 Atlas Wisteria,,2,2022,,174995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,
 Carnaby,Cascade,Carnaby Cascade 2015 (Static Caravan),,2,2015,,34995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
 Delta,Hailsham,Delta Hailsham 2022 (Static Caravan),,2,2022,,44995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
+Delta,Lakeside,Delta Lakeside 2020 (Lodge),,2,2020,,149995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Lodge
 Delta,Superior,Delta Superior Deluxe 2023 (Villa),40ft x 14ft,2,2023,,89995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Villa
+Prestige,Buckland Lodge,Prestige Buckland Lodge 2018 (Lodge),40ft x 20ft,2,2018,,99995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,Y,,Lodge
 Sunseeker,Sandgate,Sunseeker Sandgate 2026 (Villa),,3,2026,,104995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Villa
 Sunseeker,Sandgate,,40ft x 14ft,3,2026,,119995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Harvey Longsons,,,
 Swift,Bordeaux,Swift Bordeaux 2015 (Static Caravan),,3,2015,,28995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
@@ -945,6 +946,7 @@ Swift,Loire,Swift Loire 2015 (Static Caravan),,3,2015,,19995,Bowland Fell Holida
 Willerby,Brockenhurst,,38ft x 12ft,2,2018,,42995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Harvey Longsons,,,
 Willerby,Caledonia,Willerby Caledonia 2016 (Static Caravan),,2,2016,,24995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
 Willerby,Grasmere,2021 Willerby Grasmere,35ft x 12ft,2,2021,,50000,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,
+Willerby,Horsham,Willerby Horsham 2025 (Lodge),,2,2025,,129995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Lodge
 Willerby,Linwood,Willerby Linwood 2019 (Static Caravan),,2,2019,,36995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
 Willerby,Lymington,Willerby Lymington 2016 (Static Caravan),,3,2016,,42995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Myholidayparks,,,Static Caravan
 Willerby,Malton,,35ft x 12ft,2,2026,,65995,Bowland Fell Holiday Park,Bowland Fell Holiday Park,BD23 4SD,,Harvey Longsons,,,
@@ -1179,8 +1181,11 @@ ABI,Kingston,Abi Kingston 2024 (Villa),,2,2024,,89995,Brynteg Holiday Park,Brynt
 ABI,Leyburn,Abi Leyburn 2026 (Villa),,3,2026,,114995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Villa
 ABI,Summer Breeze,Abi Summer Breeze 2014,,2,2014,,29995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,
 ABI,Ticehurst,Abi Ticehurst 2023,,2,2023,,89995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,
+Aspire,Menai,Aspire Menai 2026 (Lodge),,3,2026,,249995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,Y,,Lodge
+Aspire,Modena,Aspire Modena 2026 (Lodge),,3,2026,,369995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,Y,,Lodge
 Atlas,Hollington,Atlas Hollington 2025 (Static Caravan),,2,2025,,54995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Static Caravan
 Carnaby,Glenmoor Lodge,Carnaby Glenmoor Lodge 2023 (Static Caravan),,3,2023,,89995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Static Caravan
+Pemberton,Glendale,Pemberton Glendale 2026 (Lodge),,3,2026,,294995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Lodge
 Swift,Burgundy,Swift Burgundy 2026 (Static Caravan),,3,2026,,84995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Static Caravan
 Victory,Arlington,Victory Arlington 2026 (Villa),,3,2026,,114995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Villa
 Willerby,Aspen,Willerby Aspen 2017 (Static Caravan),,2,2017,,69995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Static Caravan
@@ -1192,6 +1197,7 @@ Willerby,Malton,Willerby Malton 2021 (Static Caravan),,3,2021,,59995,Brynteg Hol
 Willerby,Malton,Willerby Malton 2022,,3,2022,,59995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,
 Willerby,Midhurst,Willerby Midhurst 2024 (Static Caravan),,3,2024,,49995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Static Caravan
 Willerby,Midhurst,Willerby Midhurst 2024,,2,2024,,59995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,
+Willerby,New Holland,Willerby New Holland 2026 (Lodge),,3,2026,,219995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Lodge
 Willerby,Sheraton,Willerby Sheraton 2021 (Villa),40ft x 13ft,2,2021,,74995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Villa
 Willerby,Woodbridge,Willerby Woodbridge 2027 (Villa),,2,2027,,109995,Brynteg Holiday Park,Brynteg Holiday Park,LL55 4RF,,Myholidayparks,,,Villa
 ABI,Driftwood,A.B.I Driftwood - 2026,36ft x 12ft,2,2026,,64999,Bude,Bude,EX23 9EE,,Away Resorts,,,
@@ -1913,7 +1919,6 @@ Willerby,Malton,2021 Willerby Malton 2 bed,35ft x 12ft,2,2021,,37995,Coastfields
 Willerby,Malton,2026 Willerby Malton 3 bed,37ft x 12ft,3,2026,,49995,Coastfields Holiday Village,Coastfields Holiday Village,PE25 1JU,,Coastfields Leisure,,,
 Willerby,Malton,2025 Willerby Malton 3 bed,37ft x 12ft,3,2025,,49995,Coastfields Holiday Village,Coastfields Holiday Village,PE25 1JU,,Coastfields Leisure,,,
 ,,Lesko Shoreline,40ft x 13ft,2,,,169000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,,,
-,,The Oceania,45ft x 22ft,3,,,455000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
 Aspire,Geneva,,40ft x 20ft,3,,,400000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
 Aspire,Nordica,,45ft x 22ft,3,,,650000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
 Aspire,Vienna,,45ft x 22ft,2,,,530000,Coastview Shaldon,Coastview Shaldon,,,Myholidayparks,Y,,
@@ -2091,15 +2096,23 @@ Swift,Antibes,Swift Antibes Static Caravan - 2 Bedroom,39ft x 12ft,2,2022,,70000
 Swift,Ardennes,Swift Ardennes Static Caravan - 2 Bedroom,38ft x 12ft,2,2023,,65000,Coquet View Leisure Park,Coquet View Leisure Park,NE65 0SW,"Coquet View Leisure Park, Warkworth, Northumberland",Parklink,,For Sale,
 Willerby,Dorchester,Willerby Dorchester Static Caravan - 2 Bedroom,43ft x 14.5ft,2,2022,,95000,Coquet View Leisure Park,Coquet View Leisure Park,NE65 0SW,"Coquet View Leisure Park, Warkworth, Northumberland",Parklink,,For Sale,
 Willerby,Manor,Willerby Manor Static Caravan - 2 Bedroom,38ft x 12ft,2,2023,,70000,Coquet View Leisure Park,Coquet View Leisure Park,NE65 0SW,"Coquet View Leisure Park, Warkworth, Northumberland",Parklink,,For Sale,
+ABI,Harrogate Lodge,ABI Harrogate Lodge | 2022,40ft x 20ft,2,2022,,234000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
 ABI,Islay,ABI Islay Holiday Home | 2026,39ft x 12ft,3,2026,,129000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
+ABI,Kielder Lodge,ABI Kielder Lodge | 2022,40ft x 20ft,2,2022,,225995,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
+ABI,Kielder Lodge,ABI Kielder Lodge | 2026,40ft x 20ft,4,2026,,265000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
 ABI,Wimbledon,ABI Wimbledon Holiday Home | 2025,35ft x 12ft,3,2025,,97000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
 Atlas,Jasmine,Atlas Jasmine Holiday Home | 2021,40ft x 14ft,2,2021,,140000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
 Delta,Saffron,Delta Saffron Holiday Home | 2022,36ft x 12ft,3,2022,,53000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
 Victory,Lakewood,Victory Lakewood Holiday Home | 2022,42ft x 14ft,2,2022,,129995,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
+Victory,Lakewood Lodge,Victory Lakewood Lodge | 2026,42ft x 14ft,2,2026,,159000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
+Victory,Liberte Lodge,Victory Liberte Lodge | 2026,40ft x 20ft,2,2026,,167500,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
 Victory,Riverwood,Victory Riverwood Holiday Home | 2022,40ft x 14ft,2,2022,,134000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
 Victory,Riverwood,Victory Riverwood Holiday Home | 2026,40ft x 14ft,2,2026,,145000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
 Victory,Stonewood,Victory Stonewood Holiday Home | 2022,35ft x 12ft,2,2022,,61000,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
+Victory,Wisteria Lodge,Victory Wisteria Lodge | 2026,40ft x 20ft,2,2026,,159995,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
+Willerby,Clearwater Lodge,Willerby Clearwater Lodge | 2022,40ft x 20ft,2,2022,,179995,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
 Willerby,Linwood,Willerby Linwood Holiday Home | 2022,35ft x 12ft,2,2022,,39995,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,,,
+Willerby,New Hampshire Lodge,Willerby New Hampshire Lodge | 2021,42ft x 20ft,2,2021,,224995,Cornish Meadows,Cornish Meadows,TR27 5HA,,Lovat Parks,Y,,
 ABI,Islay,ABI Islay Static Caravan - 2 Bedroom,37ft x 12ft,2,2026,,80000,Cornish Meadows Holiday Park,Cornish Meadows Holiday Park,TR27 5HA,"Cornish Meadows Holiday Park, Hayle, Cornwall",Parklink,,For Sale,
 ABI,Wimbledon,ABI Wimbledon Static Caravan - 3 Bedroom,40ft x 12ft,3,2025,,97000,Cornish Meadows Holiday Park,Cornish Meadows Holiday Park,TR27 5HA,"Cornish Meadows Holiday Park, Hayle, Cornwall",Parklink,,For Sale,
 Carnaby,Oakdale,Carnaby Oakdale Static Caravan - 3 Bedroom,36ft x 12ft,3,2021,,49000,Cornish Meadows Holiday Park,Cornish Meadows Holiday Park,TR27 5HA,"Cornish Meadows Holiday Park, Hayle, Cornwall",Parklink,,For Sale,
@@ -2343,6 +2356,7 @@ Willerby,Midhurst,Willerby Midhurst 2024,35ft x 12ft,3,2024,,49995,Dawlish Sands
 Willerby,Rio Gold,Willerby Rio Gold 2011,35ft x 12ft,3,2011,,24995,Dawlish Sands,Dawlish Sands,EX7 0PG,"Dawlish Sands, Devon",Park Holidays,,,
 Willerby,Vacation,Willerby Vacation 2014,28ft x 10ft,2,2014,,27995,Dawlish Sands,Dawlish Sands,EX7 0PG,"Dawlish Sands, Devon",Park Holidays,,,
 ABI,Arizona,Abi Arizona 2019 (Static Caravan),,2,2019,,39995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
+ABI,Belmont Eden,Abi Belmont Eden 2026 (Lodge),,2,2026,,169995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Lodge
 ABI,Fairlight,Abi Fairlight 2019 (Static Caravan),,3,2019,,54995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
 ABI,Oakley,Abi Oakley 2019 (Static Caravan),,2,2019,,44995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
 ABI,Trieste,Abi Trieste 2016 (Static Caravan),,3,2016,,32995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
@@ -2357,6 +2371,7 @@ Delta,Hailsham,Delta Hailsham 2020 (Static Caravan),,2,2020,,43995,Dawlish Sands
 Delta,Sapphire,Delta Sapphire 2016 (Static Caravan),,3,2016,,39995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
 Sunseeker,Spirit,2022 Sunseeker Spirit,38ft x 12ft,2,2022,,89995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,
 Swift,Bordeaux,Swift Bordeaux 2015 (Static Caravan),,2,2015,,37995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
+Willerby,Cadence,Willerby Cadence 2018 (Lodge),,2,2018,,129995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Lodge
 Willerby,Caledonia,Willerby Caledonia 2016 (Static Caravan),,2,2016,,32995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,Static Caravan
 Willerby,Lamberhurst,2022 Willerby Lamberhurst,12ft x 38ft,3,2022,,87995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,
 Willerby,Lamberhurst,2022 Willerby Lamberhurst,12ft x 38ft,2,2022,,87995,Dawlish Sands Holiday Park,Dawlish Sands Holiday Park,EX7 0PG,,Myholidayparks,,,
@@ -2567,6 +2582,7 @@ BK Bluebird,Grosvenor,Bk Bluebird Grosvenor 2014 (Static Caravan),,2,2014,,36995
 Cosalt,Cascade,Cosalt Cascade 2008 (Static Caravan),,3,2008,,9995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Delta,Bromley,Delta Bromley 2011 (Static Caravan),,2,2011,,19995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Delta,Denbigh Deluxe,Delta Denbigh Deluxe 2011 (Static Caravan),,3,2011,,19995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
+Delta,Desire,Delta Desire 2013 (Lodge),,2,2013,,79995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Lodge
 Delta,Nordstar,Delta Nordstar 2010 (Static Caravan),,2,2010,,19995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Delta,Sofia,Delta Sofia 2015 (Static Caravan),,2,2015,,22995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Delta,Thornton,Delta Thornton 2015 (Static Caravan),,3,2015,,34995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
@@ -2585,6 +2601,7 @@ Willerby,Legacy,Willerby Legacy 2011 (Static Caravan),,2,2011,,19995,Dovercourt 
 Willerby,Magnum,Willerby Magnum 2011 (Static Caravan),,2,2011,,14995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Willerby,Malton Elite,Willerby Malton Elite 2025 (Villa),,2,2025,,99995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Villa
 Willerby,Midhurst,Willerby Midhurst 2024 (Static Caravan),,2,2024,,44995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
+Willerby,New Holland,Willerby New Holland 2026 (Lodge),,2,2026,,149995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Lodge
 Willerby,Rio,Willerby Rio 2010 (Static Caravan),,3,2010,,17995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Willerby,Rio,Willerby Rio 2025 (Static Caravan),,2,2025,,54995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
 Willerby,Rio Gold,Willerby Rio Gold 2013 (Static Caravan),,2,2013,,19995,Dovercourt Holiday Park,Dovercourt Holiday Park,CO12 3TZ,,Myholidayparks,,,Static Caravan
@@ -2785,7 +2802,6 @@ Willerby,Etchingham,Willerby Etchingham 2016,35ft x 12ft,2,2016,,34995,Felixstow
 Willerby,Grasmere,Willerby Grasmere 2022,35ft x 12ft,2,2022,,44995,Felixstowe beach,Felixstowe beach,IP11 2HA,"Felixstowe beach, Suffolk",Park Holidays,,,
 Willerby,Jevington,Willerby Jevington 2027,35ft x 12ft,2,2027,,64995,Felixstowe beach,Felixstowe beach,IP11 2HA,"Felixstowe beach, Suffolk",Park Holidays,,,
 Willerby,Lymington,Willerby Lymington 2017,35ft x 12ft,3,2017,,35995,Felixstowe beach,Felixstowe beach,IP11 2HA,"Felixstowe beach, Suffolk",Park Holidays,,,
-,Storey Lodge,"None, Storey Lodge FE",40ft x 16ft,3,,,199995,Fell End Caravan Park,Fell End Caravan Park,LA7 7BS,"Fell End Caravan Park, Lake District And Cumbria",My Holiday Caravan - Fell End Caravan Park,Y,,
 ABI,Coworth,"ABI, Coworth FE",28ft x 12ft,2,2025,,49995,Fell End Caravan Park,Fell End Caravan Park,LA7 7BS,"Fell End Caravan Park, Lake District And Cumbria",My Holiday Caravan - Fell End Caravan Park,,,
 Atlas,Heritage,"Atlas, Heritage FE",40ft x 12ft,3,2021,,78000,Fell End Caravan Park,Fell End Caravan Park,LA7 7BS,"Fell End Caravan Park, Lake District And Cumbria",My Holiday Caravan - Fell End Caravan Park,,,
 Beverley,,"Beverley, FE",39ft x 12ft,2,2023,,76895,Fell End Caravan Park,Fell End Caravan Park,LA7 7BS,"Fell End Caravan Park, Lake District And Cumbria",My Holiday Caravan - Fell End Caravan Park,,,
@@ -2869,13 +2885,6 @@ Willerby,Impression,2023 Willerby Impression,35ft x 12ft,2,2023,,,Fir Trees Cara
 Willerby,Salisbury,2027 Willerby Salisbury,38ft x 12ft,2,2027,,59771,Fir Trees Caravan and Lodge Park (Chester),Fir Trees Caravan and Lodge Park (Chester),,,Lloyds Caravans,,New,
 Willerby,Aspen,,38ft x 12ft,2,,,26995,Fir View Tan Y Ffridd Holiday Park,Fir View Tan Y Ffridd Holiday Park,,"Fir View Tan Y Ffridd Holiday Park, Powys",Parkmove,,,
 ,,The Plantation,,2,,,265995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,,,
-,,The Harrington,40ft x 20ft,2,,,269995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
-,,The Skylark,40ft x 20ft,2,,,277995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
-,,The Affinity,40ft x 20ft,2,,,277995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
-,,The Muskoka,40ft x 20ft,2,,,279995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
-,,The Tranquillity,42ft x 20ft,2,,,292995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
-,,The Expression,45ft x 20ft,2,,,299995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
-,,The Rustica,45ft x 20ft,2,,,319995,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,,Myholidayparks,Y,,
 Cambrian,,,40ft x 20ft,3,2018,,279900,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,"Fishguard Bay Resort, West Wales",My Holiday Caravan - Fishguard Bay Resort,Y,,
 Tingdene,Brampton,"Tingdene, Brampton",42ft x 22ft,3,2023,,299000,Fishguard Bay Resort,Fishguard Bay Resort,SA65 9ET,"Fishguard Bay Resort, West Wales",My Holiday Caravan - Fishguard Bay Resort,Y,,
 ABI,Coworth,Abi Coworth 28 x 12 2 bed,28ft x 12ft,2,2021,,25995,Fishguard Holiday Park,Fishguard Holiday Park,SA65 9JH,,Vale Holiday Parks,,,Static Caravan
@@ -2917,7 +2926,6 @@ Willerby,Lymington,,35ft x 12ft,2,2024,,46995,Forest Edge Holiday Park,Forest Ed
 Willerby,Lymington,The Lymington by Willerby,35ft x 12ft,2,,,46995,Forest Edge Holiday Park,Forest Edge Holiday Park,BH24 2SD,,Shorefield Holidays,,For Sale,Caravan
 Willerby,Castleton,Willerby Castleton Static Caravan - 2 Bedroom,38ft x 12ft,2,2023,,75000,Forest View,Forest View,NE19 1TF,"Forest View, Otterburn, Northumberland",Parklink,,For Sale,
 Willerby,Westmorland,Willerby Westmorland Static Caravan - 2 Bedroom,35ft x 12ft,2,,,29995,Forest View,Forest View,NE19 1TF,"Forest View, Otturburn, Northumberland",Parklink,,For Sale,
-,Forest View Super Lodge,,45ft x 22ft,2,2023,,174000,Forest View Holiday Park,Forest View Holiday Park,,,Forest View Holiday Park,Y,,
 ABI,Ambleside,,40ft x 13ft,2,2026,,110500,Forest View Holiday Park,Forest View Holiday Park,,,Forest View Holiday Park,,,
 Aspire,Artro,,40ft x 20ft,2,2024,,172995,Forest View Holiday Park,Forest View Holiday Park,,,Forest View Holiday Park,Y,,
 Carnaby,Bayview,,12ft x 35ft,2,2026,,59000,Forest View Holiday Park,Forest View Holiday Park,,,Forest View Holiday Park,,,
@@ -2968,8 +2976,10 @@ ABI,Coworth,2025 ABI Coworth,36ft x 12ft,2,2025,,51295,Gallaber Park,Gallaber Pa
 ABI,Keswick,2025 ABI Keswick,36ft x 12ft,2,2025,,56695,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,,,
 ABI,Ravensdale,2013 ABI Ravensdale,36ft x 12ft,2,2013,,27995,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,,,
 Carnaby,Ashdale,2022 Carnaby Ashdale,35ft x 12ft,2,2022,,42995,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,,,
+Prestige,Forester Lodge,2026 Prestige Forester Lodge,40ft x 20ft,2,2026,,209995,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,Y,,
 Swift,Loire,2024 Swift Loire,35ft x 12ft,2,2024,,44995,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,,,
 Swift,Morlaix,2025 Swift Morlaix,36ft x 12ft,2,2025,,57595,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,,,
+Willerby,Portland,2022 Willerby Portland Lodge,40ft x 16ft,2,2022,,109995,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,Y,,
 Willerby,Sierra,2015 Willerby Sierra,35ft x 12ft,2,2015,,31995,Gallaber Park,Gallaber Park,BD23 4QF,,Thornley Leisure,,,
 ABI,Ambleside Premier,"ABI, Ambleside Premier",40ft x 14ft,2,2026,,82995,Garreg Wen Holiday Park,Garreg Wen Holiday Park,LL49 9YF,"Garreg Wen Holiday Park, North Wales",My Holiday Caravan - Garreg Wen Holiday Park,,,
 ABI,Ambleside Premier,"ABI, Ambleside Premier",41ft x 14ft,3,2026,,83995,Garreg Wen Holiday Park,Garreg Wen Holiday Park,LL49 9YF,"Garreg Wen Holiday Park, North Wales",My Holiday Caravan - Garreg Wen Holiday Park,,,
@@ -3196,6 +3206,7 @@ ABI,Ambleside,2022 Abi Ambleside,40ft x 13ft,2,2022,,128500,Golden Sands Holiday
 ABI,Ambleside Premier,"ABI, Ambleside Premier",40ft x 14ft,2,2025,,75995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 ABI,Ambleside Premier,"ABI, Ambleside Premier",40ft x 14ft,2,2026,,82995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 ABI,Ambleside Premier,"ABI, Ambleside Premier",41ft x 14ft,3,2026,,83995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
+ABI,Belmont Eden,Abi Belmont Eden 2027 (Lodge),,2,2027,,169995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Lodge
 ABI,Coworth,"ABI Coworth 2021 sited at Golden Sands Holiday Park, Mablethorpe, Lincolnshire",,3,2021,,24995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QL,"Golden Sands Holiday Park, Lincolnshire",Private Sale Caravans,,,
 ABI,Derwent,Abi Derwent 2020 (Static Caravan),,2,2020,,52995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Static Caravan
 ABI,Driftwood,"ABI, Driftwood H/F",40ft x 14ft,3,2016,,42995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
@@ -3281,12 +3292,14 @@ Willerby,Avonmore,"Willerby, Avonmore",38ft x 12ft,3,2015,,26686,Golden Sands Ho
 Willerby,Beach Break,"Willerby, Beach Break H/F",35ft x 10ft,3,2017,,15495,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 Willerby,Beach Break,"Willerby, Beach Break H/F",35ft x 10ft,3,2019,,18495,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 Willerby,Brockenhurst,"Willerby, Brockenhurst",38ft x 12ft,3,2016,,27686,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
+Willerby,Cadence,Willerby Cadence 2018 (Lodge),,2,2018,,119995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Lodge
 Willerby,Cranbrook,2023 Willerby Cranbrook,20ft x 40ft,3,2023,,175000,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,Y,,
 Willerby,Ellerton Extra,"Willerby, Ellerton Extra",35ft x 12ft,3,2024,,24995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 Willerby,Ellerton Extra,"Willerby, Ellerton Extra",35ft x 12ft,2,2025,,26495,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 Willerby,Ellerton Extra,"Willerby, Ellerton Extra",35ft x 12ft,3,2026,,27995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 Willerby,Ellerton Extra,"Willerby, Ellerton Extra",35ft x 12ft,3,2026,,29995,Golden Sands Holiday Park,Golden Sands Holiday Park,LN12 1QJ,"Golden Sands Holiday Park, Lincolnshire",My Holiday Caravan - Golden Sands Holiday Park,,,
 Willerby,Etchingham,Willerby Etchingham 2018 (Static Caravan),,2,2018,,36995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Static Caravan
+Willerby,Everleigh,Willerby Everleigh 2018 (Lodge),,2,2018,,109995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Lodge
 Willerby,Grasmere,Willerby Grasmere 2021 (Static Caravan),,3,2021,,49995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Static Caravan
 Willerby,Lamberhurst,Willerby Lamberhurst 2022 (Static Caravan),,3,2022,,64995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,Static Caravan
 Willerby,Lamberhurst,2022 Willerby Lamberhurst,38ft x 12ft,3,2022,,87995,Golden Sands Holiday Park,Golden Sands Holiday Park,,,Myholidayparks,,,
@@ -3399,8 +3412,14 @@ Victory,Festival,,28ft x 12ft,2,2026,,39995,Graston Copse,Graston Copse,DT6 4QP,
 Willerby,Grasmere,,35ft x 12ft,2,2019,,22995,Graston Copse,Graston Copse,DT6 4QP,,West Dorset Leisure Holidays (Cox Family),,,Caravan
 Willerby,Rio Premier,,32ft x 12ft,2,2015,,12995,Graston Copse,Graston Copse,DT6 4QP,,West Dorset Leisure Holidays (Cox Family),,,Caravan
 ABI,Ambleside Premier,ABI Ambleside Premier Holiday Home | 2021,40ft x 14ft,2,2021,,110000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,,,
+ABI,Eden Lodge,ABI Eden Lodge | 2026,40ft x 20ft,2,2026,,224000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,Y,,
+ABI,Kielder Lodge,ABI Kielder Lodge | 2026,44ft x 20ft,4,2026,,219000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,Y,,
 Regal,Charmouth,Regal Charmouth Holiday Home | 2022,42ft x 14ft,2,2022,,129000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,,,
+Victory,Cezanne Lodge,Victory Cezanne Lodge | 2021,42ft x 20ft,2,2021,,225000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,Y,,
 Victory,Harraway,Victory Harraway Holiday Home | 2026,41ft x 12ft,4,2026,,120000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,,,
+Victory,Lakewood Lodge,Victory Lakewood Lodge | 2023,42ft x 14ft,2,2023,,129000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,,,
+Victory,Retreat Lodge,The Retreat Lodge | 2026,50ft x 22ft,2,2026,,379000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,Y,,
+Victory,Retreat Lodge,The Retreat Lodge | 2026,50ft x 22ft,3,2026,,389000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,Y,,
 Victory,Riverwood,Victory Riverwood Holiday Home | 2023,40ft x 13ft,2,2023,,95000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,,,
 Victory,Stonewood,Victory Stonewood Holiday Home | 2021,39ft x 12ft,2,2021,,69000,Green Hill Farm,Green Hill Farm,SP5 2AZ,,Lovat Parks,,,
 ABI,Ambleside Premier,ABI Ambleside Premier Static Caravan - 2 Bedroom,41ft x 14ft,2,2023,,139000,Green Hill Farm Holiday Village,Green Hill Farm Holiday Village,SP5 2AZ,"Green Hill Farm Holiday Village, Landford, Hampshire",Parklink,,For Sale,
@@ -3846,6 +3865,7 @@ Swift,Burgundy,Swift Burgundy 2021 (Static Caravan),,2,2021,,39995,Hedley Wood H
 Swift,Faygate,"Swift, Faygate",40ft x 14ft,2,2026,,94995,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,"Hedley Wood Holiday Park, Cornwall",My Holiday Caravan - Hedley Wood Holiday Park,,,
 Swift,Faygate,Swift Faygate 2026 (Villa),,2,2026,,94995,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,,Myholidayparks,,,Villa
 Swift,Lewabbie,Swift Lewabbie 2023 (Static Caravan),,2,2023,,59995,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,,Myholidayparks,,,Static Caravan
+Swift,Toronto,Swift Toronto 2020 (Lodge),,2,2020,,139995,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,,Myholidayparks,,,Lodge
 Willerby,Etchingham,Willerby Etchingham 2017 (Static Caravan),,3,2017,,29995,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,,Myholidayparks,,,Static Caravan
 Willerby,Etchingham,Willerby Etchingham 2018 (Static Caravan),,3,2018,,32495,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,,Myholidayparks,,,Static Caravan
 Willerby,Everleigh,2022 Willerby Everleigh,20ft x 40ft,3,2022,,224995,Hedley Wood Holiday Park,Hedley Wood Holiday Park,EX22 7ED,,Myholidayparks,Y,,
@@ -4935,6 +4955,7 @@ ABI,Horizon,Abi Horizon 2014 (Static Caravan),,2,2014,,29995,Malvern View Countr
 ABI,Ingleton,Abi Ingleton 2023 (Static Caravan),,3,2023,,89995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
 ABI,Keswick,,36ft x 12ft,2,2025,,69995,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,,Harvey Longsons,,,
 ABI,Keswick,Abi Keswick 2025 (Static Caravan),,2,2025,,69995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
+ABI,Kielder,Abi Kielder 2025 (Lodge),,2,2025,,160000,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Lodge
 ABI,Kingston,Abi Kingston 2025 (Villa),,2,2025,,105000,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Villa
 ABI,Langdale,Abi Langdale 2026 (Villa),,2,2026,,107500,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Villa
 ABI,Oakley,ABI Oakley Static Caravan - 2 Bedroom,38ft x 12ft,2,2023,,75995,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,"Malvern View, Bromyard, Herefordshire",Parklink,,For Sale,
@@ -4968,6 +4989,7 @@ Swift,Bordeaux,Swift Bordeaux Static Caravan - 2 Bedroom,35ft x 12ft,2,2015,,415
 Swift,Bordeaux,Swift Bordeaux 2015 (Static Caravan),,2,2015,,41500,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
 Swift,Bordeaux,Swift Bordeaux 2016,38ft x 12ft,3,2016,,43995,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,"Malvern View, Herefordshire",Park Holidays,,,
 Swift,Bordeaux,Swift Bordeaux 2016 (Static Caravan),,3,2016,,43995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
+Swift,Edmonton,Swift Edmonton 2026 (Lodge),,2,2026,,170000,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Lodge
 Swift,Provence,Swift Provence 2025,35ft x 12ft,2,2025,,68995,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,"Malvern View, Herefordshire",Park Holidays,,,
 Swift,Provence,Swift Provence 2025 (Static Caravan),,2,2025,,68995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
 Victory,Bower,Victory Bower 2024,,2,2024,,84995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,
@@ -4979,6 +5001,7 @@ Willerby,Etchingham,Willerby Etchingham 2016,35ft x 12ft,2,2016,,36995,Malvern V
 Willerby,Etchingham,Willerby Etchingham 2016 (Static Caravan),,2,2016,,36995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
 Willerby,Etchingham,Willerby Etchingham 2017,35ft x 12ft,2,2017,,42995,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,"Malvern View, Herefordshire",Park Holidays,,,
 Willerby,Etchingham,Willerby Etchingham 2017 (Static Caravan),,2,2017,,42995,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
+Willerby,Horsham,Willerby Horsham 2025 (Lodge),40ft x 20ft,2,2025,,165000,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,Y,,Lodge
 Willerby,Jevington,Willerby Jevington 2027,35ft x 12ft,3,2027,,68000,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,"Malvern View, Herefordshire",Park Holidays,,,
 Willerby,Jevington,Willerby Jevington 2027 (Static Caravan),,3,2027,,68000,Malvern View Country & Leisure Park,Malvern View Country & Leisure Park,WR6 5UB,,Myholidayparks,,,Static Caravan
 Willerby,Malton,Willerby Malton 2021,37ft x 12ft,3,2021,,53500,Malvern View,Malvern View Country & Leisure Park,WR6 5UB,"Malvern View, Herefordshire",Park Holidays,,,
@@ -5214,11 +5237,13 @@ Swift,Biarritz,2021 Swift Biarritz Lodge,40ft x 13ft,2,2021,,59950,Morfa Bychan 
 Victory,Grovewood LUX,2018 Victory Grovewood LUX,40ft x 12ft,2,2018,,46790,Morfa Bychan Holiday Park,Morfa Bychan Holiday Park,SY23 4QQ,,Hillandale Caravan Parks,,,
 Victory,Stonewood,2022 Victory Stonewood,35ft x 12ft,2,2022,,44800,Morfa Bychan Holiday Park,Morfa Bychan Holiday Park,SY23 4QQ,,Hillandale Caravan Parks,,,
 ABI,Keswick,2025 ABI Keswick,36ft x 12ft,2,2025,,56695,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,,,
+Carnaby,Chantry Lodge,2023 Carnaby Chantry Lodge,41ft x 13ft,2,2023,,85995,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,,,
 Carnaby,Silverdale,2026 Carnaby Silverdale,39ft x 12ft,2,2026,,59395,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,,,
 Swift,Edmonton,2026 Swift Edmonton,40ft x 20ft,3,2026,,169995,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,Y,,
 Swift,Provence,2025 Swift Provence,35ft x 12ft,2,2025,,60295,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,,,
 Victory,Capri,2016 Victory Capri,39ft x 12ft,2,2016,,31995,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,,,
 Victory,Coaster,2016 Victory Coaster,35ft x 12ft,2,2016,,30995,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,,,
+Willerby,Clearwater Lodge,2024 Willerby Clearwater Lodge,40ft x 20ft,2,2024,,129995,Morfa Lodge Caravan Site,Morfa Lodge Caravan Site,LL54 5TP,,Thornley Leisure,Y,,
 ABI,Beachcomber,2016 ABI Beachcomber,36ft x 12ft,2,2016,,38495,Mounds Holiday Park,Mounds Holiday Park,CH8 9JN,,Lyons Holiday Parks,,,
 Atlas,Azalea,2021 Atlas Azalea,42ft x 13ft,2,2021,,99950,Mouswald Lodge Park,Mouswald Lodge Park,DG1 4JS,,Myholidayparks,,,
 Atlas,Debonair,2021 Atlas Debonair,20ft x 40ft,2,2021,,150000,Mouswald Lodge Park,Mouswald Lodge Park,DG1 4JS,,Myholidayparks,Y,,
@@ -5766,10 +5791,13 @@ ABI,Superior,Abi Superior 2026 (Static Caravan),,2,2026,,149995,Oyster Bay Coast
 ABI,Wimbledon,Abi Wimbledon 2026 (Static Caravan),,2,2026,,94995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
 Atlas,Sahara,Atlas Sahara 2024 (Static Caravan),,2,2024,,54995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
 Pemberton,Avon,Pemberton Avon 2023 (Static Caravan),,3,2023,,72995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
+Prestige,Glass House,Prestige Glass House 2023 (Lodge),,3,2023,,259995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Lodge
 Regal,Hemsworth,Regal Hemsworth 2025 (Villa),,2,2025,,99995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Villa
+Swift,Edmonton,Swift Edmonton 2026 (Lodge),,2,2026,,169995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Lodge
 Swift,Faygate,Swift Faygate 2026 (Villa),,2,2026,,104995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Villa
 Swift,Margaux,Swift Margaux 2026 (Static Caravan),,2,2026,,89995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
 Swift,Provence,Swift Provence 2025 (Static Caravan),,2,2025,,64995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
+Swift,Toronto,Swift Toronto 2026 (Lodge),,2,2026,,199995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Lodge
 Swift,Vendee,Swift Vendee 2026 (Villa),,2,2026,,119995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Villa
 Willerby,Lamberhurst,Willerby Lamberhurst 2024 (Static Caravan),,3,2024,,82995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
 Willerby,Lamberhurst,Willerby Lamberhurst 2024 (Static Caravan),,3,2024,,83995,Oyster Bay Coastal & Country Retreat,Oyster Bay Coastal & Country Retreat,TR4 9QE,,Myholidayparks,,,Static Caravan
@@ -6041,6 +6069,9 @@ ABI,Harrogate,2022 Abi Harrogate,41ft x 20ft,2,2022,,299995,Penmarlam Holiday Pa
 Atlas,Debonair,2022 Atlas Debonair,41ft x 20ft,2,2022,,289995,Penmarlam Holiday Park,Penmarlam Holiday Park,PL23 1LZ,,Myholidayparks,Y,,
 Victory,Parkview,2022 Victory Parkview,40ft x 20ft,2,2022,,314995,Penmarlam Holiday Park,Penmarlam Holiday Park,PL23 1LZ,,Myholidayparks,Y,,
 Victory,Parkview,2022 Victory Parkview,,3,2022,,314995,Penmarlam Holiday Park,Penmarlam Holiday Park,PL23 1LZ,,Myholidayparks,,,
+ABI,Kielder Lodge,ABI Kielder Lodge | 2022,40ft x 20ft,2,2022,,195000,Penmarlam Lodge Retreat,Penmarlam Lodge Retreat,PL23 1LZ,,Lovat Parks,Y,,
+Atlas,Lilac Lodge,Atlas Lilac Lodge | 2021,40ft x 20ft,2,2021,,162500,Penmarlam Lodge Retreat,Penmarlam Lodge Retreat,PL23 1LZ,,Lovat Parks,Y,,
+Delta,Seren Lodge,Delta Seren Lodge | 2023,36ft x 20ft,2,2023,,149000,Penmarlam Lodge Retreat,Penmarlam Lodge Retreat,PL23 1LZ,,Lovat Parks,Y,,
 Willerby,Sheraton,,42ft x 14ft,2,2026,,,Penrith,Penrith,,,Ideal Caravans,,,
 ABI,Blenheim,ABI Blenheim 2020,39ft x 12ft,2,2020,,54995,Pentire,Pentire,EX23 9HP,"Pentire, Cornwall",Park Holidays,,,
 ABI,Superior,ABI Superior 2026,40ft x 20ft,2,2026,,162995,Pentire,Pentire,EX23 9HP,"Pentire, Cornwall",Park Holidays,Y,,
@@ -6235,17 +6266,25 @@ Willerby,Boston,"Willerby, Boston",40ft x 20ft,3,2025,,239995,Plas Coch Country 
 Willerby,Lamberhurst,"Willerby, Lamberhurst",38ft x 12ft,2,2023,,104995,Plas Coch Country  Leisure Retreat,Plas Coch Country  Leisure Retreat,LL61 6EJ,"Plas Coch Country  Leisure Retreat, North Wales",My Holiday Caravan - Plas Coch Country  Leisure Retreat,,,
 ABI,Ambleside Premier,Abi Ambleside Premier 2025 (Villa),14ft x 41ft,2,2025,,144995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
 ABI,Kingston,Abi Kingston 2025 (Villa),14ft x 41ft,3,2025,,134995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
+Aspire,Menai,Aspire Menai 2025 (Lodge),,3,2025,,249995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,Y,,Lodge
+Aspire,Modena,Aspire Modena 2025 (Lodge),,3,2025,,445995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,Y,,Lodge
 Atlas,Debonair,Atlas Debonair 2020 (Static Caravan),,3,2020,,87995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Static Caravan
 Carnaby,Helmsley,Carnaby Helmsley 2019 (Villa),,2,2019,,79995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
 Carnaby,Helmsley,Carnaby Helmsley 2019,,2,2019,,94995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,
 Pemberton,Avon,Pemberton Avon 2023 (Static Caravan),12ft x 38ft,3,2023,,109995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Static Caravan
+Pemberton,Glendale,Pemberton Glendale 2023 (Lodge),,3,2023,,294995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Lodge
 Pemberton,Rivington,Pemberton Rivington 2022,,3,2022,,99500,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,
+Prestige,'Front Row',Prestige 'Front Row' 2026 (Lodge),,3,2026,,424995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Lodge
+Prestige,Elevato,Prestige Elevato 2026 (Lodge),,3,2026,,404995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Lodge
+Prestige,Plantation House,Prestige Plantation House 2023 (Lodge),,3,2023,,209995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Lodge
 Sunseeker,Opulence,Sunseeker Opulence 2026 (Villa),,3,2026,,144995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
+Sunseeker,Sensation,Sunseeker Sensation 2025 (Lodge),,3,2025,,254995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Lodge
 Sunseeker,The Newborough Lodge,Sunseeker The Newborough Lodge 2025 (Villa),14ft x 40ft,3,2025,,129995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
 Victory,Arlington,Victory Arlington 2026 (Villa),,3,2026,,139995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
 Victory,Bower,Victory Bower 2023,,2,2023,,99500,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,
 Victory,Bower,Victory Bower 2023 (Static Caravan),12ft x 40ft,2,2023,,111995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Static Caravan
 Victory,Lakewood Lodge,Victory Lakewood Lodge 2026 (Villa),,3,2026,,149995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Villa
+Willerby,Boston,Willerby Boston 2025 (Lodge),,3,2025,,239995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Lodge
 Willerby,Lamberhurst,Willerby Lamberhurst 2023,,2,2023,,94995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,
 Willerby,Lamberhurst,Willerby Lamberhurst 2023 (Static Caravan),,2,2023,,104995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,Static Caravan
 Willerby,Malton,Willerby Malton 2021,,3,2021,,74995,Plas Coch Country & Leisure Retreat,Plas Coch Country & Leisure Retreat,LL61 6EJ,,Myholidayparks,,,
@@ -6296,6 +6335,7 @@ ABI,Trieste,Abi Trieste 2021 (Static Caravan),,2,2021,,44995,Polperro Holiday Pa
 Atlas,Status,2022 Atlas Status,38ft x 12ft,2,2022,,98475,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,
 Delta,Ascot,Delta Ascot 2018 (Static Caravan),,2,2018,,29995,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,Static Caravan
 Delta,Ascot,Delta Ascot 2018 (Static Caravan),,2,2018,,29995,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,Static Caravan
+Delta,Lakeside,Delta Lakeside 2023 (Lodge),,2,2023,,124995,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,Lodge
 Delta,Superior,Delta Superior 2018 (Static Caravan),,2,2018,,54995,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,Static Caravan
 Regal,Hemsworth,Regal Hemsworth 2026 (Villa),,2,2026,,116995,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,Villa
 Swift,Burgundy,Swift Burgundy 2026 (Static Caravan),12ft x 29ft,2,2026,,59995,Polperro Holiday Park,Polperro Holiday Park,PL13 2JE,,Myholidayparks,,,Static Caravan
@@ -6753,6 +6793,10 @@ Willerby,Linwood,Willerby Linwood 2015 (Static Caravan),,2,2015,,29995,Ribble Va
 Willerby,Malton Elite,Willerby Malton Elite 2026 (Villa),40ft x 14ft,2,2026,,89995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,,,Villa
 Willerby,Mapleton,Willerby Mapleton 2027,40ft x 20ft,2,2027,,154995,Ribble Valley,Ribble Valley Holiday Park,BB7 4ER,"Ribble Valley, Lancashire",Park Holidays,Y,,
 Willerby,Midhurst,Willerby Midhurst 2025 (Static Caravan),,2,2025,,46995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,,,Static Caravan
+Willerby,New Hampshire,Willerby New Hampshire 2014 (Lodge),,3,2014,,89995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,,,Lodge
+Willerby,New Hampshire,Willerby New Hampshire 2015 (Lodge),,2,2015,,89995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,,,Lodge
+Willerby,New Holland,Willerby New Holland 2026 (Lodge),,2,2026,,144995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,,,Lodge
+Willerby,Portland,Willerby Portland 2020 (Lodge),40ft x 20ft,3,2020,,129995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,Y,,Lodge
 Willerby,Vogue Classique,Willerby Vogue Classique 2023,43ft x 14ft,2,2023,,114995,Ribble Valley,Ribble Valley Holiday Park,BB7 4ER,"Ribble Valley, Lancashire",Park Holidays,,,
 Willerby,Winchester MK7,Willerby Winchester Mk 7 2016,38ft x 12.5ft,2,2016,,49995,Ribble Valley,Ribble Valley Holiday Park,BB7 4ER,"Ribble Valley, Lancashire",Park Holidays,,,
 Willerby,Winchester MK7,Willerby Winchester Mk 7 2016 (Static Caravan),38ft x 12ft,2,2016,,49995,Ribble Valley Holiday Park,Ribble Valley Holiday Park,BB7 4ER,,Myholidayparks,,,Static Caravan
@@ -6762,7 +6806,6 @@ Atlas,Sahara,,36ft x 12ft,2,2025,,,Richmond,Richmond,DL10 4TH,,Ideal Caravans,,,
 Swift,Burgundy,,36ft x 12ft,2,2024,,44495,Richmond,Richmond,DL10 4TH,,Ideal Caravans,,,
 Willerby,Ashford,,35ft x 12ft,2,2026,,39995,Richmond,Richmond,DL10 4TH,,Ideal Caravans,,,
 Swift,Provence,,35ft x 12ft,2,2025,,,Ripon,Ripon,,,Ideal Caravans,,,
-,Willow Lodge,,34ft x 20ft,2,,,45000,River Valley,River Valley,TR20 9ER,,Own Your Own Holiday Home (Surf Bay Leisure),Y,,
 ABI,Alderley,,36ft x 12ft,2,,,27000,River Valley,River Valley,TR20 9ER,,Own Your Own Holiday Home (Surf Bay Leisure),,,
 ABI,Alderley,,36ft x 12ft,2,,,30000,River Valley,River Valley,TR20 9ER,,Own Your Own Holiday Home (Surf Bay Leisure),,,
 ABI,Coworth,,36ft x 12ft,2,,,35000,River Valley,River Valley,TR20 9ER,,Own Your Own Holiday Home (Surf Bay Leisure),,,
@@ -7603,8 +7646,10 @@ Willerby,Brookwood,"Willerby, Brookwood",,2,2026,,57995,Seawick Holiday Park,Sea
 Willerby,Brookwood,Willerby Brookwood 2026 (Static Caravan),,2,2026,,57995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Brookwood,Willerby Brookwood 2026 (Static Caravan),,2,2026,,57995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Cadence,"Willerby, Cadence",40ft x 20ft,2,2015,,89995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,"Seawick Holiday Park, Essex",My Holiday Caravan - Seawick Holiday Park,Y,,
+Willerby,Cadence,Willerby Cadence 2015 (Lodge),,2,2015,,89995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Lodge
 Willerby,Caledonia,Willerby Caledonia 2017 (Static Caravan),,3,2017,,27995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Caledonia,Willerby Caledonia 2017 (Static Caravan),,3,2017,,27995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
+Willerby,Clearwater Lodge,Willerby Clearwater Lodge 2018 (Lodge),,2,2018,,99995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Lodge
 Willerby,Etchingham,Willerby Etchingham 2021 (Static Caravan),,2,2021,,36995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Granada,Willerby Granada 2011 (Static Caravan),,2,2011,,24995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Granada,Willerby Granada 2011 (Static Caravan),,2,2011,,24995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
@@ -7614,6 +7659,7 @@ Willerby,Horizon,Willerby Horizon  2011 (Static Caravan),,3,2011,,19995,Seawick 
 Willerby,Horizon,Willerby Horizon  2011 (Static Caravan),,3,2011,,19995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Horizon,Willerby Horizon  2011 (Static Caravan),,3,2011,,19995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Horizon,Willerby Horizon  2011 (Static Caravan),,3,2011,,19995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
+Willerby,Horsham,Willerby Horsham 2024 (Luxury Lodge),,2,2024,,129995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Lodge
 Willerby,Jevington,Willerby Jevington 2027 (Static Caravan),,3,2027,,54995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Jevington,Willerby Jevington 2027 (Static Caravan),,3,2027,,54995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
 Willerby,Johnson Cl,Willerby Johnson Cl 2018 (Static Caravan),,2,2018,,27995,Seawick Holiday Park,Seawick Holiday Park,CO16 8SG,,Myholidayparks,,,Static Caravan
@@ -7707,13 +7753,8 @@ Willerby,Castleton,Willerby Castleton Static Caravan - 3 Bedroom,38ft x 12ft,3,2
 Willerby,Malton,Willerby Malton Static Caravan - 3 Bedroom,37ft x 12ft,3,2024,,55995,Seven Lakes Holiday Park,Seven Lakes Holiday Park,DN17 4BQ,"Seven Lakes Holiday Park, Scunthorpe , Lincolnshire",Parklink,,For Sale,
 Willerby,Sailsbury,Willerby Sailsbury Static Caravan - 2 Bedroom,35ft x 12ft,2,2026,,64995,Seven Lakes Holiday Park,Seven Lakes Holiday Park,DN17 4BQ,"Seven Lakes Holiday Park, Scunthorpe , Lincolnshire",Parklink,,For Sale,
 Willerby,Salsa Eco,Willerby Salsa Eco Static Caravan - 3 Bedroom,35ft x 12ft,3,2012,,31995,Seven Lakes Holiday Park,Seven Lakes Holiday Park,DN17 4BQ,"Seven Lakes Holiday Park, Scunthorpe , Lincolnshire",Parklink,,Sold,
-,Bespoke Super Lodge,,22ft x 52ft,3,2026,,199000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
-,Manasota Lodge,,40ft x 20ft,3,,,180000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
-,Seven Springs Bespoke Lodge,,40ft x 20ft,2,2026,,199000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
-,Seven Springs Super Lodge,,,,,,199995,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
 ,Shalom Lodge,,42ft x 14ft,2,2020,,90000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
 ,Sunny Hill,,43ft x 14ft,2,2021,,119995,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
-,The Larches Bespoke Lodge,,40ft x 20ft,2,,,129995,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
 ABI,Beaumont,,42ft x 14ft,2,,,115000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,,,
 Aspire,Oslo,,40ft x 20ft,2,,,175000,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
 Aspire,Santorini,,40ft x 20ft,2,,,299995,Seven Springs,Seven Springs,SY23 5LZ,,Seven Springs,Y,,
@@ -8385,6 +8426,7 @@ BK Bluebird,Lymington,Bk Bluebird Lymington 2018 (Static Caravan),,2,2018,,24995
 BK Bluebird,Sherborne,BK Bluebird Sherborne Static Caravan - 2 Bedroom,39ft x 12ft,2,2013,,39995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,"Steeple Bay Holiday Park, Steeple, Southminster, Essex",Parklink,,Sold,
 BK Bluebird,Sherborne,Bk Bluebird Sherborne 2013 (Static Caravan),,2,2013,,39995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Cosalt,Torino,2008 Cosalt Torino,35ft x 10ft,3,2008,,16995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,
+Delta,Cambridge,Delta Cambridge Lodge 2016 (Lodge),,2,2016,,99995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Lodge
 Delta,Celebration,Delta Celebration 2012 (Static Caravan),,2,2012,,22995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Delta,Destiny,Delta Destiny 2014 (Static Caravan),,2,2014,,27995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Delta,Hailsham,Delta Hailsham 2023 (Static Caravan),,2,2023,,34995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
@@ -8396,6 +8438,7 @@ Delta,Radiant,Delta Radiant 2013 (Static Caravan),,3,2013,,17995,Steeple Bay Hol
 Delta,Sapphire,Delta Sapphire 2019 (Static Caravan),,3,2019,,29995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Delta,Sofia,Delta Sofia 2015 (Static Caravan),,2,2015,,18995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Delta,Summer,Delta Summer 2012 (Static Caravan),,2,2012,,12995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
+Delta,Superior Lodge,Delta Superior Lodge 2023 (Lodge),,2,2023,,96995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Lodge
 Regal,Hemsworth,2022 Regal Hemsworth,40ft x 13ft,3,2022,,99995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,
 Regal,Tempo,Regal Tempo 2016 (Static Caravan),,3,2016,,37995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Swift,Bordeaux,Swift Bordeaux 2015 (Static Caravan),,2,2015,,28995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
@@ -8404,6 +8447,7 @@ Swift,Moselle,Swift Moselle Static Caravan - 2 Bedroom,38ft x 12ft,2,2013,,32995
 Swift,Moselle,Swift Moselle 2013 (Static Caravan),,2,2013,,32995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Swift,Surfshack,Swift Surfshack 2016 (Static Caravan),,2,2016,,34995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Willerby,Cadence,"Willerby, Cadence",40ft x 20ft,2,2016,,89995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,"Steeple Bay Holiday Park, Essex",My Holiday Caravan - Steeple Bay Holiday Park,Y,,
+Willerby,Cadence,Willerby Cadence 2016 (Lodge),,2,2016,,89995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Lodge
 Willerby,Chamberry,Willerby Chamberry 2015 (Villa),,2,2015,,44995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Villa
 Willerby,Granada,Willerby Granada 2010 (Static Caravan),,2,2010,,19995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,Static Caravan
 Willerby,Lamberhurst,2022 Willerby Lamberhurst,38ft x 12ft,3,2022,,64995,Steeple Bay Holiday Park,Steeple Bay Holiday Park,CM0 7RS,,Myholidayparks,,,
@@ -8429,6 +8473,7 @@ ABI,Arizona Premier,Abi Arizona Premier 2024 (Static Caravan),,2,2024,,52995,Sto
 ABI,Beverley,,39ft x 12ft,2,2026,,74995,Stowford Farm Meadows,Stowford Village,EX34 0PW,,Harvey Longsons,,,
 ABI,Beverley,Abi Beverley 2026 (Static Caravan),,2,2026,,74995,Stowford Village,Stowford Village,EX34 0PW,,Myholidayparks,,,Static Caravan
 ABI,Harrogate,"ABI, Harrogate",41ft x 20ft,2,2027,,229995,Stowford Farm Meadows,Stowford Village,EX34 0PW,"Stowford Farm Meadows, Devon",My Holiday Caravan - Stowford Farm Meadows,Y,,
+ABI,Harrogate,Abi Harrogate 2027 (Lodge),,2,2027,,229995,Stowford Village,Stowford Village,EX34 0PW,,Myholidayparks,,,Lodge
 ABI,Horizon,ABI New Horizon,36ft x 12ft,3,2017,,24995,Stowford Farm Meadows,Stowford Village,EX34 0PW,,Harvey Longsons,,,
 ABI,Horizon,Abi New Horizon 2017 (Static Caravan),,3,2017,,24995,Stowford Village,Stowford Village,EX34 0PW,,Myholidayparks,,,Static Caravan
 ABI,Horizon,ABI New Horizon Static Caravan - 3 Bedroom,36ft x 12ft,3,2017,,29995,Stowford Farm Meadows,Stowford Village,EX34 0PW,"Stowford Farm Meadows, Combe Martin, Devon",Parklink,,For Sale,
@@ -8448,6 +8493,7 @@ Swift,Fishing Boat,Swift Fishing Boat 2017 (Static Caravan),,3,2017,,29995,Stowf
 Swift,Provence,Swift Provence 2025,35ft x 12ft,2,2025,,64995,Stowford Farm Meadows,Stowford Village,EX34 0PW,"Stowford Farm Meadows, Devon",Park Holidays,,,
 Swift,Provence,Swift Provence 2025 (Static Caravan),,2,2025,,64995,Stowford Village,Stowford Village,EX34 0PW,,Myholidayparks,,,Static Caravan
 Swift,Vendee,"Swift, Vendee",42ft x 13ft,2,2022,,99995,Stowford Farm Meadows,Stowford Village,EX34 0PW,"Stowford Farm Meadows, Devon",My Holiday Caravan - Stowford Farm Meadows,,,
+Willerby,Everleigh,Willerby Everleigh 2019 (Lodge),,2,2019,,114995,Stowford Village,Stowford Village,EX34 0PW,,Myholidayparks,,,Lodge
 Willerby,Grasmere,Willerby Grasmere Static Caravan - 3 Bedroom,35ft x 12ft,3,2021,,44995,Stowford Farm Meadows,Stowford Village,EX34 0PW,"Stowford Farm Meadows, Combe Martin, Devon",Parklink,,For Sale,
 Willerby,Grasmere,Willerby Grasmere 2021 (Static Caravan),,3,2021,,44995,Stowford Village,Stowford Village,EX34 0PW,,Myholidayparks,,,Static Caravan
 Willerby,Links Mistral,,35ft x 12ft,2,2020,,29995,Stowford Farm Meadows,Stowford Village,EX34 0PW,,Harvey Longsons,,,
@@ -8506,6 +8552,7 @@ Atlas,Lilac,,40ft x 20ft,3,,,314995,Sun Haven Holiday Park,Sun Haven Holiday Par
 Regal,Seascape,Regal Seascape Holiday Home | 2020,28ft x 12ft,3,2020,,69000,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Lovat Parks,,,
 Victory,Cezanne,2021 Victory Cezanne,40ft x 20ft,2,2021,,329995,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Myholidayparks,Y,,
 Victory,Lakewood,2022 Victory Lakewood,40ft x 14ft,2,2022,,189995,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Myholidayparks,,,
+Victory,Parkview,Victory Parkview Lodge | 2021,40ft x 20ft,2,2021,,169000,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Lovat Parks,Y,,
 Victory,Parkview,,40ft x 20ft,2,,,234995,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Myholidayparks,Y,,
 Victory,Parkview,2022 Victory Parkview,,3,2022,,314995,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Myholidayparks,,,
 Victory,Stonewood,Victory Stonewood Holiday Home | 2021,39ft x 12ft,2,2021,,79995,Sun Haven Holiday Park,Sun Haven Holiday Park,TR8 4BQ,,Lovat Parks,,,
@@ -8705,6 +8752,7 @@ Atlas,Chorus,2022 Atlas Chorus,36ft x 12ft,2,2022,,66995,Tarka Holiday Park,Tark
 Atlas,Status,2022 Atlas Status,38ft x 12ft,2,2022,,82995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,,Myholidayparks,,,
 BK Bluebird,Lymington,Bk Bluebird Lymington 2018 (Static Caravan),,3,2018,,35995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,,Myholidayparks,,,Static Caravan
 Delta,Lakeside,"Delta, Lakeside",40ft x 20ft,2,2023,,129995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,"Tarka Holiday Park, Devon",My Holiday Caravan - Tarka Holiday Park,Y,,
+Delta,Lakeside,Delta Lakeside 2023 (Lodge),,2,2023,,129995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,,Myholidayparks,,,Lodge
 Delta,Radiant,2014 Delta Radiant,35ft x 12ft,2,2014,,34995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,,Myholidayparks,,,
 Delta,Resort Plus,Delta Resort Plus 2014 (Static Caravan),,2,2014,,29995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,,Myholidayparks,,,Static Caravan
 Pemberton,Abingdon,2022 Pemberton Abingdon,40ft x 13ft,3,2022,,119995,Tarka Holiday Park,Tarka Holiday Park,EX31 4AU,,Myholidayparks,,,
@@ -9265,6 +9313,7 @@ Carnaby,The Regis,Carnaby The Regis 2025 (Villa),,2,2025,,89995,Trevella Holiday
 Delta,Lakeside,2022 Delta Lakeside,20ft x 40ft,2,2022,,179995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,Y,,
 Delta,Superior,2016 Delta Superior,41ft x 14ft,3,2016,,84995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,,,
 Delta,Wadhurst,Delta Wadhurst 2022 (Static Caravan),,2,2022,,47995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,,,Static Caravan
+Sunseeker,Stonegate,Sunseeker Stonegate 2026 (Lodge),,2,2026,,169995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,,,Lodge
 Swift,Coastal Retreat,Swift Coastal Retreat 2015 (Static Caravan),,3,2015,,36995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,,,Static Caravan
 Victory,Riverwood,2022 Victory Riverwood,40ft x 14ft,2,2022,,129995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,,,
 Willerby,Avonmore,Willerby Avonmore 2019 (Static Caravan),,2,2019,,54995,Trevella Holiday Park,Trevella Holiday Park,TR8 5EW,,Myholidayparks,,,Static Caravan
@@ -9360,7 +9409,6 @@ Willerby,Acorn,"Willerby, Acorn",45ft x 22ft,3,2021,,195000,Ullswater Heights,Ul
 Willerby,Acorn,"Willerby, Acorn",40ft x 20ft,2,2022,,197412,Ullswater Heights,Ullswater Heights,CA11 0JB,"Ullswater Heights, Lake District And Cumbria",My Holiday Caravan - Ullswater Heights,Y,,
 Willerby,Acorn,"Willerby, Acorn",42ft x 20ft,3,2025,,219651,Ullswater Heights,Ullswater Heights,CA11 0JB,"Ullswater Heights, Lake District And Cumbria",My Holiday Caravan - Ullswater Heights,Y,,
 Willerby,Dorchester,"Willerby, Dorchester",42ft x 14ft,,2023,,105000,Ullswater Heights,Ullswater Heights,CA11 0JB,"Ullswater Heights, Lake District And Cumbria",My Holiday Caravan - Ullswater Heights,,,
-,,Number 11 Underbarrow lodge park,45ft x 20ft,,,,139000,Underbarrow Lodge,Underbarrow Lodge,LA8 8HQ,,Leisure Parks Ltd,Y,,
 ABI,Clarendon,,40ft x 12ft,3,2021,,49995,Unity Beach,Unity Beach,TA8 2RB,,Harvey Longsons,,,
 ABI,Clarendon,ABI Clarendon Static Caravan - 3 Bedroom,40ft x 12ft,3,2017,,49995,Unity Beach,Unity Beach,TA8 2RB,"Unity Beach, Burnham on sea, Somerset",Parklink,,For Sale,
 ABI,Coworth,ABI Coworth Static Caravan - 3 Bedroom,39ft x 12ft,3,2025,,69995,Unity Beach,Unity Beach,TA8 2RB,"Unity Beach, Burnham on sea, Somerset",Parklink,,For Sale,
@@ -9418,7 +9466,9 @@ Swift,Loire,2024 Swift Loire,35ft x 12ft,2,2024,,44095,Valley View Holiday Park,
 Victory,Baywood,2023 Victory Baywood,38ft x 12ft,2,2023,,37995,Valley View Holiday Park,Valley View Holiday Park,SY21 9DL,,Thornley Leisure,,,
 Victory,Ripley,2026 Victory Ripley,38ft x 12ft,2,2026,,59395,Valley View Holiday Park,Valley View Holiday Park,SY21 9DL,,Thornley Leisure,,,
 Willerby,Boston,2026 Willerby Boston,40ft x 20ft,2,2026,,134995,Valley View Holiday Park,Valley View Holiday Park,SY21 9DL,,Thornley Leisure,Y,,
+Willerby,Clearwater Lodge,2022 Willerby Clearwater Lodge,36ft x 20ft,2,2022,,99995,Valley View Holiday Park,Valley View Holiday Park,SY21 9DL,,Thornley Leisure,Y,,
 Willerby,Mistral,2016 Willerby Mistral,35ft x 12ft,3,2016,,29995,Valley View Holiday Park,Valley View Holiday Park,SY21 9DL,,Thornley Leisure,,,
+Willerby,Portland,2022 Willerby Portland Lodge,40ft x 20ft,2,2022,,99995,Valley View Holiday Park,Valley View Holiday Park,SY21 9DL,,Thornley Leisure,Y,,
 Carnaby,Ashdale,2024 Carnaby Ashdale for Sale at Viewfield Manor,36ft x 12ft,2,2024,,43995,Viewfield Manor,Viewfield Manor,KA13 7RD,,Verdant Leisure,,,
 Willerby,Ashford,Brand New 2027 Willerby Ashford Park Special - FRONT DECK INCLUDED,35ft x 12ft,3,2027,,49995,Viewfield Manor,Viewfield Manor,KA13 7RD,,Verdant Leisure,,,
 Willerby,Brookwood,2025 Willerby Brookwood for sale at Viewfield Manor,36ft x 12ft,2,2025,,56300,Viewfield Manor,Viewfield Manor,KA13 7RD,,Verdant Leisure,,,
@@ -9521,6 +9571,7 @@ Delta,Feria,Delta Feria 2015 (Static Caravan),,4,2015,,42995,Waterside Holiday P
 Delta,Hailsham,Delta Hailsham 2020 (Static Caravan),,3,2020,,59995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,,Myholidayparks,,,Static Caravan
 Delta,Radiant,,20ft x 12ft,2,2014,,34995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,,Harvey Longsons,,,
 Delta,Resort Plus,Delta Resort Plus 2014 (Static Caravan),,2,2014,,29995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,,Myholidayparks,,,Static Caravan
+Omar,Westfield,Omar Westfield 2016 (Lodge),,2,2016,,139995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,,Myholidayparks,,,Lodge
 Regal,Retreat,Regal Retreat Static Caravan - 2 Bedroom,32ft x 14ft,2,2026,,93995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,"Waterside Holiday Park, Paignton, Devon",Parklink,,For Sale,
 Regal,Retreat,Regal Retreat 2026 (Static Caravan),,2,2026,,93995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,,Myholidayparks,,,Static Caravan
 Swift,Faygate,Swift Faygate 2026 (Villa),,2,2026,,139995,Waterside Holiday Park,Waterside Holiday Park,TQ4 6NS,,Myholidayparks,,,Villa
@@ -9563,14 +9614,18 @@ ABI,Islay,ABI Islay Holiday Home | 2026,37ft x 12ft,2,2026,,72000,Waxham Sands H
 ABI,Islay,ABI Islay Holiday Home | 2026,39ft x 12ft,3,2026,,79000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
 ABI,Islay,ABI Islay Holiday Home | 2026,37ft x 12ft,2,2026,,83000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
 ABI,Keswick,ABI Keswick Holiday Home | 2024,36ft x 12ft,2,2024,,57000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
+ABI,Kielder Lodge,ABI Kielder Lodge | 2026,41ft x 20ft,3,2026,,180000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,Y,,
+ABI,Kielder Lodge,ABI Kielder Lodge | 2025,41ft x 20ft,3,2025,,185000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,Y,,
 ABI,St David,,,2,2025,,85000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Harvey Longsons,,,
 ABI,Wimbledon,,40ft x 12ft,3,2024,,82000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Harvey Longsons,,,
 ABI,Wimbledon,,40ft x 12ft,3,2025,,92000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Harvey Longsons,,,
 Carnaby,Ashdale,Carnaby Ashdale Holiday Home | 2024,35ft x 12ft,2,2024,,69000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
 Carnaby,Ashdale,,35ft x 12ft,2,2024,,79000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Harvey Longsons,,,
 Delta,Bromley,Delta Bromley Holiday Home | 2021,33ft x 12ft,2,2021,,52000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
+Prestige,Plantation Lodge,Prestige Plantation Lodge | 2025,42ft x 20ft,3,2025,,189500,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,Y,,
 Swift,Burgundy,Swift Burgundy Holiday Home | 2026,29ft x 12ft,2,2026,,58000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
 Victory,Festival,Victory Festival Holiday Home | 2026,35ft x 12ft,2,2026,,59000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
+Victory,Liberte Lodge,Victory Liberte Lodge | 2026,40ft x 20ft,2,2026,,174000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,Y,,
 Willerby,Brookwood,Willerby Brookwood Holiday Home | 2023,28ft x 12ft,2,2023,,55000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Lovat Parks,,,
 Willerby,Manor,,38ft x 12ft,2,2024,,89000,Waxham Sands Holiday Park,Waxham Sands Holiday Park,NR29 4EJ,,Harvey Longsons,,,
 Arronbrook,Luxihome,Pre-owned 2016 Arronbrook Luxihome,35ft x 12ft,2,2016,,26495,Wayside Holiday Park,Wayside Holiday Park,,,Flower of May,,,

@@ -67,7 +67,10 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
   Morris Leisure) > broker (Harvey Longsons, Private Sale Caravans, Ideal, Lloyds, North Wales Caravans,
   I&S Davies) > listing site (My Holiday Caravan, Parklink, Caravan4you, Parkmove, myholidayparks.com).
   Identical caravans on the **same** site are separate units and are all kept.
-- Lodges, park homes and tourers are removed; homes 16ft+ wide are kept and flagged `is_twin`.
+- **Lodges (from Nov 2026):** lodges by a main manufacturer (`MAIN_LODGE_MAKERS` in the scraper) are kept,
+  `property_type = "Lodge"`; bespoke lodges (no recognised make, or a no-make home 20ft+ wide) are dropped.
+  Never drop a caravan just for "Lodge" in its name. Park homes and tourers are removed; homes 16ft+ wide
+  are flagged `is_twin`. Website lodge filter not built yet – owner to choose how lodges show.
 - Sold / under offer listings are left out.
 - **"New"/"brand new" with no year** → current year, `year_assumed = "Y"` (from Nov 2026); shown on the
   caravan page and explained on Past months.
