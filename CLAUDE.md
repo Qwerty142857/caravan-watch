@@ -24,6 +24,7 @@ into `main`, live within a few minutes (users may need Ctrl+F5).
 | `parks.json` / `parks_for_website.csv` | Master parks list (3,363 parks): name, postcode, website, telephone, county, town, region, status, chain, Latitude/Longitude (json only). Keep both in step. |
 | `history/` | Condensed monthly archive (Aug, Sep, Oct 2026 so far) + `months.json` summary |
 | `build_history.py` | `python build_history.py data.json YYYY-MM` – adds/replaces a month in `history/` |
+| `build_places.py` | `python build_places.py data.json` – sets each listing's `county`/`region` (park → postcode district → town → county in advert; same outlines as the pages). Run by `website_update.py` |
 | `build_postcodes.py`, `build_towns.py`, `build_county_map.py` | One-off builders for the map data files |
 
 **File formats – preserve exactly** (or the diff balloons): `parks.json` is `indent=2` with **CRLF** line
@@ -33,7 +34,8 @@ numbers become float/int, empty → null, `is_twin` stays the string "True"/"Fal
 `data.json` columns: name, make, model, dimensions ("35ft x 12ft", longer first), bedrooms, year,
 year_assumed ("Y" or null), location, park, postcode, availability, property_type, price_display,
 price_number, source_site, date_scraped, listing_url, is_twin, canonical_park (standard park name from
-the parks list).
+the parks list), county, region (from `build_places.py`; null if unknown – pages
+use them when a listing can't be matched to a park by name).
 
 ## Where the data comes from (NOT in this repo)
 The scraper lives on the owner's memory stick, `D:\Caravan Scrapper for Drummond` (a complete copy was
@@ -47,7 +49,7 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
   only, models lose advert wording; applies the owner's `make_model_corrections.csv`
   (make,model,new_make,new_model) and saves `make_model_review.csv` (uncertain items for the owner).
 - `website_update.py <that csv>` – postcodes → `combined_all_listings_with_postcodes_<Mon>_<Year>.csv`,
-  writes `website\data.json`, runs `build_history.py`. Rebuilt Oct 2026 identically to what's live.
+  adds county/region (`build_places.py`), writes `website\data.json`, runs `build_history.py`. Rebuilt Oct 2026 identically to what's live.
 - Failing sites save page copies to a `diagnostics\` folder – ask the owner to zip and send it.
 - **This cloud environment cannot reach the scraped websites** (network allowlist). Scraper fixes are
   written blind, tested offline against saved pages/stand-ins, then run by the owner. Ask for the
