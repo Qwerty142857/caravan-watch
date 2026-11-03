@@ -1508,14 +1508,18 @@
     });
   }
 
-  // Town / county / region for a listing, from its park entry where we have
-  // one and from the listing's own columns otherwise. Duplicates dropped so
-  // e.g. a town that matches its county isn't printed twice.
+  // Park name, county and region for a listing: the park's standard name
+  // from the parks list where we have it (else the listing's own park
+  // text), county and region as worked out for the region/county filters.
+  // Duplicates dropped so e.g. a county that matches its region isn't
+  // printed twice.
   function locationBits(d) {
     const p = d._park;
-    const raw = p
-      ? [p.town, p.county, p.region]
-      : [d.town, d.county, d.region];
+    const raw = [
+      (p && p.park_name) || d.canonical_park || d.park || d.location,
+      listingCounty(d) || (p && p.county) || d.county,
+      listingRegion(d)
+    ];
     const out = [];
     raw.forEach(v => {
       const t = String(v ?? '').trim();
@@ -1854,7 +1858,7 @@
     return chips.map(t => '<span class="chip">' + escapeHTML(t) + '</span>').join('');
   }
 
-  // Town on its own line, county and region beneath it.
+  // Park name on its own line, county and region beneath it.
   function locationCell(d) {
     const bits = locationBits(d);
     if (!bits.length) return '<span class="dash">&mdash;</span>';
@@ -1882,7 +1886,7 @@
           <a class="row-name" href="${caravanHref(d)}">${escapeHTML(d.name)} <span class="ext">&rsaquo;</span></a>
           <span class="row-sub">${escapeHTML(d.make)} &middot; ${escapeHTML(d.model)}</span>
         </td>
-        <td class="col-park" data-label="Location"><span class="cell">${locationCell(d)}</span></td>
+        <td class="col-park" data-label="Park/Location"><span class="cell">${locationCell(d)}</span></td>
         <td class="col-num" data-label="Year"><span class="cell">${yearVal}</span></td>
         <td data-label="Size"><span class="cell">${dims}${note}</span></td>
         <td class="col-num" data-label="Beds"><span class="cell">${beds}</span></td>
@@ -1892,7 +1896,7 @@
 
   const SORT_COLUMNS = [
     { field: 'name', label: 'Caravan', cls: 'col-name' },
-    { field: 'location', label: 'Location', cls: 'col-park' },
+    { field: 'location', label: 'Park/Location', cls: 'col-park' },
     { field: 'year', label: 'Year', cls: 'col-num' },
     { field: 'size', label: 'Size', cls: '' },
     { field: 'beds', label: 'Beds', cls: 'col-num' },
