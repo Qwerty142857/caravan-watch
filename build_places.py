@@ -17,8 +17,9 @@ position for as many listings as possible, in this order:
   2. the centre of its postcode district (postcodes.json);
   3. a town named in the advert (location, park or web address)
      that's in towns.json;
-  4. a county named in the advert, or set below for parks that aren't
-     in the parks list (PARK_COUNTY).
+  4. a county named in the advert, set below for parks that aren't in
+     the parks list (PARK_COUNTY), or for a website whose parks are all
+     in one county (SITE_COUNTY).
 
 It then tests that position against the same outlines the pages use,
 so a listing's county and region match the park search and filters.
@@ -56,7 +57,12 @@ PARK_COUNTY = {
     "middlemuir heights holiday park": "South Ayrshire",
     "highfield fisheries": "Lancashire",                # Hambleton
     "coastview shaldon": "Devon",
+    "coniston view": "Cumbria",                         # Pure Leisure, Colt Park, Aldingham LA12 9RU
 }
+# Websites whose adverts don't name a park, but whose parks are all in one
+# county: Blue Anchor Leisure sites its caravans on any of its parks, all on
+# the Lincolnshire coast (owner, Nov 2026).
+SITE_COUNTY = {"Blue Anchor Leisure": "Lincolnshire"}
 # Parks whose name starts like this (McDonnell's "Associated Parks (Plot 13)"
 # and similar): McDonnell Caravans sells only on Norfolk coast parks.
 PARK_PREFIX_COUNTY = [("associated parks (plot", "Norfolk"), ("brancaster", "Norfolk")]
@@ -206,6 +212,8 @@ class Places:
             if piece in self.towns:
                 return (*self.towns[piece], "town")
         text = " " + " ".join(pieces) + " "
+        if row.get("source_site") in SITE_COUNTY:
+            return (*self.county_centre(SITE_COUNTY[row["source_site"]]), "county")
         for word, county in TEXT_COUNTY.items():
             if word in text:
                 return (*self.county_centre(county), "county")
