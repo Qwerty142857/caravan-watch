@@ -109,6 +109,27 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
   operators above and the 4 big aggregators – do the scraper building in a session on that environment.
 - Plan: new operator scrapers (Haven, Parkdean, Park Leisure first) as priority 1 ("chain") sources; fix
   Park Holidays coverage; then re-measure what share still comes only from aggregators.
+- **Progress 6 Nov 2026** – three standalone scrapers written and tested live (given to the owner as
+  `new_operator_scrapers_Nov2026.zip`; not in this repo; each has `scrape()` returning rows in the scraper's
+  column format + `run_new_operator_sites.py`). None needs a browser:
+  - `haven_scraper.py`: haven.com/search-results/caravans?parkCode=XX&page=N (Next.js `self.__next_f`
+    data, 15/page; park codes from the "choose a park" page). 39 parks, **1,739** listings. Pre-order models
+    share one id across parks → dedupe on (park, id). MHC mirrors Haven exactly (same X… ids).
+  - `park_holidays_scraper.py`: JSON at parkholidays.com/getHolidayHomesForSale/from=N&size=100 (size 1000
+    → HTTP 500). 972 homes, **882** for sale (90 Under Offer dropped) vs 746 in Oct. Includes the Park
+    Leisure parks. Title "Make Model Year" (multi-word makes listed in the script; one title says "undefined").
+  - `park_leisure_scraper.py`: parkleisure.co.uk persisted GraphQL (`Items`/`GetLocationData`, header
+    `x-phuk-stack: parkleisure`); 10 parks, 140 for sale. Back-up only – same stock is on parkholidays.com.
+  - **Park Holidays "gap" was mostly aggregator mis-assignment**, not missed listings: e.g. myholidayparks
+    put 169 Clacton-area homes at Seawick (Seawick really has 28). Treat myholidayparks park names with care.
+  - **Parkdean**: Cloudflare "Just a moment" challenge – not scraped; keep MHC for Parkdean (don't try to get
+    round the challenge).
+  - Environment now also allows the bare domains the smaller operators redirect to (unityholidays.co.uk,
+    ladysmile.co.uk, leisureresorts.co.uk, wyldecrestholidayparks.co.uk, ardenparks.co.uk,
+    sandybaypreesall.co.uk, avon-estates.co.uk, ukleisureparks.co.uk, cove.co.uk, sfparks.co.uk –
+    Whitehouse Leisure Park is now under sfparks.co.uk). **Next:** scrapers for those; then the owner wires
+    the new ones into `combined_full_scraper.py` (Haven/Park Leisure as chain-tier sources, Park Holidays
+    replacing `scrape_park_holidays`) and we re-measure the aggregator share on the next scrape.
 
 ## Open items (as of 1 Nov 2026)
 - Apply the "new = current year" rule to all sites? (Holgates, St David's, Larkham, Wood Leisure have
