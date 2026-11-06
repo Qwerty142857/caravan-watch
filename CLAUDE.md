@@ -143,6 +143,7 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
     Skipped: Leisure Resorts (only "from £X" ranges), Sandy Bay Preesall (no prices published).
   - Aggregator park assignment again looks loose: MHC put 63 at Whitehouse (SF Parks has 4 there), and
     Seal Bay 66 on aggregators vs 23 on its own site.
+  - Owner's full run of all new scrapers (6 Nov): 2,917 rows, matches the tests (Haven 1,738 – one sold since).
   - **Next:** the owner wires
     the new ones into `combined_full_scraper.py` (Haven/Park Leisure as chain-tier sources, Park Holidays
     replacing `scrape_park_holidays`; small operators as "park's own operator" tier) and we re-measure the aggregator share on the next scrape.
