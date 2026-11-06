@@ -109,6 +109,68 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
   operators above and the 4 big aggregators – do the scraper building in a session on that environment.
 - Plan: new operator scrapers (Haven, Parkdean, Park Leisure first) as priority 1 ("chain") sources; fix
   Park Holidays coverage; then re-measure what share still comes only from aggregators.
+- **Progress 6 Nov 2026** – three standalone scrapers written and tested live (given to the owner as
+  `new_operator_scrapers_Nov2026.zip`; not in this repo; each has `scrape()` returning rows in the scraper's
+  column format + `run_new_operator_sites.py`). None needs a browser:
+  - `haven_scraper.py`: haven.com/search-results/caravans?parkCode=XX&page=N (Next.js `self.__next_f`
+    data, 15/page; park codes from the "choose a park" page). 39 parks, **1,739** listings. Pre-order models
+    share one id across parks → dedupe on (park, id). MHC mirrors Haven exactly (same X… ids).
+    468 of the 1,739 are such "Pre-order" catalogue models (49 models × 39 parks, ids `to-…`); MHC carried
+    458 of them in Oct. **Owner decided (6 Nov): keep them all, one per park** – prices differ by park
+    (e.g. Ashberry £39,995–£54,995), so they aren't treated as duplicates. No scraper change needed. Owner's own run (6 Nov) matched the test exactly.
+  - `park_holidays_scraper.py`: JSON at parkholidays.com/getHolidayHomesForSale/from=N&size=100 (size 1000
+    → HTTP 500). 972 homes, **882** for sale (90 Under Offer dropped) vs 746 in Oct. Includes the Park
+    Leisure parks. Title "Make Model Year" (multi-word makes listed in the script; one title says "undefined").
+  - `park_leisure_scraper.py`: parkleisure.co.uk persisted GraphQL (`Items`/`GetLocationData`, header
+    `x-phuk-stack: parkleisure`); 10 parks, 140 for sale. Back-up only – same stock is on parkholidays.com.
+  - **Park Holidays "gap" was mostly aggregator mis-assignment**, not missed listings: e.g. myholidayparks
+    put 169 Clacton-area homes at Seawick (Seawick really has 28). Treat myholidayparks park names with care.
+  - **Parkdean**: Cloudflare "Just a moment" challenge – not scraped; keep MHC for Parkdean (don't try to get
+    round the challenge).
+  - Environment now also allows the bare domains the smaller operators redirect to (unityholidays.co.uk,
+    ladysmile.co.uk, leisureresorts.co.uk, wyldecrestholidayparks.co.uk, ardenparks.co.uk,
+    sandybaypreesall.co.uk, avon-estates.co.uk, ukleisureparks.co.uk, cove.co.uk, sfparks.co.uk –
+    Whitehouse Leisure Park is now under sfparks.co.uk).
+  - **`small_operators_scraper.py`** (6 Nov, tested live, ~297 listings): Unity 73 (WP `/ownership/holiday-homes/
+    all-stock/` cards carry `data-item-meta` JSON; homes with no park tag → park from the sales phone on the
+    detail page), Ladysmile 16 (WP REST `holidayhomesforsale` acf; `which_park` lm/oak/sold; free-text sizes),
+    Wyldecrest 58 (REST `holiday-homes` list + each detail page for price/size), Arden 15 (WooCommerce Store
+    API; holiday-park categories only, residential/park homes skipped), Avon Estates 14 (`/holiday-home-search/`
+    `property-card` classes; 3 lodges tagged "Firefly Fields" but under Dovecote's pages – postcode left
+    blank), UK Leisure Parks 56 (REST `sale` acf: price, size, beds, sale_option; few years), Seal Bay 23
+    (cove.co.uk list page), SF Parks 42 (park-specific only via `?site=sgg|whlp|sbcp|sunvalley&ppp=-1`;
+    the other ~98 are North Wales Caravans stock "on a range of parks", left to the NWC scraper).
+    Skipped: Leisure Resorts (only "from £X" ranges), Sandy Bay Preesall (no prices published).
+  - Aggregator park assignment again looks loose: MHC put 63 at Whitehouse (SF Parks has 4 there), and
+    Seal Bay 66 on aggregators vs 23 on its own site.
+  - Owner's full run of all new scrapers (6 Nov): 2,917 rows, matches the tests (Haven 1,738 – one sold since).
+  - **Wired in (6 Nov, `scraper_update_Nov2026.zip`)**: `combined_full_scraper.py` gets
+    `OPERATOR_SITE_SCRIPTS` / `_run_operator_site()` (imports haven/park_holidays/small_operators scripts from
+    `extra_sites\` and calls their functions – no CSV), run before Track 1; Track 1's "Park Holidays" entry now
+    uses `park_holidays_scraper.py` (old `scrape_parkholidays` asked for "Static Caravan" type only – missed
+    ~130 Villas + lodges – and kept Under Offer; left in the file unused); "Haven"/"Park Leisure" added to
+    `CHAIN_OPERATOR_SOURCES`; new `drop_mhc_copies_of_haven()` (MHC link ends in Haven's stock number; `to-…`
+    pre-order ids must also match park) runs before `drop_lookalike_copies`; post_process now drops rows whose
+    `availability` says Sold/Reserved/Under offer (Oct live data had 130: Parklink 111). Only 3 original lines
+    changed. Test: post_process on Oct data.json (minus PH) + owner's 6 Nov new-site CSV → 12,023 in, 9,519 out;
+    every new-source row kept except bespoke lodges. (Test ran without `make_model_cleanup.py`, not available here.)
+  - **Partial update (6 Nov, owner's request – no full re-run until end of Nov)**: live data.json (31 Oct) minus
+    old Park Holidays rows + owner's 6 Nov operator-site run, through the new post_process (with the owner's
+    make_model_cleanup.py, corrections, aliases, postcode lookup) and website_update.py steps 1–6. **History
+    archive NOT changed** (Oct stays as published; Nov to be added from the end-of-month full run).
+    Result 9,424 listings (was 9,852): operators' own sites 35% → 60%, listing sites 57% → 34%, brokers 6%;
+    0 sold/reserved. Pages say "Last updated 6 November 2026". Fixes made along the way (also in the scrapers
+    sent to the owner): Haven `tidy_model()` strips Haven's notes ("(Storage)", "H/F", "Deck"); SF Parks and
+    Wyldecrest postcodes set in the scraper (Wyldecrest's Bradgate Park is Kent CT9 4LG, not LE6 0HE; Seaview
+    Park Cornwall = Sennen TR19 7AD); `drop_lookalike_copies` treats a one-number size ("10ft", MHC Seal Bay)
+    as unknown; alias row Kiln Park Holiday Centre→itself (Haven gives it SA70 7RB = Penally Court's postcode).
+  - **park.html now matches listings by postcode too** (plus canonical_park), not only by the advert's park
+    name: before, 2,074 live listings (21%) appeared on no park page; now 343 (Blue Anchor 96 the biggest).
+    Shared postcodes need a shared distinctive word; a listing named exactly as another listed park stays
+    with that park. ~850 listings show on 2+ park pages, almost all duplicate rows in the parks list (Amble
+    Links ×3, St Osyth ×3, Brynteg ×3, Plas Coch ×2…) – worth tidying the parks list.
+  - **Next:** owner installs `scraper_update_Nov2026.zip` (re-sent with the fixes above + updated
+    park_name_aliases.csv) and runs the full month at the end of November.
 
 ## Open items (as of 1 Nov 2026)
 - Apply the "new = current year" rule to all sites? (Holgates, St David's, Larkham, Wood Leisure have
