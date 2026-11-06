@@ -69,6 +69,9 @@ given to the owner as `Caravan_Watch_Complete_Nov2026.zip`, with a README). The 
   Morris Leisure) > broker (Harvey Longsons, Private Sale Caravans, Ideal, Lloyds, North Wales Caravans,
   I&S Davies) > listing site (My Holiday Caravan, Parklink, Caravan4you, Parkmove, myholidayparks.com).
   Identical caravans on the **same** site are separate units and are all kept.
+  Since Nov 2026 a final pass (`drop_lookalike_copies` in the scraper) also matches on the standard park
+  name (canonical_park) + make + model + price, with year (±1) and size (±1ft) agreeing or missing; the
+  kept copy takes any year/size/bedrooms/postcode only the dropped copy had.
 - **Lodges (from Nov 2026):** lodges by a main manufacturer (`MAIN_LODGE_MAKERS` in the scraper) are kept,
   `property_type = "Lodge"`; bespoke lodges (no recognised make, or a no-make home 20ft+ wide) are dropped.
   Never drop a caravan just for "Lodge" in its name. Park homes and tourers are removed; homes 16ft+ wide
@@ -88,6 +91,24 @@ python3 -m http.server 8765      # from the repo root, in the background
 Load the pages with Playwright (pre-installed: `require('playwright')`, `chromium.launch()`), check for
 page errors and that counts look right, at desktop and phone width (390px, no sideways scrolling).
 Stop the server with `kill $(pgrep -f "[h]ttp.server 8765")` (a bare `pkill -f` matches its own shell).
+
+## Sources project (started 6 Nov 2026) – rely less on aggregators
+Owner's aim: get listings from the operators' own websites (primary) and use aggregators only as back-up.
+October 2026 analysis (`data.json`, parks matched by canonical_park / postcode / name):
+- Aggregators gave ~6,700 of 10,161 listings: My Holiday Caravan 3,610, myholidayparks 1,009, Parklink 992,
+  Harvey Longsons 653, Caravan4you 235, Private Sale 68 (+ brokers Ideal, Lloyds, NWC, I&S Davies, Parkmove).
+- Operators NOT scraped directly, by aggregator listings: **Haven 1,734** (36 parks, almost all via MHC),
+  **Parkdean 920** (55 parks, MHC), **Park Leisure 208**, Unity 58, Ladysmile 34, Leisure Resorts 24,
+  Wyldecrest 22, Arden 20, Sandy Bay Preesall 19, Avon Estates 17, UK Leisure Parks 16, … ; independents
+  with the most: Seal Bay Resort (cove.co.uk) 79, Whitehouse Leisure Park 63, Greenacres 37.
+- **Park Holidays is scraped but incomplete**: aggregators show 1,233 more listings on its parks (Seawick
+  196 vs 26 direct; 14 PH parks with no direct listings) – check `scrape_park_holidays` gets every park/page.
+- ~340 cross-site double counts fixed by `drop_lookalike_copies` (Oct data now 9,852 listings).
+- This cloud environment can't reach the sites; a personal environment **caravan_watch** was created
+  (6 Nov 2026) allowing haven.com, parkdeanresorts.co.uk, parkholidays.com, parkleisure.co.uk, the other
+  operators above and the 4 big aggregators – do the scraper building in a session on that environment.
+- Plan: new operator scrapers (Haven, Parkdean, Park Leisure first) as priority 1 ("chain") sources; fix
+  Park Holidays coverage; then re-measure what share still comes only from aggregators.
 
 ## Open items (as of 1 Nov 2026)
 - Apply the "new = current year" rule to all sites? (Holgates, St David's, Larkham, Wood Leisure have
