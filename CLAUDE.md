@@ -144,9 +144,17 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
   - Aggregator park assignment again looks loose: MHC put 63 at Whitehouse (SF Parks has 4 there), and
     Seal Bay 66 on aggregators vs 23 on its own site.
   - Owner's full run of all new scrapers (6 Nov): 2,917 rows, matches the tests (Haven 1,738 – one sold since).
-  - **Next:** the owner wires
-    the new ones into `combined_full_scraper.py` (Haven/Park Leisure as chain-tier sources, Park Holidays
-    replacing `scrape_park_holidays`; small operators as "park's own operator" tier) and we re-measure the aggregator share on the next scrape.
+  - **Wired in (6 Nov, `scraper_update_Nov2026.zip`)**: `combined_full_scraper.py` gets
+    `OPERATOR_SITE_SCRIPTS` / `_run_operator_site()` (imports haven/park_holidays/small_operators scripts from
+    `extra_sites\` and calls their functions – no CSV), run before Track 1; Track 1's "Park Holidays" entry now
+    uses `park_holidays_scraper.py` (old `scrape_parkholidays` asked for "Static Caravan" type only – missed
+    ~130 Villas + lodges – and kept Under Offer; left in the file unused); "Haven"/"Park Leisure" added to
+    `CHAIN_OPERATOR_SOURCES`; new `drop_mhc_copies_of_haven()` (MHC link ends in Haven's stock number; `to-…`
+    pre-order ids must also match park) runs before `drop_lookalike_copies`; post_process now drops rows whose
+    `availability` says Sold/Reserved/Under offer (Oct live data had 130: Parklink 111). Only 3 original lines
+    changed. Test: post_process on Oct data.json (minus PH) + owner's 6 Nov new-site CSV → 12,023 in, 9,519 out;
+    every new-source row kept except bespoke lodges. (Test ran without `make_model_cleanup.py`, not available here.)
+  - **Next:** owner installs the update and runs a full month; then re-measure the aggregator share.
 
 ## Open items (as of 1 Nov 2026)
 - Apply the "new = current year" rule to all sites? (Holgates, St David's, Larkham, Wood Leisure have
