@@ -130,9 +130,22 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
   - Environment now also allows the bare domains the smaller operators redirect to (unityholidays.co.uk,
     ladysmile.co.uk, leisureresorts.co.uk, wyldecrestholidayparks.co.uk, ardenparks.co.uk,
     sandybaypreesall.co.uk, avon-estates.co.uk, ukleisureparks.co.uk, cove.co.uk, sfparks.co.uk –
-    Whitehouse Leisure Park is now under sfparks.co.uk). **Next:** scrapers for those; then the owner wires
+    Whitehouse Leisure Park is now under sfparks.co.uk).
+  - **`small_operators_scraper.py`** (6 Nov, tested live, ~297 listings): Unity 73 (WP `/ownership/holiday-homes/
+    all-stock/` cards carry `data-item-meta` JSON; homes with no park tag → park from the sales phone on the
+    detail page), Ladysmile 16 (WP REST `holidayhomesforsale` acf; `which_park` lm/oak/sold; free-text sizes),
+    Wyldecrest 58 (REST `holiday-homes` list + each detail page for price/size), Arden 15 (WooCommerce Store
+    API; holiday-park categories only, residential/park homes skipped), Avon Estates 14 (`/holiday-home-search/`
+    `property-card` classes; 3 lodges tagged "Firefly Fields" but under Dovecote's pages – postcode left
+    blank), UK Leisure Parks 56 (REST `sale` acf: price, size, beds, sale_option; few years), Seal Bay 23
+    (cove.co.uk list page), SF Parks 42 (park-specific only via `?site=sgg|whlp|sbcp|sunvalley&ppp=-1`;
+    the other ~98 are North Wales Caravans stock "on a range of parks", left to the NWC scraper).
+    Skipped: Leisure Resorts (only "from £X" ranges), Sandy Bay Preesall (no prices published).
+  - Aggregator park assignment again looks loose: MHC put 63 at Whitehouse (SF Parks has 4 there), and
+    Seal Bay 66 on aggregators vs 23 on its own site.
+  - **Next:** the owner wires
     the new ones into `combined_full_scraper.py` (Haven/Park Leisure as chain-tier sources, Park Holidays
-    replacing `scrape_park_holidays`) and we re-measure the aggregator share on the next scrape.
+    replacing `scrape_park_holidays`; small operators as "park's own operator" tier) and we re-measure the aggregator share on the next scrape.
 
 ## Open items (as of 1 Nov 2026)
 - Apply the "new = current year" rule to all sites? (Holgates, St David's, Larkham, Wood Leisure have
