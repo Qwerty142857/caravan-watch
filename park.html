@@ -659,7 +659,7 @@ if (!wantName) {
         return;
       }
       render(p);
-      initListings(p, listings || []);
+      initListings(p, listings || [], parks);
     })
     .catch(err => {
       console.error(err);
@@ -780,13 +780,40 @@ function normPark(str) {
     .join(' ');
 }
 
-function listingsForPark(parkName, allListings) {
+// Words that don't tell two parks apart ("Golden Sands Holiday Park" vs
+// "Golden Sands Caravan Park" share only "golden sands").
+const PARK_FILLER = new Set(['holiday', 'holidays', 'park', 'parks', 'caravan', 'caravans', 'country',
+  'leisure', 'village', 'resort', 'coastal', 'retreat', 'centre', 'center', 'the', 'home', 'homes',
+  'lodge', 'lodges', 'estate', 'club', 'spa', 'beach', 'sands', 'bay', 'farm', 'touring', 'camping']);
+function distinctWords(str) {
+  return normPark(str).split(' ').filter(w => w && !PARK_FILLER.has(w));
+}
+
+// November 2026: listings are matched on the park's postcode as well as its
+// name - operators' own sites often name a park differently from the parks
+// list ("Cala Gran Holiday Park" vs "Cala Gran Holiday Home Park"). Where the
+// parks list has several parks at one postcode, the listing's park name must
+// also share a distinctive word with this park's name.
+function listingsForPark(p, allListings, allParks) {
+  const parkName = p.park_name;
   const target = normPark(parkName);
   if (!target) return [];
   const key = d => normPark((d.location || '').split(',')[0]);
+  const pc = String(p.postcode || '').trim().toUpperCase();
+  const sharedPc = pc && (allParks || []).filter(x => String(x.postcode || '').trim().toUpperCase() === pc).length > 1;
+  const mine = new Set(distinctWords(parkName));
+  const knownNames = new Set((allParks || []).map(x => normPark(x.park_name)));
+  const samePostcode = d => {
+    if (!pc || String(d.postcode || '').trim().toUpperCase() !== pc) return false;
+    const name = d.canonical_park || d.park || (d.location || '').split(',')[0];
+    // a listing whose park is another park on the list belongs to that one
+    if (knownNames.has(normPark(name)) && normPark(name) !== target) return false;
+    if (!sharedPc) return true;
+    return distinctWords(name).some(w => mine.has(w));
+  };
 
-  const exact = allListings.filter(d => key(d) === target);
-  if (exact.length) return exact;
+  const found = allListings.filter(d => key(d) === target || normPark(d.canonical_park) === target || samePostcode(d));
+  if (found.length) return found;
 
   return allListings.filter(d => {
     const k = key(d);
@@ -805,8 +832,8 @@ const listingsEmptyEl = document.getElementById('listings-empty');
 const listingsPaginationEl = document.getElementById('listings-pagination');
 const listingsSortEl = document.getElementById('listings-sort');
 
-function initListings(p, allListings) {
-  parkListings = listingsForPark(p.park_name, allListings);
+function initListings(p, allListings, allParks) {
+  parkListings = listingsForPark(p, allListings, allParks);
   parkListings.forEach(d => {
     if (typeof d._idx !== 'number') {
       const idx = allListings.indexOf(d);

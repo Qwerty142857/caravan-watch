@@ -154,7 +154,23 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
     `availability` says Sold/Reserved/Under offer (Oct live data had 130: Parklink 111). Only 3 original lines
     changed. Test: post_process on Oct data.json (minus PH) + owner's 6 Nov new-site CSV → 12,023 in, 9,519 out;
     every new-source row kept except bespoke lodges. (Test ran without `make_model_cleanup.py`, not available here.)
-  - **Next:** owner installs the update and runs a full month; then re-measure the aggregator share.
+  - **Partial update (6 Nov, owner's request – no full re-run until end of Nov)**: live data.json (31 Oct) minus
+    old Park Holidays rows + owner's 6 Nov operator-site run, through the new post_process (with the owner's
+    make_model_cleanup.py, corrections, aliases, postcode lookup) and website_update.py steps 1–6. **History
+    archive NOT changed** (Oct stays as published; Nov to be added from the end-of-month full run).
+    Result 9,424 listings (was 9,852): operators' own sites 35% → 60%, listing sites 57% → 34%, brokers 6%;
+    0 sold/reserved. Pages say "Last updated 6 November 2026". Fixes made along the way (also in the scrapers
+    sent to the owner): Haven `tidy_model()` strips Haven's notes ("(Storage)", "H/F", "Deck"); SF Parks and
+    Wyldecrest postcodes set in the scraper (Wyldecrest's Bradgate Park is Kent CT9 4LG, not LE6 0HE; Seaview
+    Park Cornwall = Sennen TR19 7AD); `drop_lookalike_copies` treats a one-number size ("10ft", MHC Seal Bay)
+    as unknown; alias row Kiln Park Holiday Centre→itself (Haven gives it SA70 7RB = Penally Court's postcode).
+  - **park.html now matches listings by postcode too** (plus canonical_park), not only by the advert's park
+    name: before, 2,074 live listings (21%) appeared on no park page; now 343 (Blue Anchor 96 the biggest).
+    Shared postcodes need a shared distinctive word; a listing named exactly as another listed park stays
+    with that park. ~850 listings show on 2+ park pages, almost all duplicate rows in the parks list (Amble
+    Links ×3, St Osyth ×3, Brynteg ×3, Plas Coch ×2…) – worth tidying the parks list.
+  - **Next:** owner installs `scraper_update_Nov2026.zip` (re-sent with the fixes above + updated
+    park_name_aliases.csv) and runs the full month at the end of November.
 
 ## Open items (as of 1 Nov 2026)
 - Apply the "new = current year" rule to all sites? (Holgates, St David's, Larkham, Wood Leisure have
