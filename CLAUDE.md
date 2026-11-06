@@ -116,7 +116,8 @@ October 2026 analysis (`data.json`, parks matched by canonical_park / postcode /
     data, 15/page; park codes from the "choose a park" page). 39 parks, **1,739** listings. Pre-order models
     share one id across parks → dedupe on (park, id). MHC mirrors Haven exactly (same X… ids).
     468 of the 1,739 are such "Pre-order" catalogue models (49 models × 39 parks, ids `to-…`); MHC carried
-    458 of them in Oct. Owner to decide whether to keep them. Owner's own run (6 Nov) matched the test exactly.
+    458 of them in Oct. **Owner decided (6 Nov): keep them all, one per park** – prices differ by park
+    (e.g. Ashberry £39,995–£54,995), so they aren't treated as duplicates. No scraper change needed. Owner's own run (6 Nov) matched the test exactly.
   - `park_holidays_scraper.py`: JSON at parkholidays.com/getHolidayHomesForSale/from=N&size=100 (size 1000
     → HTTP 500). 972 homes, **882** for sale (90 Under Offer dropped) vs 746 in Oct. Includes the Park
     Leisure parks. Title "Make Model Year" (multi-word makes listed in the script; one title says "undefined").
